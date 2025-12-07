@@ -5,8 +5,8 @@ import numpy as np
 import pandas as pd
 from pydantic import BaseModel
 from sklearn.preprocessing import MinMaxScaler
-from fastapi import FastAPI, File, UploadFile, Form
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from fastapi import FastAPI, File, UploadFile, Form, HTTPException
 
 app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE')
 logging.basicConfig(level=logging.DEBUG)
@@ -85,7 +85,7 @@ async def forecast_demand(
         discount_plan = await discount_plan_csv.read()
         discount_plan = pd.read_csv(io.BytesIO(discount_plan))
 
-        forecast, horizon = train_and_forecast(sales, discount_plan)
+        forecast, horizon = train_and_forecast(sales, discount_plan, product)
         total_demand = sum(forecast)
 
         return {
