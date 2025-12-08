@@ -105,7 +105,7 @@ def home():
     return {'message': 'Demand Forecasting API is running'}
 
 @app.post('/forecast')
-async def forecast_demand(
+def forecast_demand(
     address: str = Form(...),
     product: str = Form(...),
     sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Quantity, Discount] in the past. At least 14 days to forecast.'),
@@ -114,9 +114,9 @@ async def forecast_demand(
 ):
     try:
         # Read CSV
-        sales = await sales_csv.read()
+        sales = sales_csv.file.read()
         sales = pd.read_csv(io.BytesIO(sales))
-        discount_plan = await discount_plan_csv.read()
+        discount_plan = discount_plan_csv.file.read()
         discount_plan = pd.read_csv(io.BytesIO(discount_plan))
 
         # Forecast
