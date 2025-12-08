@@ -6,3 +6,4 @@ pandas
 scikit-learn
 statsmodels
 python-multipart
+psycopg2
