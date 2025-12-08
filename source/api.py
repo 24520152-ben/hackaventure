@@ -41,7 +41,7 @@ logger = logging.getLogger(__name__)
 
 # SQLite configuration
 HEATMAP_DATABASE = os.environ.get('DATABASE_URL')
-engine = create_engine(url=HEATMAP_DATABASE, connect_args={'check_same_thread': False})
+engine = create_engine(url=HEATMAP_DATABASE, echo=False)
 
 # Train and forecast
 def train_and_forecast(sales: pd.DataFrame, discount_plan: pd.DataFrame, product: str):
