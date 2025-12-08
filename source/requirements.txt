@@ -7,3 +7,5 @@ scikit-learn
 statsmodels
 python-multipart
 psycopg2
+sqlalchemy
+asyncpg
