@@ -40,7 +40,7 @@ logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
 # SQLite configuration
-HEATMAP_DATABASE = f'sqlite:///{os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'heatmap.db')}'
+HEATMAP_DATABASE = os.environ.get('DATABASE_URL')
 engine = create_engine(url=HEATMAP_DATABASE, connect_args={'check_same_thread': False})
 
 # Train and forecast
