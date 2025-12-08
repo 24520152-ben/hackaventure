@@ -166,5 +166,25 @@ async def forecast_demand(
         logger.exception('Internal Server Error')
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.get('/product')
+def get_unique_products(db: Session = Depends(get_session)):
+    statement = select(HeatMap.product).distinct()
+    results = db.exec(statement).all()
+    return {
+        'products': results,
+    }
+
+@app.get('/heatmap')
+def get_heatmap_by_product(
+    product: str,
+    db: Session = Depends(get_session),
+):
+    statement = select(HeatMap).where(HeatMap.product == product)
+    results = db.exec(statement).all()
+    return {
+        'product': product,
+        'data': results,
+    }
+
 if __name__ == '__main__':
     uvicorn.run(app, host='0.0.0.0', port=8000)
