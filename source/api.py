@@ -36,6 +36,14 @@ async def lifespan(app: FastAPI):
 
 # FastAPI configuration
 app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE', lifespan=lifespan)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=['https://hackaventure-fe.vercel.app/'],
+    allow_credentials=True,
+    allow_methods=['*'],
+    allow_headers=['*'],
+)
+
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
