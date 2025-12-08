@@ -1,17 +1,47 @@
 import io
+import os
 import uvicorn
 import logging
 import numpy as np
 import pandas as pd
 from pydantic import BaseModel
+from typing import Optional, Generator
 from sklearn.preprocessing import MinMaxScaler
+from datetime import datetime, date, timedelta
 from statsmodels.tsa.statespace.sarimax import SARIMAX
-from fastapi import FastAPI, File, UploadFile, Form, HTTPException
+from sqlmodel import create_engine, SQLModel, Field, Session, select
+from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Depends
 
+# FastAPI configuration
 app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE')
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
+# SQLite configuration
+HEATMAP_DATABASE = f'sqlite:///{os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'heatmap.db')}'
+engine = create_engine(url=HEATMAP_DATABASE, connect_args={'check_same_thread': False})
+
+# Database and table defining (SQLModel)
+class HeatMap(SQLModel, table=True):
+    id: Optional[int] = Field(default=None, primary_key=True)
+    address: str = Field(index=True)
+    product: str = Field(index=True)
+    daily_demand: float
+    target_date: date = Field(index=True)
+    last_updated: date = Field(default_factory=datetime.utcnow)
+
+def create_database_and_table():
+    SQLModel.metadata.create_all(engine)
+
+def get_session() -> Generator:
+    with Session(engine) as session:
+        yield session
+
+@app.on_event('startup')
+def startup_event():
+    create_database_and_table()
+
+# Train and forecast
 def train_and_forecast(sales: pd.DataFrame, discount_plan: pd.DataFrame, product: str):
     # Sale processing
     required_columns = ['Date', 'Product', 'Quantity', 'Discount']
@@ -78,15 +108,47 @@ async def forecast_demand(
     product: str = Form(...),
     sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Quantity, Discount] in the past. At least 14 days to forecast.'),
     discount_plan_csv: UploadFile = File(..., description=f'CSV file with a column: [Discount] in the future. If you want to forecast the next 7 days, Discount must have 7 rows.'),
+    db: Session = Depends(get_session),
 ):
     try:
+        # Read CSV
         sales = await sales_csv.read()
         sales = pd.read_csv(io.BytesIO(sales))
         discount_plan = await discount_plan_csv.read()
         discount_plan = pd.read_csv(io.BytesIO(discount_plan))
 
+        # Forecast
         forecast, horizon = train_and_forecast(sales, discount_plan, product)
         total_demand = sum(forecast)
+
+        today = date.today()
+        for i, daily_demand in enumerate(forecast, start=1):
+            # Start forecasting from tomorrow
+            current_target_date = today + timedelta(days=i)
+
+            statement = select(HeatMap).where(
+                HeatMap.address == address,
+                HeatMap.product == product,
+                HeatMap.target_date == current_target_date,
+            )
+            existing_entry = db.exec(statement).first()
+
+            if existing_entry:
+                # Update existing entry
+                existing_entry.daily_demand = daily_demand
+                existing_entry.last_updated = datetime.utcnow()
+                db.add(existing_entry)
+            else:
+                # Insert new entry
+                new_entry = HeatMap(
+                    address=address,
+                    product=product,
+                    daily_demand=daily_demand,
+                    target_date=current_target_date,
+                )
+                db.add(new_entry)
+        
+        db.commit()
 
         return {
             'Store Address': address,
