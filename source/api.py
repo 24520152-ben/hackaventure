@@ -5,13 +5,13 @@ import logging
 import numpy as np
 import pandas as pd
 from pydantic import BaseModel
+from datetime import date, timedelta
 from typing import Optional, Generator
 from contextlib import asynccontextmanager
 from sklearn.preprocessing import MinMaxScaler
-from datetime import datetime, date, timedelta
 from statsmodels.tsa.statespace.sarimax import SARIMAX
-from sqlmodel import create_engine, SQLModel, Field, Session, select
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Depends
+from sqlmodel import create_engine, SQLModel, Field, Session, select, delete
 
 # Database and table defining (SQLModel)
 class HeatMap(SQLModel, table=True):
@@ -20,7 +20,7 @@ class HeatMap(SQLModel, table=True):
     product: str = Field(index=True)
     daily_demand: float
     target_date: date = Field(index=True)
-    last_updated: date = Field(default_factory=datetime.utcnow)
+    last_updated: date = Field(default_factory=date.today)
 
 def create_database_and_table():
     SQLModel.metadata.create_all(engine)
@@ -138,7 +138,7 @@ async def forecast_demand(
             if existing_entry:
                 # Update existing entry
                 existing_entry.daily_demand = daily_demand
-                existing_entry.last_updated = datetime.utcnow()
+                existing_entry.last_updated = date.today()
                 db.add(existing_entry)
             else:
                 # Insert new entry
@@ -168,7 +168,7 @@ async def forecast_demand(
         logger.exception('Internal Server Error')
         raise HTTPException(status_code=500, detail=str(e))
 
-@app.get('/product')
+@app.get('/products')
 def get_unique_products(db: Session = Depends(get_session)):
     statement = select(HeatMap.product).distinct()
     results = db.exec(statement).all()
@@ -186,6 +186,15 @@ def get_heatmap_by_product(
     return {
         'product': product,
         'data': results,
+    }
+
+@app.delete('/delete')
+def delete_old_entries(db: Session = Depends(get_session)):
+    statement = delete(HeatMap).where(HeatMap.target_date < date.today())
+    results = db.exec(statement)
+    db.commit()
+    return {
+        'deleted_rows': results.rowcount,
     }
 
 if __name__ == '__main__':
