@@ -6,20 +6,12 @@ import numpy as np
 import pandas as pd
 from pydantic import BaseModel
 from typing import Optional, Generator
+from contextlib import asynccontextmanager
 from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime, date, timedelta
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 from sqlmodel import create_engine, SQLModel, Field, Session, select
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Depends
-
-# FastAPI configuration
-app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE')
-logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger(__name__)
-
-# SQLite configuration
-HEATMAP_DATABASE = f'sqlite:///{os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'heatmap.db')}'
-engine = create_engine(url=HEATMAP_DATABASE, connect_args={'check_same_thread': False})
 
 # Database and table defining (SQLModel)
 class HeatMap(SQLModel, table=True):
@@ -37,9 +29,19 @@ def get_session() -> Generator:
     with Session(engine) as session:
         yield session
 
-@app.on_event('startup')
-def startup_event():
+@asynccontextmanager
+async def lifespan(app: FastAPI):
     create_database_and_table()
+    yield
+
+# FastAPI configuration
+app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE', lifespan=lifespan)
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+
+# SQLite configuration
+HEATMAP_DATABASE = f'sqlite:///{os.path.join(os.path.dirname(os.path.dirname(__file__)), 'data', 'heatmap.db')}'
+engine = create_engine(url=HEATMAP_DATABASE, connect_args={'check_same_thread': False})
 
 # Train and forecast
 def train_and_forecast(sales: pd.DataFrame, discount_plan: pd.DataFrame, product: str):
