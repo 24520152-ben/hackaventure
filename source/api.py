@@ -9,6 +9,7 @@ from datetime import date, timedelta
 from typing import Optional, Generator
 from contextlib import asynccontextmanager
 from sklearn.preprocessing import MinMaxScaler
+from fastapi.middleware.cors import CORSMiddleware
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Depends
 from sqlmodel import create_engine, SQLModel, Field, Session, select, delete
