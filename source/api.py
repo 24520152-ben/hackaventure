@@ -39,7 +39,7 @@ app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE', lifesp
 logging.basicConfig(level=logging.DEBUG)
 logger = logging.getLogger(__name__)
 
-# SQLite configuration
+# Postgres configuration
 HEATMAP_DATABASE = os.environ.get('DATABASE_URL')
 engine = create_engine(url=HEATMAP_DATABASE, echo=False)
 
@@ -198,4 +198,5 @@ def delete_old_entries(db: Session = Depends(get_session)):
     }
 
 if __name__ == '__main__':
-    uvicorn.run(app, host='0.0.0.0', port=8000)
+    port = int(os.environ.get('PORT', 8000))
+    uvicorn.run(app, host='0.0.0.0', port=port)
