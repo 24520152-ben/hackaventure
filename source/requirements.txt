@@ -1,7 +1,8 @@
 fastapi
 uvicorn
-pandas
+sqlmodel
 numpy
+pandas
 scikit-learn
 statsmodels
 python-multipart
