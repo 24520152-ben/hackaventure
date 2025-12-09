@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlmodel
+numpy
+pandas
+scikit-learn
+statsmodels
+python-multipart
+psycopg2-binary
+sqlalchemy
+asyncpg
