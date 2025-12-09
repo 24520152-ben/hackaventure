@@ -13,11 +13,16 @@ router = APIRouter(tags=['Forecast'])
 
 @router.post('/product')
 def get_product_to_forecast(
-    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Address, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
+    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
 ):
     try:
         sales = sales_csv.file.read()
         sales = pd.read_csv(io.BytesIO(sales))
+
+        required_columns = ['Date', 'Product', 'Quantity', 'Discount']
+        if not all(col in sales.columns for col in required_columns):
+            raise ValueError(f'CSV file has missing column. Required columns: {required_columns}.')
+        
         products = list(sales['Product'].unique())
         return {
             'products': products,
@@ -37,7 +42,7 @@ def forecast_demand(
     product: str = Form(...),
     latitude: float = Form(...),
     longitude: float = Form(...),
-    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Address, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
+    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
     discount_plan_csv: UploadFile = File(..., description=f'CSV file with a column: [Discount] in the future. If you want to forecast the next 7 days, Discount must have 7 rows.'),
     db: Session = Depends(get_session),
 ):
@@ -47,6 +52,10 @@ def forecast_demand(
         sales = pd.read_csv(io.BytesIO(sales))
         discount_plan = discount_plan_csv.file.read()
         discount_plan = pd.read_csv(io.BytesIO(discount_plan))
+
+        required_columns = ['Date', 'Product', 'Quantity', 'Discount']
+        if not all(col in sales.columns for col in required_columns):
+            raise ValueError(f'CSV file has missing column. Required columns: {required_columns}.')
 
         # Forecast
         forecast, horizon = train_and_forecast(sales, discount_plan, product)
