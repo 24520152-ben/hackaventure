@@ -11,13 +11,33 @@ from src.forecast.service import train_and_forecast
 
 router = APIRouter(tags=['Forecast'])
 
+@router.post('/product')
+def get_product_to_forecast(
+    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Address, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
+):
+    try:
+        sales = sales_csv.file.read()
+        sales = pd.read_csv(io.BytesIO(sales))
+        products = list(sales['Product'].unique())
+        return {
+            'products': products,
+        }
+
+    except ValueError as ve:
+        logger.warning(f'User Input Error: {str(ve)}')
+        raise HTTPException(status_code=400, detail=str(ve))
+
+    except Exception as e:
+        logger.exception('Internal Server Error')
+        raise HTTPException(status_code=500, detail=str(e))
+
 @router.post('/forecast')
 def forecast_demand(
     address: str = Form(...),
     product: str = Form(...),
     latitude: float = Form(...),
     longitude: float = Form(...),
-    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Quantity, Discount] in the past. At least 14 days to forecast.'),
+    sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Address, Product, Quantity, Discount] in the past. At least 14 days to forecast.'),
     discount_plan_csv: UploadFile = File(..., description=f'CSV file with a column: [Discount] in the future. If you want to forecast the next 7 days, Discount must have 7 rows.'),
     db: Session = Depends(get_session),
 ):
