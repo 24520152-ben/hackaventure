@@ -14,6 +14,14 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException, Depends
 from sqlmodel import create_engine, SQLModel, Field, Session, select, delete
 
+# Logging configuration
+logging.basicConfig(level=logging.DEBUG)
+logger = logging.getLogger(__name__)
+
+# Postgres configuration
+HEATMAP_DATABASE = os.environ.get('DATABASE_URL')
+engine = create_engine(url=HEATMAP_DATABASE, echo=False)
+
 # Database and table defining (SQLModel)
 class HeatMap(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
@@ -30,27 +38,13 @@ def get_session() -> Generator:
     with Session(engine) as session:
         yield session
 
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    create_database_and_table()
-    yield
-
-# FastAPI configuration
-app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE', lifespan=lifespan)
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=['https://hackaventure-fe.vercel.app'],
-    allow_credentials=True,
-    allow_methods=['*'],
-    allow_headers=['*'],
-)
-
-logging.basicConfig(level=logging.DEBUG)
-logger = logging.getLogger(__name__)
-
-# Postgres configuration
-HEATMAP_DATABASE = os.environ.get('DATABASE_URL')
-engine = create_engine(url=HEATMAP_DATABASE, echo=False)
+def delete_old_entries(session: Session):
+    statement = delete(HeatMap).where(HeatMap.target_date <= date.today())
+    results = session.exec(statement)
+    session.commit()
+    return {
+        'deleted_rows': results.rowcount,
+    }
 
 # Train and forecast
 def train_and_forecast(sales: pd.DataFrame, discount_plan: pd.DataFrame, product: str):
@@ -108,6 +102,25 @@ def train_and_forecast(sales: pd.DataFrame, discount_plan: pd.DataFrame, product
     forecast_final = np.round(np.maximum(forecast_values, 0)).flatten().tolist()
     
     return forecast_final, horizon
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    create_database_and_table()
+
+    with Session(engine) as session:
+        result = delete_old_entries(session)
+    
+    yield
+
+# FastAPI configuration
+app = FastAPI(title='Demand Forecasting API', description='HACKAVENTURE', lifespan=lifespan)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=['https://hackaventure-fe.vercel.app'],
+    allow_credentials=True,
+    allow_methods=['*'],
+    allow_headers=['*'],
+)
 
 @app.get('/')
 def home():
@@ -188,22 +201,16 @@ def get_unique_products(db: Session = Depends(get_session)):
 @app.get('/heatmap')
 def get_heatmap_by_product(
     product: str,
+    horizon: int = 7,
     db: Session = Depends(get_session),
 ):
-    statement = select(HeatMap).where(HeatMap.product == product)
+    last_day = date.today() + timedelta(days=horizon)
+    statement = select(HeatMap).where(HeatMap.product == product, HeatMap.target_date <= last_day)
     results = db.exec(statement).all()
     return {
         'product': product,
+        'horizon': horizon,
         'data': results,
-    }
-
-@app.delete('/delete')
-def delete_old_entries(db: Session = Depends(get_session)):
-    statement = delete(HeatMap).where(HeatMap.target_date < date.today())
-    results = db.exec(statement)
-    db.commit()
-    return {
-        'deleted_rows': results.rowcount,
     }
 
 if __name__ == '__main__':
