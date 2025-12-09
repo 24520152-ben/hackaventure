@@ -1,2122 +1,2122 @@
-Date,Address,Product,Quantity,Discount
-2016-11-08,Henderson,Bookcases,2,0.0
-2016-11-08,Henderson,Chairs,3,0.0
-2015-10-11,Fort Lauderdale,Tables,5,0.45
-2014-06-09,Los Angeles,Furnishings,7,0.0
-2014-06-09,Los Angeles,Tables,9,0.2
-2017-07-16,Philadelphia,Chairs,2,0.3
-2015-09-25,Orem,Tables,3,0.0
-2015-09-17,Philadelphia,Bookcases,7,0.5
-2015-09-17,Philadelphia,Furnishings,3,0.2
-2016-12-08,Richardson,Furnishings,5,0.6
-2015-12-27,Houston,Bookcases,3,0.32
-2015-12-27,Houston,Chairs,3,0.3
-2015-04-18,New Albany,Furnishings,2,0.0
-2015-04-18,New Albany,Chairs,1,0.0
-2016-06-17,Troy,Chairs,5,0.1
-2015-11-24,Los Angeles,Furnishings,4,0.0
-2015-04-30,Chicago,Chairs,5,0.3
-2015-04-26,Memphis,Chairs,8,0.2
-2015-04-26,Memphis,Furnishings,2,0.2
-2017-12-09,Houston,Furnishings,3,0.6
-2014-11-26,Houston,Furnishings,5,0.6
-2017-05-28,Columbia,Chairs,2,0.0
-2015-01-31,Minneapolis,Furnishings,3,0.0
-2017-11-09,New York City,Furnishings,7,0.0
-2015-11-13,Aurora,Furnishings,3,0.2
-2017-12-25,New York City,Furnishings,2,0.0
-2015-03-02,Seattle,Tables,3,0.0
-2016-06-12,Wilmington,Furnishings,3,0.0
-2014-12-26,Houston,Chairs,3,0.3
-2014-09-20,Bloomington,Tables,6,0.5
-2016-11-06,Los Angeles,Chairs,2,0.2
-2016-11-06,Los Angeles,Furnishings,3,0.0
-2016-10-13,Roseville,Furnishings,14,0.0
-2016-09-05,Philadelphia,Furnishings,2,0.2
-2014-10-22,Newark,Furnishings,4,0.2
-2016-12-05,Franklin,Chairs,8,0.0
-2014-03-01,Seattle,Chairs,2,0.2
-2014-09-08,San Antonio,Chairs,9,0.3
-2014-08-05,Los Angeles,Chairs,7,0.2
-2015-11-21,Newark,Chairs,7,0.3
-2015-10-12,New York City,Bookcases,4,0.2
-2015-10-12,New York City,Bookcases,3,0.2
-2014-08-03,Denver,Tables,2,0.5
-2017-06-03,Franklin,Furnishings,7,0.2
-2015-01-02,Medina,Bookcases,5,0.5
-2015-12-24,Dublin,Furnishings,4,0.2
-2015-08-09,Detroit,Tables,5,0.0
-2015-02-28,Columbia,Chairs,2,0.2
-2015-02-28,Columbia,Chairs,8,0.2
-2017-04-07,Tampa,Tables,2,0.45
-2017-04-07,Tampa,Tables,3,0.45
-2017-04-07,Tampa,Furnishings,3,0.2
-2016-06-04,Chicago,Furnishings,5,0.6
-2016-06-04,Chicago,Furnishings,3,0.6
-2016-06-04,Chicago,Tables,5,0.5
-2016-06-04,Chicago,Furnishings,3,0.6
-2014-06-01,Lakeville,Chairs,7,0.0
-2016-12-10,San Francisco,Chairs,2,0.2
-2015-11-28,Chicago,Furnishings,9,0.6
-2015-07-30,San Francisco,Furnishings,3,0.0
-2015-11-02,Los Angeles,Tables,5,0.2
-2016-11-20,Columbus,Bookcases,3,0.5
-2014-12-26,Colorado Springs,Furnishings,8,0.2
-2014-12-26,Colorado Springs,Chairs,3,0.2
-2014-12-26,Colorado Springs,Furnishings,3,0.2
-2016-10-28,Belleville,Furnishings,4,0.0
-2017-11-19,Chicago,Tables,3,0.5
-2015-05-04,New York City,Furnishings,2,0.0
-2016-09-12,Arvada,Furnishings,4,0.2
-2016-09-12,Arvada,Chairs,2,0.2
-2016-09-12,Arvada,Furnishings,1,0.2
-2014-09-27,Hackensack,Furnishings,3,0.0
-2014-11-04,New York City,Chairs,1,0.1
-2017-11-03,Murfreesboro,Furnishings,1,0.2
-2016-08-30,Philadelphia,Chairs,4,0.3
-2014-07-12,San Francisco,Tables,3,0.2
-2016-04-08,New York City,Bookcases,6,0.2
-2017-09-25,New York City,Chairs,3,0.1
-2017-09-25,New York City,Furnishings,8,0.0
-2016-10-21,Manchester,Bookcases,4,0.0
-2017-08-27,Franklin,Tables,7,0.3
-2015-11-27,Pembroke Pines,Tables,3,0.45
-2015-12-03,Philadelphia,Furnishings,1,0.2
-2016-09-08,Houston,Bookcases,4,0.32
-2017-12-08,San Francisco,Tables,7,0.2
-2017-12-08,San Francisco,Bookcases,13,0.15
-2017-12-08,San Francisco,Chairs,2,0.2
-2017-11-03,Seattle,Chairs,4,0.2
-2016-04-14,Los Angeles,Chairs,5,0.2
-2017-10-19,Lawrence,Furnishings,4,0.0
-2017-08-21,Jackson,Chairs,4,0.0
-2017-11-23,Canton,Furnishings,2,0.0
-2017-01-20,New York City,Chairs,3,0.1
-2016-09-05,Detroit,Furnishings,1,0.0
-2016-09-05,Detroit,Chairs,3,0.0
-2017-03-20,Columbus,Furnishings,1,0.0
-2017-10-20,Akron,Tables,2,0.4
-2014-02-12,Concord,Chairs,2,0.2
-2016-09-26,Decatur,Chairs,3,0.3
-2016-04-22,Phoenix,Furnishings,5,0.2
-2016-04-22,Phoenix,Tables,6,0.5
-2015-01-17,Park Ridge,Furnishings,7,0.6
-2017-03-31,Amarillo,Bookcases,2,0.32
-2014-11-09,San Francisco,Bookcases,2,0.15
-2016-10-27,Troy,Furnishings,3,0.0
-2017-06-10,Los Angeles,Bookcases,5,0.15
-2016-03-18,Memphis,Tables,3,0.4
-2016-07-25,Costa Mesa,Furnishings,4,0.0
-2016-07-25,Costa Mesa,Chairs,2,0.2
-2016-07-25,Costa Mesa,Furnishings,9,0.0
-2016-05-30,Parker,Chairs,2,0.2
-2017-11-26,Gladstone,Furnishings,3,0.0
-2017-01-23,Detroit,Tables,2,0.0
-2017-10-21,Lakeland,Chairs,3,0.2
-2017-10-21,Lakeland,Furnishings,3,0.2
-2015-11-07,Los Angeles,Chairs,1,0.2
-2017-09-07,Los Angeles,Furnishings,3,0.0
-2015-12-07,Henderson,Chairs,4,0.0
-2014-05-11,Fort Worth,Furnishings,4,0.6
-2016-04-15,San Francisco,Chairs,2,0.2
-2017-09-11,Jacksonville,Furnishings,1,0.2
-2016-06-10,Los Angeles,Tables,4,0.2
-2017-11-20,San Francisco,Furnishings,3,0.0
-2014-09-14,Tampa,Furnishings,3,0.2
-2017-10-01,Seattle,Chairs,3,0.2
-2017-07-20,Chicago,Furnishings,1,0.6
-2015-07-03,Richmond,Chairs,1,0.0
-2014-08-08,San Diego,Furnishings,8,0.0
-2014-03-15,Tampa,Furnishings,3,0.2
-2017-08-18,New York City,Furnishings,2,0.0
-2017-08-18,New York City,Furnishings,2,0.0
-2017-08-18,New York City,Furnishings,3,0.0
-2015-11-29,Dearborn,Chairs,2,0.0
-2017-09-15,New York City,Furnishings,7,0.0
-2015-10-04,Warner Robins,Chairs,3,0.0
-2016-05-20,Vallejo,Furnishings,5,0.0
-2016-12-18,Minneapolis,Furnishings,3,0.0
-2016-12-11,Vancouver,Furnishings,4,0.0
-2016-09-19,Aurora,Chairs,2,0.3
-2015-08-24,Arlington,Tables,5,0.3
-2014-12-24,Cleveland,Furnishings,5,0.2
-2017-06-09,Chicago,Furnishings,3,0.6
-2017-06-09,Chicago,Tables,1,0.5
-2017-03-18,Tyler,Furnishings,3,0.6
-2017-12-25,New York City,Bookcases,2,0.2
-2014-06-21,Waynesboro,Furnishings,1,0.0
-2017-09-02,Cleveland,Furnishings,3,0.2
-2016-11-04,Seattle,Furnishings,3,0.0
-2015-04-09,Long Beach,Tables,3,0.2
-2014-12-02,New York City,Bookcases,5,0.2
-2014-01-11,Dover,Furnishings,2,0.0
-2017-09-24,Newark,Furnishings,3,0.2
-2014-06-02,Orem,Furnishings,6,0.0
-2016-12-15,Detroit,Tables,3,0.0
-2014-10-07,Philadelphia,Furnishings,5,0.2
-2016-12-03,Oceanside,Tables,2,0.4
-2016-12-03,Oceanside,Chairs,3,0.1
-2017-01-21,Seattle,Bookcases,1,0.0
-2014-05-27,San Diego,Tables,10,0.2
-2017-10-02,Trenton,Furnishings,11,0.0
-2015-12-07,Los Angeles,Furnishings,4,0.0
-2016-09-18,Jacksonville,Tables,4,0.45
-2014-05-14,Saint Petersburg,Furnishings,2,0.2
-2016-05-19,Arlington,Chairs,2,0.0
-2017-01-30,Des Moines,Furnishings,7,0.0
-2015-08-21,San Francisco,Chairs,3,0.2
-2015-10-03,Columbus,Bookcases,1,0.5
-2015-12-12,Lancaster,Chairs,2,0.2
-2015-06-26,Richmond,Chairs,3,0.0
-2015-11-27,Lake Elsinore,Chairs,5,0.2
-2017-02-20,San Diego,Furnishings,1,0.0
-2017-04-22,San Francisco,Furnishings,2,0.0
-2015-02-03,Omaha,Furnishings,2,0.0
-2014-10-13,Edmonds,Tables,5,0.0
-2017-05-14,Santa Ana,Furnishings,2,0.0
-2014-06-28,Philadelphia,Chairs,5,0.3
-2017-06-16,Florence,Chairs,2,0.0
-2015-11-20,New York City,Bookcases,4,0.2
-2015-10-13,Louisville,Chairs,3,0.0
-2017-01-01,Lorain,Furnishings,4,0.2
-2016-02-19,New York City,Furnishings,2,0.0
-2014-01-10,Springfield,Furnishings,1,0.0
-2016-01-17,Concord,Furnishings,3,0.0
-2017-11-30,New York City,Chairs,5,0.1
-2016-10-22,Detroit,Furnishings,5,0.0
-2014-04-29,Rochester,Furnishings,2,0.0
-2017-12-30,New York City,Bookcases,4,0.2
-2015-05-31,Norwich,Furnishings,6,0.0
-2017-11-27,Milwaukee,Furnishings,1,0.0
-2014-06-15,San Antonio,Tables,2,0.3
-2014-06-15,San Antonio,Chairs,4,0.3
-2016-12-13,Torrance,Tables,4,0.2
-2015-07-26,Mesa,Tables,3,0.5
-2017-11-28,Philadelphia,Furnishings,7,0.2
-2017-11-28,Philadelphia,Furnishings,6,0.2
-2017-11-28,Philadelphia,Tables,12,0.4
-2017-04-03,Philadelphia,Furnishings,4,0.2
-2017-12-28,Round Rock,Bookcases,2,0.32
-2015-09-22,Oceanside,Furnishings,2,0.0
-2017-11-14,San Francisco,Chairs,2,0.2
-2014-01-16,Philadelphia,Furnishings,6,0.2
-2016-10-03,New York City,Chairs,6,0.1
-2014-11-11,Louisville,Chairs,5,0.2
-2017-05-21,Auburn,Furnishings,5,0.0
-2015-03-29,Jacksonville,Chairs,5,0.2
-2015-10-28,Henderson,Furnishings,5,0.0
-2015-10-28,Henderson,Furnishings,7,0.0
-2015-07-31,New York City,Tables,7,0.4
-2014-11-24,San Diego,Furnishings,4,0.0
-2017-06-17,Olympia,Furnishings,3,0.0
-2015-12-21,Seattle,Tables,13,0.0
-2015-07-06,New York City,Furnishings,2,0.0
-2015-07-06,New York City,Furnishings,3,0.0
-2015-04-27,Washington,Chairs,3,0.0
-2014-07-11,Hackensack,Chairs,3,0.0
-2014-07-11,Hackensack,Furnishings,9,0.0
-2016-04-22,Jefferson City,Furnishings,2,0.0
-2016-03-20,Saint Peters,Tables,4,0.0
-2016-09-06,New York City,Bookcases,3,0.2
-2017-10-12,Rockford,Chairs,14,0.3
-2016-03-08,Miami,Furnishings,3,0.2
-2015-07-03,Philadelphia,Furnishings,2,0.2
-2015-07-03,Philadelphia,Furnishings,9,0.2
-2015-04-04,New York City,Furnishings,2,0.0
-2015-03-23,Houston,Chairs,2,0.3
-2016-10-01,San Francisco,Chairs,4,0.2
-2015-11-29,Detroit,Chairs,9,0.0
-2016-03-01,Yonkers,Tables,8,0.4
-2017-06-04,Monroe,Furnishings,2,0.2
-2014-06-25,Los Angeles,Tables,5,0.2
-2016-06-14,San Francisco,Furnishings,3,0.0
-2016-11-19,Houston,Furnishings,2,0.6
-2017-12-18,Encinitas,Bookcases,1,0.15
-2014-01-20,Jonesboro,Furnishings,4,0.0
-2014-01-20,Jonesboro,Chairs,3,0.0
-2016-04-12,Springfield,Tables,4,0.0
-2014-09-29,Los Angeles,Furnishings,2,0.0
-2015-05-08,Cuyahoga Falls,Furnishings,6,0.2
-2014-12-20,Harrisonburg,Tables,7,0.0
-2014-12-20,Harrisonburg,Tables,2,0.0
-2016-07-02,Los Angeles,Chairs,1,0.2
-2017-12-08,New York City,Furnishings,2,0.0
-2016-12-01,Rockville,Chairs,2,0.0
-2017-02-26,Los Angeles,Chairs,3,0.2
-2015-09-15,Coral Springs,Furnishings,4,0.2
-2015-09-15,Coral Springs,Furnishings,1,0.2
-2016-04-08,Houston,Chairs,4,0.3
-2016-07-18,Denver,Chairs,3,0.2
-2016-07-18,Denver,Chairs,3,0.2
-2016-07-14,New York City,Bookcases,4,0.2
-2017-09-09,Philadelphia,Chairs,2,0.3
-2017-09-09,Philadelphia,Furnishings,2,0.2
-2016-12-04,New York City,Furnishings,3,0.0
-2017-11-06,Los Angeles,Furnishings,1,0.0
-2016-10-28,Boynton Beach,Furnishings,3,0.2
-2016-10-28,Boynton Beach,Furnishings,2,0.2
-2016-10-28,Boynton Beach,Furnishings,3,0.2
-2014-08-11,Seattle,Furnishings,1,0.0
-2014-12-12,Fresno,Tables,6,0.2
-2014-12-12,Fresno,Tables,12,0.2
-2014-12-12,Fresno,Bookcases,3,0.15
-2017-12-18,New York City,Chairs,9,0.1
-2017-03-10,Chester,Furnishings,1,0.2
-2017-03-10,Chester,Furnishings,2,0.2
-2016-10-01,La Porte,Furnishings,5,0.0
-2014-12-24,Los Angeles,Chairs,6,0.2
-2017-09-23,Louisville,Furnishings,3,0.2
-2016-05-26,Fort Worth,Chairs,5,0.3
-2016-11-22,New York City,Furnishings,2,0.0
-2016-12-23,Springfield,Furnishings,6,0.0
-2016-12-23,Springfield,Furnishings,3,0.0
-2015-09-19,Arlington,Bookcases,2,0.0
-2017-07-03,Columbus,Furnishings,1,0.0
-2016-06-20,Pasadena,Chairs,2,0.2
-2016-09-24,Columbus,Chairs,2,0.3
-2016-12-18,Los Angeles,Furnishings,8,0.0
-2015-06-14,Philadelphia,Furnishings,6,0.2
-2016-05-23,San Francisco,Furnishings,3,0.0
-2017-04-02,Los Angeles,Furnishings,3,0.0
-2017-03-31,New York City,Furnishings,2,0.0
-2014-10-03,Evanston,Chairs,3,0.3
-2017-05-04,San Francisco,Tables,1,0.2
-2017-04-26,Fort Worth,Furnishings,1,0.6
-2014-09-26,Los Angeles,Chairs,2,0.2
-2017-11-10,Tucson,Chairs,4,0.2
-2017-07-08,Pico Rivera,Furnishings,5,0.0
-2015-12-24,Colorado Springs,Bookcases,7,0.7
-2015-09-14,Provo,Tables,5,0.0
-2016-09-03,Aurora,Furnishings,3,0.6
-2016-02-05,Smyrna,Furnishings,3,0.0
-2016-02-05,Smyrna,Bookcases,2,0.0
-2017-10-09,Aurora,Tables,5,0.5
-2017-10-09,Aurora,Tables,3,0.5
-2016-04-19,Columbus,Tables,2,0.4
-2014-04-06,Philadelphia,Tables,3,0.4
-2016-09-02,New York City,Furnishings,2,0.0
-2016-09-25,Phoenix,Tables,3,0.5
-2016-07-09,New York City,Chairs,2,0.1
-2016-07-09,New York City,Furnishings,4,0.0
-2017-01-28,Costa Mesa,Furnishings,3,0.0
-2015-09-21,Houston,Furnishings,4,0.6
-2014-12-19,Florence,Chairs,14,0.0
-2015-10-15,Amarillo,Chairs,5,0.3
-2017-06-13,Chicago,Chairs,7,0.3
-2017-06-12,Columbus,Tables,3,0.0
-2014-05-04,Middletown,Furnishings,2,0.0
-2016-03-11,Vineland,Tables,2,0.3
-2016-08-26,Pasadena,Chairs,6,0.3
-2014-08-08,Glendale,Furnishings,4,0.2
-2017-12-09,Detroit,Chairs,3,0.0
-2015-12-01,Houston,Furnishings,4,0.6
-2015-11-03,Los Angeles,Furnishings,3,0.0
-2017-11-24,New York City,Chairs,6,0.1
-2017-10-30,Vancouver,Furnishings,2,0.0
-2016-11-24,Los Angeles,Furnishings,2,0.0
-2015-08-01,Los Angeles,Tables,6,0.2
-2017-09-12,Los Angeles,Furnishings,2,0.0
-2017-12-11,Philadelphia,Chairs,1,0.3
-2017-12-10,North Las Vegas,Tables,4,0.0
-2015-12-06,Tucson,Furnishings,6,0.2
-2016-07-22,Allentown,Furnishings,2,0.2
-2017-02-10,Laguna Niguel,Bookcases,2,0.15
-2017-09-15,Everett,Bookcases,3,0.0
-2014-03-11,Columbus,Furnishings,5,0.2
-2014-12-31,Watertown,Bookcases,7,0.2
-2015-03-16,Seattle,Tables,2,0.0
-2017-06-30,New York City,Tables,5,0.4
-2014-11-23,Los Angeles,Chairs,5,0.2
-2014-11-23,Los Angeles,Chairs,2,0.2
-2014-12-15,El Paso,Chairs,5,0.3
-2015-08-09,New York City,Tables,9,0.4
-2015-08-09,New York City,Furnishings,3,0.0
-2015-08-09,New York City,Furnishings,2,0.0
-2015-03-24,Peoria,Bookcases,3,0.3
-2017-05-08,Columbus,Chairs,2,0.3
-2017-10-16,New York City,Furnishings,13,0.0
-2017-11-19,Carrollton,Furnishings,2,0.6
-2016-05-08,Dover,Furnishings,2,0.0
-2014-05-26,Los Angeles,Bookcases,2,0.15
-2017-07-08,Kent,Furnishings,2,0.0
-2015-09-24,Lafayette,Chairs,6,0.0
-2017-06-21,Cleveland,Furnishings,5,0.2
-2016-05-26,Washington,Furnishings,3,0.0
-2014-05-12,Milwaukee,Furnishings,7,0.0
-2015-01-10,New York City,Tables,4,0.4
-2015-09-17,Houston,Furnishings,2,0.6
-2014-09-07,Philadelphia,Furnishings,2,0.2
-2016-11-07,San Francisco,Furnishings,3,0.0
-2017-12-10,Philadelphia,Furnishings,2,0.2
-2014-08-16,Philadelphia,Tables,6,0.4
-2016-03-14,Columbus,Furnishings,5,0.2
-2014-06-03,Seattle,Tables,6,0.0
-2015-07-13,New York City,Chairs,9,0.1
-2017-10-30,San Francisco,Chairs,1,0.2
-2017-09-08,Chicago,Tables,7,0.5
-2017-10-07,San Francisco,Bookcases,2,0.15
-2016-05-19,New York City,Furnishings,4,0.0
-2016-05-19,New York City,Furnishings,8,0.0
-2015-12-20,Chicago,Bookcases,3,0.3
-2017-04-29,Dublin,Tables,5,0.4
-2017-10-30,Philadelphia,Furnishings,2,0.2
-2015-11-22,San Antonio,Tables,2,0.3
-2017-10-14,Oakland,Furnishings,2,0.0
-2015-09-05,San Diego,Bookcases,4,0.15
-2015-09-05,San Diego,Bookcases,3,0.15
-2016-08-04,Suffolk,Furnishings,9,0.0
-2014-12-01,Madison,Chairs,8,0.0
-2016-07-07,San Jose,Furnishings,5,0.0
-2016-11-13,Auburn,Furnishings,1,0.0
-2016-10-23,Chicago,Furnishings,7,0.6
-2014-06-09,Harrisonburg,Tables,7,0.0
-2017-11-20,Newark,Furnishings,5,0.2
-2017-11-20,Newark,Furnishings,2,0.2
-2015-09-14,Los Angeles,Tables,3,0.2
-2014-05-25,Chicago,Furnishings,2,0.6
-2016-02-16,Chicago,Chairs,3,0.3
-2016-12-22,Redmond,Furnishings,4,0.2
-2016-12-22,Redmond,Furnishings,1,0.2
-2017-10-21,Muskogee,Tables,1,0.0
-2015-11-05,Monroe,Chairs,3,0.2
-2014-08-01,Charlotte,Furnishings,4,0.2
-2016-07-18,Bowling Green,Chairs,1,0.0
-2015-02-09,San Antonio,Furnishings,2,0.6
-2017-01-12,Washington,Furnishings,2,0.0
-2017-09-10,Los Angeles,Chairs,3,0.2
-2017-03-26,New York City,Bookcases,2,0.2
-2016-10-13,Aurora,Tables,5,0.5
-2016-10-13,Aurora,Furnishings,3,0.2
-2017-04-15,Henderson,Furnishings,5,0.0
-2014-07-21,San Francisco,Chairs,2,0.2
-2014-07-21,San Francisco,Tables,1,0.2
-2017-11-21,Spokane,Tables,1,0.0
-2016-03-10,Long Beach,Bookcases,1,0.2
-2017-12-29,Los Angeles,Chairs,4,0.2
-2015-03-05,New York City,Chairs,7,0.1
-2016-04-22,San Francisco,Furnishings,3,0.0
-2014-10-21,Fairfield,Tables,3,0.4
-2014-08-29,Miami,Tables,3,0.45
-2017-10-21,Springfield,Chairs,2,0.2
-2015-02-03,Los Angeles,Furnishings,4,0.0
-2017-12-18,Oceanside,Furnishings,2,0.0
-2017-08-17,Watertown,Chairs,2,0.1
-2017-08-06,Lafayette,Bookcases,3,0.0
-2017-08-06,Lafayette,Furnishings,5,0.0
-2015-05-25,San Francisco,Furnishings,3,0.0
-2016-07-08,Broomfield,Chairs,3,0.2
-2017-09-02,New York City,Furnishings,2,0.0
-2017-09-02,New York City,Tables,1,0.4
-2017-09-02,New York City,Chairs,5,0.1
-2014-10-18,Montgomery,Chairs,6,0.0
-2016-04-14,Glendale,Chairs,4,0.2
-2014-11-25,Brentwood,Furnishings,3,0.0
-2015-11-09,Springfield,Tables,7,0.0
-2017-12-02,Houston,Furnishings,4,0.6
-2017-12-25,Louisville,Chairs,5,0.0
-2017-08-03,Chicago,Bookcases,2,0.3
-2016-09-18,Auburn,Chairs,1,0.0
-2016-09-19,Providence,Chairs,4,0.0
-2015-03-13,Seattle,Bookcases,2,0.0
-2017-09-25,Rochester,Chairs,3,0.0
-2015-06-18,Peoria,Furnishings,5,0.2
-2015-07-11,Philadelphia,Furnishings,7,0.2
-2015-07-11,Philadelphia,Chairs,8,0.3
-2015-07-11,Philadelphia,Furnishings,6,0.2
-2016-12-01,Richmond,Furnishings,3,0.0
-2017-12-22,Detroit,Chairs,7,0.0
-2017-12-22,Detroit,Tables,2,0.0
-2014-10-31,Los Angeles,Chairs,3,0.2
-2015-04-13,Pomona,Tables,3,0.2
-2017-11-20,Ontario,Chairs,5,0.2
-2014-12-01,San Francisco,Furnishings,3,0.0
-2015-12-24,Phoenix,Furnishings,2,0.2
-2017-07-15,Wilmington,Tables,3,0.3
-2014-11-17,Moorhead,Chairs,5,0.0
-2014-07-18,Tucson,Chairs,4,0.2
-2015-10-31,Redlands,Chairs,4,0.2
-2015-10-31,Redlands,Bookcases,1,0.15
-2015-10-12,Rochester,Tables,1,0.4
-2017-11-09,Sunnyvale,Chairs,3,0.2
-2017-09-22,Lansing,Bookcases,2,0.0
-2015-10-04,Philadelphia,Furnishings,3,0.2
-2014-05-20,Dover,Furnishings,7,0.0
-2015-12-31,Grand Prairie,Furnishings,5,0.6
-2014-06-06,Long Beach,Tables,3,0.4
-2016-06-25,York,Chairs,3,0.3
-2014-12-12,Concord,Furnishings,1,0.0
-2017-11-19,College Station,Chairs,3,0.3
-2016-04-30,Dallas,Furnishings,3,0.6
-2016-05-14,Cincinnati,Furnishings,1,0.2
-2016-10-13,Laredo,Furnishings,5,0.6
-2017-11-19,San Angelo,Chairs,2,0.3
-2016-05-07,New York City,Chairs,4,0.1
-2016-05-07,New York City,Furnishings,8,0.0
-2017-08-10,Columbus,Furnishings,2,0.0
-2014-06-01,Little Rock,Furnishings,6,0.0
-2015-09-06,Seattle,Furnishings,3,0.0
-2015-06-29,Lancaster,Furnishings,1,0.2
-2017-11-21,New York City,Furnishings,1,0.0
-2017-10-01,San Jose,Chairs,4,0.2
-2015-12-06,Marion,Chairs,1,0.3
-2016-03-19,Littleton,Bookcases,1,0.7
-2016-10-01,New York City,Tables,1,0.4
-2017-06-26,La Porte,Furnishings,5,0.0
-2017-04-20,Chicago,Furnishings,2,0.6
-2016-09-17,Bangor,Furnishings,2,0.0
-2017-06-16,San Francisco,Chairs,7,0.2
-2017-02-06,Arlington,Bookcases,3,0.0
-2015-03-06,San Francisco,Furnishings,7,0.0
-2014-10-03,Los Angeles,Tables,1,0.2
-2014-10-03,Los Angeles,Chairs,3,0.2
-2014-06-27,Southaven,Tables,1,0.0
-2017-10-30,Seattle,Chairs,2,0.2
-2017-10-30,Seattle,Chairs,8,0.2
-2017-10-30,Seattle,Bookcases,2,0.0
-2017-01-08,Seattle,Tables,2,0.0
-2015-04-20,Columbus,Furnishings,6,0.0
-2017-12-23,Middletown,Furnishings,3,0.0
-2015-11-01,New York City,Furnishings,5,0.0
-2017-09-17,Roswell,Chairs,4,0.0
-2016-12-23,Chicago,Bookcases,2,0.3
-2017-06-11,Peoria,Chairs,1,0.2
-2017-07-20,Sioux Falls,Chairs,3,0.0
-2015-09-15,New York City,Bookcases,1,0.2
-2015-12-25,Philadelphia,Furnishings,4,0.2
-2014-12-31,Franklin,Furnishings,5,0.0
-2016-03-13,San Antonio,Tables,5,0.3
-2015-08-31,San Francisco,Bookcases,7,0.15
-2014-03-17,New York City,Tables,7,0.4
-2014-03-17,New York City,Tables,4,0.4
-2014-03-17,New York City,Tables,3,0.4
-2016-03-13,Waynesboro,Furnishings,2,0.0
-2014-11-24,Sacramento,Chairs,1,0.2
-2016-09-23,Fairfield,Furnishings,6,0.2
-2016-07-07,Aurora,Furnishings,8,0.6
-2016-07-07,Aurora,Chairs,2,0.3
-2016-05-06,Lorain,Furnishings,7,0.2
-2015-12-06,New York City,Furnishings,4,0.0
-2016-09-27,Huntsville,Bookcases,7,0.32
-2017-03-23,San Francisco,Furnishings,8,0.0
-2014-11-12,Los Angeles,Tables,3,0.2
-2016-12-29,Milwaukee,Chairs,5,0.0
-2015-07-06,Holyoke,Bookcases,2,0.0
-2017-12-25,Fairfield,Tables,2,0.4
-2016-06-11,Arlington,Furnishings,7,0.6
-2017-12-28,Seattle,Furnishings,2,0.0
-2014-03-25,New York City,Chairs,7,0.1
-2017-07-03,Farmington,Furnishings,9,0.0
-2014-11-18,Louisville,Tables,2,0.5
-2017-07-17,Tampa,Furnishings,2,0.2
-2016-05-22,Passaic,Tables,2,0.3
-2016-10-31,Philadelphia,Chairs,5,0.3
-2016-01-22,Fayetteville,Furnishings,8,0.2
-2016-01-22,Fayetteville,Bookcases,4,0.2
-2016-11-03,Los Angeles,Chairs,2,0.2
-2017-09-04,Los Angeles,Tables,3,0.2
-2017-08-28,Seattle,Tables,5,0.0
-2016-09-10,Houston,Tables,5,0.3
-2014-06-16,Mishawaka,Chairs,8,0.0
-2014-07-25,San Francisco,Furnishings,8,0.0
-2016-11-11,Chicago,Chairs,2,0.3
-2017-05-02,Westfield,Furnishings,3,0.0
-2015-01-27,Cleveland,Chairs,2,0.3
-2015-07-16,San Francisco,Chairs,6,0.2
-2015-07-16,San Francisco,Chairs,3,0.2
-2016-04-30,Scottsdale,Furnishings,7,0.2
-2016-09-08,Malden,Bookcases,3,0.0
-2017-04-16,San Jose,Bookcases,1,0.15
-2017-11-19,Henderson,Furnishings,6,0.0
-2016-10-08,Houston,Furnishings,8,0.6
-2015-05-31,Orem,Bookcases,7,0.0
-2017-11-01,Bellingham,Tables,9,0.0
-2017-07-09,Lafayette,Furnishings,5,0.0
-2014-01-26,Alexandria,Furnishings,3,0.0
-2014-01-26,Alexandria,Furnishings,3,0.0
-2017-06-30,New York City,Furnishings,1,0.0
-2016-09-08,Wheeling,Furnishings,2,0.6
-2016-09-08,Wheeling,Tables,3,0.5
-2016-06-04,New York City,Bookcases,1,0.2
-2016-06-04,New York City,Furnishings,4,0.0
-2014-11-25,Arlington,Tables,5,0.3
-2014-11-25,Arlington,Furnishings,3,0.6
-2016-04-28,Los Angeles,Chairs,2,0.2
-2014-04-26,Los Angeles,Chairs,3,0.2
-2017-05-15,Seattle,Furnishings,2,0.0
-2017-05-15,Seattle,Chairs,2,0.2
-2017-05-15,Seattle,Chairs,1,0.2
-2015-07-05,Fayetteville,Furnishings,2,0.2
-2017-06-12,New York City,Chairs,4,0.1
-2016-04-17,Raleigh,Furnishings,8,0.2
-2014-09-07,Tulsa,Furnishings,3,0.0
-2014-09-07,Tulsa,Furnishings,6,0.0
-2016-09-26,Hesperia,Bookcases,5,0.15
-2017-09-17,Provo,Bookcases,3,0.0
-2015-12-24,Gilbert,Chairs,4,0.2
-2016-05-01,Memphis,Tables,3,0.4
-2015-08-25,Los Angeles,Chairs,1,0.2
-2014-09-09,Lowell,Chairs,6,0.0
-2016-01-22,Seattle,Furnishings,5,0.0
-2014-10-15,Hialeah,Furnishings,1,0.2
-2014-03-18,Jacksonville,Furnishings,2,0.2
-2014-03-18,Jacksonville,Furnishings,3,0.2
-2015-01-30,Los Angeles,Furnishings,7,0.0
-2017-10-09,Lakewood,Furnishings,4,0.2
-2014-12-06,Houston,Furnishings,3,0.6
-2017-11-07,Philadelphia,Tables,4,0.4
-2017-02-13,Seattle,Furnishings,1,0.0
-2015-11-13,Newark,Bookcases,3,0.0
-2014-11-04,San Diego,Furnishings,2,0.0
-2015-06-20,San Francisco,Furnishings,6,0.0
-2014-05-12,Franklin,Tables,3,0.3
-2014-06-08,Seattle,Chairs,3,0.2
-2014-05-26,Los Angeles,Chairs,2,0.2
-2016-03-11,Columbus,Furnishings,4,0.0
-2017-12-10,Fort Lauderdale,Furnishings,3,0.2
-2015-07-17,Bakersfield,Bookcases,2,0.15
-2017-04-30,Pompano Beach,Furnishings,8,0.2
-2015-09-21,Los Angeles,Chairs,4,0.2
-2014-12-02,Corpus Christi,Furnishings,5,0.6
-2014-12-02,Corpus Christi,Furnishings,5,0.6
-2014-04-12,Redondo Beach,Bookcases,3,0.15
-2017-11-03,Las Cruces,Furnishings,3,0.0
-2015-09-07,El Paso,Chairs,2,0.3
-2015-07-25,Seattle,Bookcases,5,0.0
-2015-07-25,Seattle,Chairs,2,0.2
-2015-11-16,Milwaukee,Furnishings,6,0.0
-2015-11-16,Milwaukee,Tables,3,0.0
-2015-11-16,Milwaukee,Tables,3,0.0
-2015-09-01,Franklin,Chairs,1,0.0
-2015-09-01,Franklin,Furnishings,2,0.0
-2016-05-05,Encinitas,Tables,3,0.2
-2014-09-25,Houston,Bookcases,2,0.32
-2014-03-14,Chesapeake,Chairs,4,0.0
-2016-12-27,Woodstock,Chairs,8,0.3
-2017-04-08,Roswell,Furnishings,6,0.0
-2016-03-19,Oceanside,Furnishings,1,0.0
-2016-03-19,Oceanside,Furnishings,4,0.0
-2016-08-26,San Diego,Chairs,4,0.2
-2016-08-15,Fayetteville,Chairs,2,0.2
-2017-05-19,Atlanta,Bookcases,9,0.0
-2017-06-12,Saint Petersburg,Furnishings,2,0.2
-2014-03-22,Tucson,Chairs,3,0.2
-2016-01-21,San Diego,Chairs,2,0.2
-2016-01-21,San Diego,Chairs,7,0.2
-2016-11-11,San Francisco,Furnishings,4,0.0
-2016-10-18,Tempe,Chairs,5,0.2
-2014-04-29,Lake Charles,Chairs,2,0.0
-2017-10-23,Rochester,Furnishings,11,0.0
-2015-04-26,Houston,Chairs,2,0.3
-2016-06-27,Highland Park,Chairs,3,0.3
-2016-11-23,Philadelphia,Furnishings,2,0.2
-2016-11-23,Philadelphia,Furnishings,7,0.2
-2014-09-02,Watertown,Furnishings,1,0.0
-2017-07-10,Columbus,Furnishings,3,0.0
-2017-11-18,Saginaw,Furnishings,4,0.0
-2015-08-08,San Francisco,Chairs,1,0.2
-2017-03-25,Milwaukee,Chairs,1,0.0
-2017-03-25,Milwaukee,Chairs,7,0.0
-2017-03-25,Milwaukee,Chairs,3,0.0
-2017-11-19,Los Angeles,Furnishings,1,0.0
-2016-11-04,San Francisco,Furnishings,7,0.0
-2017-12-14,San Diego,Furnishings,3,0.0
-2017-11-12,Glendale,Chairs,2,0.2
-2017-11-12,Glendale,Furnishings,2,0.2
-2017-06-27,Watertown,Chairs,3,0.1
-2017-12-16,Oceanside,Chairs,2,0.2
-2017-12-16,Oceanside,Chairs,2,0.2
-2017-12-16,Oceanside,Furnishings,2,0.0
-2014-12-27,Skokie,Furnishings,6,0.6
-2017-11-06,Fayetteville,Furnishings,2,0.2
-2015-05-07,Allen,Tables,2,0.3
-2017-12-04,Philadelphia,Chairs,7,0.3
-2014-01-13,Mount Pleasant,Chairs,6,0.0
-2015-06-12,Philadelphia,Furnishings,2,0.2
-2014-07-12,Seattle,Chairs,4,0.2
-2014-12-06,Springfield,Tables,1,0.5
-2016-05-25,Columbus,Furnishings,4,0.0
-2014-06-21,Philadelphia,Furnishings,1,0.2
-2016-12-05,Murray,Furnishings,3,0.0
-2015-09-17,New York City,Tables,2,0.4
-2016-08-23,Pharr,Furnishings,3,0.6
-2015-11-08,West Jordan,Furnishings,3,0.0
-2017-11-17,Brownsville,Bookcases,2,0.32
-2017-04-22,Philadelphia,Furnishings,3,0.2
-2017-12-17,Chesapeake,Chairs,5,0.0
-2015-09-21,Lincoln Park,Bookcases,4,0.0
-2016-11-21,Gresham,Chairs,4,0.2
-2015-06-11,Monroe,Furnishings,2,0.0
-2017-10-03,Pasadena,Tables,3,0.2
-2016-05-05,Chattanooga,Furnishings,5,0.2
-2017-09-11,Long Beach,Chairs,8,0.2
-2017-04-02,Columbus,Tables,2,0.0
-2017-10-06,Meridian,Furnishings,2,0.0
-2017-10-19,San Francisco,Furnishings,2,0.0
-2017-10-19,San Francisco,Tables,2,0.2
-2014-11-17,Newark,Furnishings,3,0.0
-2015-10-03,Los Angeles,Bookcases,2,0.15
-2014-07-20,Dallas,Furnishings,5,0.6
-2014-07-20,Dallas,Chairs,2,0.3
-2017-02-09,Houston,Furnishings,2,0.6
-2017-03-31,Henderson,Furnishings,5,0.0
-2017-04-27,Fort Worth,Bookcases,4,0.32
-2017-04-14,New York City,Bookcases,3,0.2
-2017-12-22,Providence,Bookcases,1,0.0
-2016-08-23,Seattle,Chairs,6,0.2
-2015-06-11,Lakeland,Chairs,5,0.2
-2015-06-11,Lakeland,Furnishings,3,0.2
-2014-12-16,Los Angeles,Furnishings,2,0.0
-2014-12-16,Los Angeles,Chairs,2,0.2
-2014-08-24,Oceanside,Furnishings,2,0.0
-2017-11-12,Dallas,Furnishings,3,0.6
-2016-09-05,Austin,Chairs,7,0.3
-2017-02-11,Seattle,Chairs,4,0.2
-2015-12-15,Newark,Furnishings,7,0.2
-2015-08-24,New York City,Tables,2,0.4
-2016-10-29,Lansing,Furnishings,5,0.0
-2016-05-28,Tallahassee,Chairs,8,0.2
-2016-03-21,Chicago,Chairs,5,0.3
-2017-09-23,Fort Collins,Bookcases,2,0.7
-2017-12-05,New York City,Furnishings,3,0.0
-2017-12-05,New York City,Furnishings,2,0.0
-2014-05-18,Akron,Furnishings,3,0.2
-2014-11-10,San Diego,Furnishings,2,0.0
-2014-11-10,San Diego,Furnishings,5,0.0
-2017-09-01,New York City,Furnishings,5,0.0
-2016-01-15,Fairfield,Tables,1,0.3
-2016-11-20,Houston,Chairs,5,0.3
-2016-11-20,Houston,Furnishings,3,0.6
-2017-12-01,Grand Prairie,Chairs,3,0.3
-2016-09-17,Seattle,Chairs,2,0.2
-2017-04-17,Philadelphia,Furnishings,3,0.2
-2016-12-09,Franklin,Tables,3,0.4
-2015-02-09,Los Angeles,Chairs,5,0.2
-2014-09-30,New York City,Furnishings,3,0.0
-2014-12-26,San Diego,Furnishings,2,0.0
-2014-11-18,Philadelphia,Furnishings,3,0.2
-2016-03-20,Gulfport,Furnishings,7,0.0
-2014-09-27,San Diego,Chairs,5,0.2
-2017-12-24,Oceanside,Chairs,2,0.1
-2017-11-10,Round Rock,Furnishings,5,0.6
-2014-12-20,Columbia,Chairs,3,0.2
-2015-07-23,New York City,Furnishings,3,0.0
-2017-12-14,Chicago,Furnishings,1,0.6
-2017-08-21,Oakland,Furnishings,4,0.0
-2017-08-21,Oakland,Tables,3,0.2
-2016-08-27,Quincy,Tables,1,0.3
-2014-09-23,San Diego,Bookcases,3,0.15
-2014-07-19,Bristol,Tables,1,0.3
-2015-06-04,New York City,Furnishings,3,0.0
-2016-07-16,Houston,Furnishings,3,0.6
-2014-01-31,Mission Viejo,Bookcases,2,0.15
-2015-11-21,Las Vegas,Bookcases,2,0.0
-2015-12-04,Hempstead,Furnishings,3,0.0
-2015-12-04,Hempstead,Chairs,5,0.1
-2015-12-04,Hempstead,Chairs,2,0.1
-2017-11-23,Philadelphia,Furnishings,9,0.2
-2015-12-04,New York City,Chairs,7,0.1
-2017-10-07,Charlotte,Tables,3,0.4
-2015-05-04,Tinley Park,Furnishings,7,0.6
-2017-05-29,Houston,Furnishings,4,0.6
-2014-04-23,Columbus,Chairs,2,0.3
-2014-04-23,Columbus,Chairs,2,0.3
-2014-04-23,Columbus,Furnishings,4,0.2
-2015-09-06,New York City,Chairs,2,0.1
-2015-09-24,Dubuque,Chairs,10,0.0
-2017-07-03,Lancaster,Tables,2,0.4
-2017-12-08,Inglewood,Furnishings,2,0.0
-2015-09-27,Chicago,Furnishings,3,0.6
-2017-10-30,Dallas,Furnishings,2,0.6
-2017-10-30,Dallas,Tables,2,0.3
-2017-09-16,Philadelphia,Furnishings,3,0.2
-2015-09-10,Revere,Bookcases,2,0.0
-2016-12-14,Jackson,Furnishings,6,0.0
-2016-12-01,San Francisco,Furnishings,2,0.0
-2017-03-03,Dearborn Heights,Chairs,1,0.0
-2016-12-08,San Francisco,Tables,6,0.2
-2014-04-07,Mobile,Furnishings,2,0.0
-2014-08-27,Springfield,Furnishings,4,0.0
-2014-08-27,Springfield,Tables,3,0.0
-2015-07-02,Carol Stream,Chairs,2,0.3
-2015-07-02,Carol Stream,Chairs,6,0.3
-2017-09-24,Saint Cloud,Chairs,4,0.0
-2016-08-08,Los Angeles,Tables,2,0.2
-2014-06-20,Plano,Bookcases,4,0.32
-2017-09-04,Chicago,Bookcases,9,0.3
-2015-06-22,Aurora,Tables,7,0.5
-2016-09-18,Columbus,Furnishings,3,0.2
-2016-09-18,Columbus,Chairs,2,0.3
-2017-10-30,Richmond,Chairs,1,0.0
-2016-03-29,Chicago,Chairs,6,0.3
-2016-09-09,Dallas,Furnishings,4,0.6
-2016-07-25,Jackson,Tables,8,0.0
-2015-12-10,Jackson,Tables,2,0.0
-2015-12-10,Jackson,Chairs,2,0.0
-2014-09-09,Philadelphia,Furnishings,3,0.2
-2014-11-17,Philadelphia,Chairs,5,0.3
-2017-08-21,Columbia,Furnishings,2,0.0
-2017-08-21,Columbia,Furnishings,4,0.0
-2017-11-19,San Antonio,Tables,6,0.3
-2014-09-14,Macon,Furnishings,5,0.0
-2017-05-19,San Francisco,Chairs,12,0.2
-2016-11-10,Springfield,Furnishings,7,0.2
-2015-03-12,Plantation,Furnishings,4,0.2
-2015-03-12,Plantation,Furnishings,3,0.2
-2017-11-06,Philadelphia,Chairs,2,0.3
-2015-12-05,San Diego,Furnishings,2,0.0
-2015-07-09,Clinton,Furnishings,2,0.0
-2015-10-30,Denver,Furnishings,4,0.2
-2015-11-19,Seattle,Furnishings,2,0.0
-2017-12-24,Rochester,Furnishings,1,0.0
-2016-01-09,Toledo,Furnishings,2,0.2
-2014-11-23,Mesquite,Furnishings,2,0.6
-2017-10-15,Los Angeles,Tables,3,0.2
-2017-04-21,Seattle,Furnishings,3,0.0
-2014-12-08,Olympia,Chairs,5,0.2
-2016-12-20,Jackson,Furnishings,4,0.0
-2017-03-06,New York City,Furnishings,3,0.0
-2016-09-23,Columbus,Chairs,3,0.0
-2017-08-27,Inglewood,Furnishings,2,0.0
-2017-08-27,Inglewood,Chairs,3,0.2
-2016-03-03,Odessa,Chairs,5,0.3
-2015-09-18,Los Angeles,Furnishings,2,0.0
-2016-08-13,West Allis,Bookcases,2,0.0
-2016-03-21,Houston,Tables,2,0.3
-2014-12-16,Hialeah,Chairs,9,0.2
-2016-12-17,San Francisco,Tables,6,0.2
-2015-05-03,Chula Vista,Furnishings,6,0.0
-2014-01-27,San Diego,Tables,3,0.2
-2017-11-04,Greensboro,Tables,3,0.4
-2016-10-14,Jacksonville,Chairs,1,0.2
-2015-11-12,Plantation,Chairs,5,0.2
-2015-11-12,Plantation,Chairs,3,0.2
-2015-09-15,Mobile,Tables,2,0.0
-2015-09-15,Mobile,Chairs,7,0.0
-2017-10-09,New York City,Bookcases,3,0.2
-2017-05-07,Detroit,Chairs,5,0.0
-2017-05-07,Detroit,Chairs,1,0.0
-2017-05-07,Detroit,Chairs,2,0.0
-2015-11-14,Dover,Furnishings,3,0.0
-2014-11-24,Columbus,Chairs,3,0.3
-2014-07-26,North Las Vegas,Chairs,3,0.2
-2014-07-26,North Las Vegas,Furnishings,9,0.0
-2014-06-08,Bristol,Chairs,3,0.2
-2014-10-28,Los Angeles,Bookcases,6,0.15
-2015-09-21,Quincy,Furnishings,2,0.0
-2017-06-06,San Francisco,Furnishings,1,0.0
-2017-02-17,Chicago,Tables,3,0.5
-2015-11-28,Champaign,Furnishings,5,0.6
-2015-10-23,San Diego,Chairs,1,0.2
-2015-10-23,San Diego,Chairs,7,0.2
-2015-10-23,San Diego,Chairs,3,0.2
-2015-06-15,Gilbert,Furnishings,6,0.2
-2015-06-15,Gilbert,Furnishings,4,0.2
-2016-11-24,Los Angeles,Chairs,6,0.2
-2015-04-05,Philadelphia,Furnishings,4,0.2
-2015-04-05,Philadelphia,Furnishings,1,0.2
-2015-04-05,Philadelphia,Bookcases,5,0.5
-2017-09-18,New York City,Furnishings,2,0.0
-2017-07-18,Phoenix,Tables,5,0.5
-2017-07-18,Phoenix,Chairs,2,0.2
-2017-07-18,Phoenix,Chairs,3,0.2
-2014-09-17,Seattle,Furnishings,2,0.0
-2016-03-14,Harlingen,Bookcases,5,0.32
-2015-06-16,Grand Prairie,Chairs,2,0.3
-2016-12-10,Greenwood,Chairs,5,0.0
-2017-05-18,New York City,Furnishings,2,0.0
-2016-11-18,Pasadena,Chairs,6,0.3
-2014-04-04,Detroit,Furnishings,1,0.0
-2016-06-26,San Francisco,Furnishings,3,0.0
-2016-05-29,Nashville,Furnishings,3,0.2
-2017-02-19,Los Angeles,Furnishings,3,0.0
-2016-03-29,New York City,Furnishings,8,0.0
-2016-10-22,Richmond,Furnishings,4,0.0
-2014-12-23,New York City,Tables,2,0.4
-2017-12-15,Seattle,Furnishings,3,0.0
-2016-07-07,Los Angeles,Chairs,4,0.2
-2016-04-17,Lakewood,Bookcases,3,0.15
-2016-04-17,Columbia,Furnishings,5,0.2
-2014-11-25,Woonsocket,Furnishings,2,0.0
-2015-05-01,Tampa,Furnishings,3,0.2
-2015-03-08,Kenosha,Bookcases,3,0.0
-2015-03-08,Kenosha,Chairs,7,0.0
-2015-03-08,Kenosha,Furnishings,6,0.0
-2015-07-17,Port Saint Lucie,Bookcases,5,0.2
-2014-10-11,Seattle,Furnishings,11,0.0
-2016-03-03,San Antonio,Tables,3,0.3
-2017-01-01,Los Angeles,Furnishings,11,0.0
-2014-06-22,Chester,Chairs,3,0.3
-2014-06-22,Chester,Chairs,5,0.3
-2017-10-27,San Francisco,Bookcases,5,0.15
-2017-12-24,Lafayette,Chairs,4,0.0
-2014-12-29,San Francisco,Furnishings,5,0.0
-2014-12-29,San Francisco,Furnishings,6,0.0
-2015-06-25,San Francisco,Furnishings,5,0.0
-2017-06-24,New York City,Furnishings,3,0.0
-2017-06-24,New York City,Chairs,2,0.1
-2014-09-29,Philadelphia,Tables,2,0.4
-2014-09-29,Philadelphia,Tables,1,0.4
-2015-11-20,Oakland,Chairs,3,0.2
-2016-08-28,Dallas,Bookcases,2,0.32
-2017-11-15,Miramar,Furnishings,4,0.2
-2017-11-15,Miramar,Furnishings,4,0.2
-2014-08-19,Jonesboro,Bookcases,9,0.0
-2017-12-21,Fremont,Furnishings,2,0.0
-2015-09-07,New York City,Tables,3,0.4
-2015-12-25,Detroit,Bookcases,1,0.0
-2017-07-27,Jacksonville,Furnishings,3,0.2
-2017-12-01,Philadelphia,Furnishings,5,0.2
-2017-01-30,San Francisco,Chairs,1,0.2
-2015-11-28,Freeport,Furnishings,3,0.0
-2014-10-11,Pasadena,Chairs,2,0.2
-2016-12-05,Franklin,Bookcases,1,0.0
-2015-11-16,Boise,Tables,2,0.0
-2016-04-08,Los Angeles,Furnishings,5,0.0
-2014-10-31,Cranston,Furnishings,2,0.0
-2014-10-31,Cranston,Furnishings,3,0.0
-2014-10-31,Cranston,Chairs,5,0.0
-2014-10-31,Cranston,Tables,1,0.3
-2017-04-01,San Francisco,Bookcases,8,0.15
-2017-06-11,Seattle,Bookcases,3,0.0
-2014-12-13,Chicago,Furnishings,3,0.6
-2015-01-05,Seattle,Chairs,1,0.2
-2017-07-05,Dallas,Furnishings,9,0.6
-2017-11-28,Baltimore,Furnishings,5,0.0
-2017-11-28,Baltimore,Furnishings,5,0.0
-2016-12-01,Fairfield,Chairs,4,0.0
-2014-09-19,New York City,Chairs,7,0.1
-2017-10-13,Freeport,Furnishings,3,0.6
-2016-03-14,Seattle,Chairs,2,0.2
-2016-11-05,Houston,Tables,8,0.3
-2016-11-05,Houston,Bookcases,7,0.32
-2017-06-25,Seattle,Tables,4,0.0
-2015-11-26,Jackson,Furnishings,11,0.2
-2016-11-24,Baltimore,Furnishings,4,0.0
-2016-04-16,Lakewood,Furnishings,2,0.0
-2014-11-14,New York City,Chairs,2,0.1
-2015-11-21,Port Arthur,Bookcases,2,0.32
-2017-12-09,Los Angeles,Tables,9,0.2
-2017-10-22,Redmond,Tables,5,0.5
-2017-07-03,Citrus Heights,Furnishings,3,0.0
-2017-08-23,Tallahassee,Furnishings,2,0.2
-2014-10-26,Seattle,Furnishings,4,0.0
-2014-11-04,Los Angeles,Tables,4,0.2
-2017-12-07,Richmond,Furnishings,6,0.0
-2015-12-20,Bullhead City,Furnishings,2,0.2
-2016-09-18,New Rochelle,Chairs,2,0.1
-2016-09-18,New Rochelle,Furnishings,3,0.0
-2017-12-11,Aurora,Furnishings,1,0.6
-2017-12-11,Aurora,Chairs,2,0.3
-2014-04-25,San Gabriel,Furnishings,5,0.0
-2014-04-25,San Gabriel,Chairs,5,0.2
-2015-10-25,San Francisco,Tables,3,0.2
-2015-07-20,Highland Park,Bookcases,4,0.3
-2015-07-20,Highland Park,Bookcases,5,0.3
-2017-11-20,New York City,Bookcases,2,0.2
-2014-07-07,Philadelphia,Chairs,2,0.3
-2014-07-07,Philadelphia,Furnishings,2,0.2
-2016-03-17,Columbia,Furnishings,5,0.0
-2014-12-20,Hamilton,Furnishings,3,0.2
-2017-05-18,Sandy Springs,Bookcases,3,0.0
-2017-03-21,Tulsa,Chairs,6,0.0
-2016-11-03,Henderson,Furnishings,5,0.0
-2016-11-03,Henderson,Tables,3,0.0
-2015-06-19,Los Angeles,Furnishings,2,0.0
-2016-07-04,San Francisco,Furnishings,5,0.0
-2016-07-04,San Francisco,Bookcases,5,0.15
-2015-09-03,San Francisco,Chairs,2,0.2
-2017-09-28,Aurora,Furnishings,1,0.2
-2017-11-24,New York City,Bookcases,2,0.2
-2017-05-08,Philadelphia,Chairs,3,0.3
-2017-09-29,Mentor,Chairs,1,0.3
-2017-09-29,Mentor,Tables,2,0.4
-2017-09-29,Mentor,Furnishings,4,0.2
-2017-10-22,Lawton,Tables,2,0.0
-2017-08-14,Los Angeles,Tables,3,0.2
-2014-12-01,Columbus,Furnishings,2,0.2
-2014-12-01,Columbus,Chairs,6,0.3
-2017-06-18,Los Angeles,Bookcases,9,0.15
-2014-12-24,Los Angeles,Furnishings,1,0.0
-2017-05-23,Los Angeles,Tables,3,0.2
-2016-11-10,Springfield,Furnishings,2,0.0
-2016-10-27,Hampton,Chairs,1,0.0
-2014-02-20,Richmond,Furnishings,4,0.0
-2014-11-02,New York City,Furnishings,6,0.0
-2017-07-17,Rome,Furnishings,4,0.0
-2016-11-14,New York City,Chairs,2,0.1
-2014-10-10,Manteca,Chairs,3,0.2
-2017-07-08,Seattle,Furnishings,3,0.0
-2015-02-27,Providence,Tables,7,0.3
-2015-07-12,Chicago,Chairs,9,0.3
-2015-07-12,Chicago,Furnishings,1,0.6
-2014-07-13,Los Angeles,Tables,3,0.2
-2014-12-27,San Francisco,Chairs,3,0.2
-2014-05-05,San Antonio,Chairs,3,0.3
-2015-12-04,Los Angeles,Furnishings,5,0.0
-2017-09-26,Miramar,Chairs,4,0.2
-2014-04-19,San Jose,Furnishings,3,0.0
-2016-12-12,Jackson,Furnishings,4,0.0
-2016-09-19,Philadelphia,Furnishings,3,0.2
-2017-11-02,Danville,Furnishings,3,0.0
-2016-12-26,Los Angeles,Chairs,3,0.2
-2016-12-26,Los Angeles,Tables,3,0.2
-2015-07-16,Baltimore,Chairs,1,0.0
-2017-11-09,Oceanside,Furnishings,8,0.0
-2015-09-21,Everett,Chairs,3,0.0
-2017-09-09,Columbia,Furnishings,3,0.2
-2015-10-15,Mount Pleasant,Furnishings,2,0.0
-2017-08-03,San Francisco,Furnishings,3,0.0
-2015-08-21,San Francisco,Bookcases,6,0.15
-2017-10-22,Fort Collins,Chairs,4,0.2
-2016-08-12,New York City,Chairs,2,0.1
-2016-04-26,New York City,Chairs,3,0.1
-2015-05-03,Philadelphia,Chairs,6,0.3
-2016-01-10,Seattle,Furnishings,4,0.0
-2017-05-06,Fort Worth,Bookcases,7,0.32
-2016-07-31,Detroit,Furnishings,3,0.0
-2017-03-27,Philadelphia,Furnishings,2,0.2
-2016-08-29,Philadelphia,Tables,4,0.4
-2016-08-29,Philadelphia,Bookcases,4,0.5
-2014-12-20,Tucson,Furnishings,2,0.2
-2014-12-20,Tucson,Chairs,3,0.2
-2015-12-17,Detroit,Chairs,3,0.0
-2015-12-17,Detroit,Chairs,2,0.0
-2015-12-17,Detroit,Chairs,9,0.0
-2015-12-17,Detroit,Furnishings,3,0.0
-2017-05-11,Austin,Furnishings,1,0.6
-2016-05-17,Waterbury,Furnishings,4,0.0
-2014-12-16,Huntsville,Furnishings,2,0.6
-2017-12-03,Seattle,Tables,2,0.0
-2014-06-07,Aurora,Tables,3,0.5
-2014-11-25,New York City,Bookcases,3,0.2
-2015-03-29,San Diego,Furnishings,3,0.0
-2016-04-07,New York City,Chairs,3,0.1
-2015-02-18,Long Beach,Tables,1,0.2
-2016-03-03,San Francisco,Furnishings,3,0.0
-2017-11-20,Jackson,Chairs,2,0.2
-2017-11-23,Chicago,Furnishings,1,0.6
-2014-07-08,Buffalo,Chairs,1,0.1
-2014-11-07,Houston,Chairs,4,0.3
-2015-12-11,Colorado Springs,Bookcases,4,0.7
-2015-12-11,Colorado Springs,Furnishings,9,0.2
-2015-12-11,Colorado Springs,Furnishings,5,0.2
-2015-12-11,Colorado Springs,Tables,5,0.5
-2015-03-16,Los Angeles,Furnishings,1,0.0
-2016-05-14,Jacksonville,Furnishings,3,0.2
-2017-07-13,Philadelphia,Furnishings,9,0.2
-2016-11-14,Philadelphia,Chairs,3,0.3
-2016-11-14,Philadelphia,Furnishings,3,0.2
-2016-11-21,Columbus,Chairs,3,0.3
-2016-11-21,Columbus,Furnishings,3,0.2
-2017-11-20,Henderson,Furnishings,2,0.0
-2014-09-08,Pasco,Chairs,5,0.2
-2014-12-12,Oakland,Furnishings,3,0.0
-2014-12-12,Oakland,Furnishings,3,0.0
-2015-01-13,Los Angeles,Furnishings,4,0.0
-2015-01-13,Los Angeles,Furnishings,9,0.0
-2017-11-13,Seattle,Chairs,6,0.2
-2017-11-02,Henderson,Chairs,4,0.0
-2016-11-28,Marietta,Chairs,3,0.0
-2014-10-15,Parma,Chairs,2,0.3
-2014-12-01,Houston,Chairs,3,0.3
-2017-10-09,League City,Chairs,3,0.3
-2016-01-02,Gaithersburg,Bookcases,3,0.0
-2017-10-19,Chicago,Tables,1,0.5
-2017-12-01,Fairfield,Chairs,3,0.0
-2014-01-13,San Francisco,Bookcases,3,0.15
-2015-02-06,Wilmington,Chairs,9,0.0
-2015-02-06,Wilmington,Bookcases,4,0.0
-2017-11-27,Los Angeles,Furnishings,3,0.0
-2014-06-09,North Las Vegas,Furnishings,2,0.0
-2014-03-07,Seattle,Chairs,1,0.2
-2015-08-02,Providence,Chairs,1,0.0
-2016-11-06,Jacksonville,Chairs,2,0.2
-2016-11-06,Jacksonville,Furnishings,2,0.2
-2016-04-24,Colorado Springs,Chairs,6,0.2
-2015-12-18,Memphis,Furnishings,5,0.2
-2017-05-11,Phoenix,Bookcases,7,0.7
-2014-11-24,Toledo,Furnishings,7,0.2
-2014-11-15,Los Angeles,Furnishings,3,0.0
-2016-12-18,San Diego,Furnishings,4,0.0
-2017-07-29,Oklahoma City,Chairs,3,0.0
-2016-12-26,Vineland,Chairs,3,0.0
-2015-08-09,Milwaukee,Bookcases,5,0.0
-2014-04-06,Seattle,Tables,3,0.0
-2015-07-11,Wilmington,Tables,4,0.3
-2016-11-10,Los Angeles,Furnishings,9,0.0
-2015-01-03,Dallas,Bookcases,9,0.32
-2015-05-08,Minneapolis,Furnishings,3,0.0
-2017-11-30,Burlington,Tables,7,0.4
-2014-08-08,Trenton,Furnishings,6,0.0
-2014-04-20,Houston,Tables,5,0.3
-2014-04-20,Houston,Tables,2,0.3
-2017-11-25,San Francisco,Bookcases,3,0.15
-2014-12-06,Chicago,Tables,5,0.5
-2014-12-06,Chicago,Furnishings,3,0.6
-2014-12-14,Deltona,Chairs,4,0.2
-2015-11-13,Chicago,Furnishings,9,0.6
-2014-09-14,New York City,Tables,9,0.4
-2017-12-29,Anaheim,Furnishings,8,0.0
-2016-11-13,Oklahoma City,Furnishings,4,0.0
-2016-04-01,New York City,Chairs,6,0.1
-2017-02-02,Los Angeles,Furnishings,2,0.0
-2017-12-24,Chandler,Furnishings,4,0.2
-2017-12-24,Chandler,Chairs,3,0.2
-2015-08-07,Kirkwood,Furnishings,3,0.0
-2017-06-30,Chicago,Chairs,3,0.3
-2017-06-30,Chicago,Furnishings,2,0.6
-2014-07-30,Seattle,Bookcases,8,0.0
-2016-11-18,Taylor,Chairs,2,0.0
-2015-07-06,Pasadena,Chairs,3,0.2
-2014-11-10,Midland,Chairs,3,0.0
-2016-05-27,Detroit,Chairs,5,0.0
-2017-10-19,Waco,Bookcases,3,0.32
-2015-04-13,Los Angeles,Furnishings,2,0.0
-2015-09-13,Columbus,Chairs,7,0.0
-2014-11-28,Columbia,Furnishings,5,0.0
-2015-08-15,Oakland,Furnishings,7,0.0
-2017-09-01,Detroit,Chairs,7,0.0
-2014-06-14,Detroit,Bookcases,3,0.0
-2016-06-21,New York City,Bookcases,2,0.2
-2017-03-19,Fresno,Tables,5,0.2
-2017-03-19,Fresno,Furnishings,1,0.0
-2014-10-18,Texarkana,Chairs,6,0.0
-2017-08-22,San Francisco,Tables,1,0.2
-2014-09-20,Columbia,Furnishings,3,0.0
-2014-09-20,Columbia,Bookcases,3,0.0
-2016-08-02,Los Angeles,Tables,2,0.2
-2015-03-05,Bethlehem,Chairs,2,0.3
-2015-03-05,Bethlehem,Furnishings,2,0.2
-2014-09-07,Houston,Tables,1,0.3
-2017-09-11,San Francisco,Furnishings,4,0.0
-2017-01-16,Los Angeles,Furnishings,4,0.0
-2017-01-16,Los Angeles,Tables,7,0.2
-2015-11-07,Burlington,Chairs,3,0.0
-2014-09-13,Odessa,Chairs,6,0.3
-2015-09-05,Rochester,Furnishings,2,0.0
-2017-05-05,Louisville,Bookcases,3,0.7
-2014-09-08,Houston,Chairs,5,0.3
-2015-12-26,Medina,Tables,1,0.4
-2017-07-27,Yonkers,Furnishings,1,0.0
-2016-05-30,Springfield,Tables,10,0.0
-2014-11-16,Decatur,Chairs,2,0.3
-2014-09-21,Garland,Furnishings,2,0.6
-2016-02-21,Oceanside,Furnishings,5,0.0
-2017-11-19,Houston,Chairs,3,0.3
-2017-04-30,San Francisco,Furnishings,2,0.0
-2016-05-02,Greensboro,Chairs,9,0.2
-2017-10-02,Knoxville,Furnishings,2,0.2
-2017-10-02,Knoxville,Furnishings,1,0.2
-2017-10-02,Knoxville,Tables,7,0.4
-2017-10-02,Knoxville,Furnishings,2,0.2
-2015-12-04,Lakewood,Furnishings,6,0.0
-2016-09-04,New York City,Furnishings,1,0.0
-2014-08-26,Newark,Furnishings,4,0.0
-2014-05-13,Los Angeles,Chairs,6,0.2
-2017-04-14,Fayetteville,Bookcases,8,0.2
-2016-12-29,Wichita,Furnishings,6,0.0
-2017-04-08,Oak Park,Furnishings,2,0.0
-2017-04-08,Oak Park,Furnishings,3,0.0
-2015-10-24,Houston,Tables,7,0.3
-2014-11-19,Wilmington,Bookcases,6,0.0
-2016-09-24,San Francisco,Furnishings,5,0.0
-2016-04-09,Los Angeles,Bookcases,5,0.15
-2016-12-03,Los Angeles,Furnishings,6,0.0
-2016-06-14,Los Angeles,Bookcases,5,0.15
-2014-09-05,Saint Petersburg,Furnishings,2,0.2
-2014-07-05,Palm Coast,Furnishings,2,0.2
-2014-07-05,Palm Coast,Furnishings,3,0.2
-2014-09-12,Olathe,Furnishings,2,0.0
-2017-12-29,Edmonds,Furnishings,2,0.0
-2017-09-04,San Francisco,Tables,8,0.2
-2017-09-28,Los Angeles,Furnishings,3,0.0
-2014-01-19,Scottsdale,Bookcases,5,0.7
-2016-06-09,San Francisco,Chairs,3,0.2
-2014-09-26,San Diego,Chairs,3,0.2
-2017-12-19,Parker,Furnishings,5,0.2
-2017-12-19,Parker,Bookcases,7,0.7
-2017-01-30,Miami,Chairs,4,0.2
-2017-04-01,Jacksonville,Chairs,3,0.2
-2014-11-28,San Francisco,Bookcases,4,0.15
-2017-07-15,New York City,Chairs,6,0.1
-2017-11-02,Philadelphia,Furnishings,1,0.2
-2015-10-08,San Francisco,Furnishings,5,0.0
-2017-12-04,Philadelphia,Chairs,10,0.3
-2017-12-04,Philadelphia,Furnishings,2,0.2
-2017-05-22,Chicago,Chairs,2,0.3
-2016-12-19,Tucson,Tables,6,0.5
-2017-09-07,Draper,Furnishings,2,0.0
-2014-11-12,Houston,Bookcases,1,0.32
-2017-10-02,Montgomery,Furnishings,2,0.0
-2015-12-14,Jackson,Furnishings,2,0.0
-2017-03-13,Chicago,Chairs,1,0.3
-2016-12-12,Pasadena,Furnishings,6,0.0
-2017-09-09,Los Angeles,Chairs,5,0.2
-2017-10-04,Clinton,Furnishings,1,0.0
-2014-12-15,San Diego,Furnishings,2,0.0
-2014-10-13,Lakewood,Chairs,2,0.0
-2016-09-20,Greensboro,Furnishings,2,0.2
-2016-09-20,Greensboro,Chairs,1,0.2
-2017-06-30,Memphis,Furnishings,2,0.2
-2016-09-25,La Crosse,Chairs,2,0.0
-2016-09-25,La Crosse,Furnishings,11,0.0
-2014-09-29,Seattle,Furnishings,2,0.0
-2014-09-29,Seattle,Tables,9,0.0
-2017-06-26,Miami,Chairs,3,0.2
-2016-08-21,Philadelphia,Tables,9,0.4
-2014-02-11,Chesapeake,Tables,6,0.0
-2017-03-26,Dearborn,Furnishings,3,0.0
-2014-12-21,San Diego,Chairs,6,0.2
-2014-12-21,San Diego,Chairs,3,0.2
-2016-04-01,Columbus,Furnishings,4,0.0
-2017-04-14,Morristown,Furnishings,5,0.0
-2015-01-04,Alexandria,Furnishings,14,0.0
-2017-07-17,Apple Valley,Bookcases,5,0.15
-2016-12-18,Salem,Tables,5,0.5
-2016-09-24,Aurora,Furnishings,2,0.2
-2015-06-09,Pocatello,Furnishings,4,0.0
-2014-12-29,Chicago,Furnishings,3,0.6
-2014-07-28,Apopka,Furnishings,6,0.2
-2015-12-26,Houston,Chairs,3,0.3
-2015-12-10,Baltimore,Chairs,3,0.0
-2016-05-05,San Francisco,Tables,2,0.2
-2014-12-14,Marion,Tables,1,0.4
-2015-05-08,New York City,Furnishings,3,0.0
-2015-05-08,New York City,Chairs,2,0.1
-2017-12-08,Madison,Bookcases,4,0.0
-2017-06-29,Milford,Bookcases,9,0.0
-2017-06-29,Milford,Furnishings,2,0.0
-2014-01-20,Los Angeles,Furnishings,2,0.0
-2017-03-28,Fairfield,Furnishings,1,0.0
-2017-03-28,Fairfield,Furnishings,7,0.0
-2014-05-30,Buffalo Grove,Tables,3,0.5
-2016-02-03,Richmond,Chairs,4,0.0
-2015-08-11,Raleigh,Furnishings,3,0.2
-2017-08-12,Lake Forest,Furnishings,4,0.0
-2015-11-03,Long Beach,Chairs,10,0.1
-2015-09-24,Los Angeles,Furnishings,3,0.0
-2016-04-12,Los Angeles,Chairs,7,0.2
-2014-11-11,Los Angeles,Chairs,1,0.2
-2017-10-02,Springfield,Bookcases,6,0.7
-2017-04-10,Jacksonville,Furnishings,5,0.2
-2017-09-29,Bakersfield,Chairs,1,0.2
-2017-09-29,Bakersfield,Furnishings,1,0.0
-2014-09-29,New York City,Furnishings,4,0.0
-2014-08-20,Chicago,Chairs,2,0.3
-2017-11-13,Dallas,Bookcases,3,0.32
-2016-02-06,Chattanooga,Furnishings,4,0.2
-2015-03-22,San Diego,Furnishings,2,0.0
-2017-05-12,San Francisco,Tables,5,0.2
-2017-09-03,New York City,Chairs,1,0.1
-2017-09-03,New York City,Chairs,2,0.1
-2016-12-03,Richmond,Tables,2,0.0
-2016-12-03,Richmond,Chairs,1,0.0
-2016-07-21,Concord,Chairs,5,0.2
-2015-09-22,Arlington,Furnishings,2,0.0
-2015-11-17,San Diego,Furnishings,4,0.0
-2015-11-17,San Diego,Chairs,2,0.2
-2015-11-17,San Diego,Furnishings,3,0.0
-2015-11-10,Roseville,Furnishings,3,0.0
-2015-08-05,Dallas,Furnishings,5,0.6
-2017-09-03,Concord,Bookcases,2,0.15
-2015-11-01,Conway,Tables,2,0.0
-2014-08-05,Meriden,Chairs,5,0.0
-2016-11-07,Cheyenne,Chairs,4,0.2
-2016-06-14,Anaheim,Tables,7,0.2
-2016-09-24,Bloomington,Furnishings,3,0.0
-2016-09-18,San Diego,Chairs,2,0.2
-2016-09-18,San Diego,Chairs,9,0.2
-2016-03-13,San Francisco,Furnishings,2,0.0
-2016-04-03,Richmond,Furnishings,4,0.0
-2016-11-27,Westfield,Furnishings,3,0.0
-2016-12-02,San Jose,Furnishings,3,0.0
-2015-09-17,New York City,Chairs,2,0.1
-2015-09-17,New York City,Bookcases,6,0.2
-2015-09-17,New York City,Bookcases,5,0.2
-2016-11-26,New York City,Tables,2,0.4
-2014-04-08,Decatur,Tables,8,0.0
-2014-10-11,Fayetteville,Furnishings,4,0.0
-2017-07-07,Philadelphia,Bookcases,3,0.5
-2016-07-04,Seattle,Furnishings,5,0.0
-2014-08-25,Los Angeles,Furnishings,1,0.0
-2014-11-11,Reading,Furnishings,2,0.2
-2014-11-11,Reading,Bookcases,4,0.5
-2016-03-12,San Francisco,Chairs,3,0.2
-2017-02-09,Los Angeles,Furnishings,4,0.0
-2014-07-20,San Diego,Furnishings,3,0.0
-2017-02-06,New York City,Bookcases,1,0.2
-2014-09-07,Tulsa,Tables,5,0.0
-2014-09-07,Tulsa,Chairs,2,0.0
-2016-07-19,Hattiesburg,Furnishings,6,0.0
-2016-07-19,Hattiesburg,Bookcases,5,0.0
-2017-09-15,Los Angeles,Chairs,3,0.2
-2016-12-11,Columbus,Chairs,5,0.3
-2016-12-11,Columbus,Tables,3,0.4
-2014-12-10,Caldwell,Chairs,3,0.2
-2014-12-13,Phoenix,Furnishings,3,0.2
-2017-09-07,Los Angeles,Furnishings,4,0.0
-2015-11-02,Troy,Chairs,2,0.1
-2017-04-01,Florence,Furnishings,3,0.0
-2014-04-06,Los Angeles,Furnishings,2,0.0
-2014-04-06,Los Angeles,Furnishings,7,0.0
-2017-07-06,Miami,Chairs,1,0.2
-2016-12-25,Nashua,Furnishings,4,0.0
-2015-12-14,Los Angeles,Furnishings,3,0.0
-2016-09-04,Georgetown,Furnishings,3,0.0
-2016-02-04,Sierra Vista,Furnishings,2,0.2
-2017-05-19,Knoxville,Chairs,3,0.2
-2015-09-03,Tucson,Furnishings,3,0.2
-2016-06-09,Minneapolis,Tables,3,0.0
-2016-09-23,Lancaster,Furnishings,4,0.2
-2017-05-20,Lakewood,Chairs,8,0.2
-2017-05-20,Lakewood,Furnishings,1,0.0
-2016-09-01,New York City,Furnishings,3,0.0
-2014-02-18,Lubbock,Furnishings,5,0.6
-2015-12-14,Costa Mesa,Furnishings,3,0.0
-2017-09-20,New York City,Chairs,3,0.1
-2017-09-20,New York City,Chairs,1,0.1
-2017-09-20,New York City,Chairs,11,0.1
-2017-09-20,New York City,Chairs,5,0.1
-2017-08-22,Philadelphia,Tables,2,0.4
-2016-11-12,Parma,Chairs,7,0.3
-2016-11-12,Parma,Chairs,9,0.3
-2016-11-12,Parma,Chairs,2,0.3
-2017-09-19,Springfield,Furnishings,8,0.2
-2017-09-19,Springfield,Bookcases,2,0.7
-2016-03-31,New York City,Chairs,6,0.1
-2014-12-27,New York City,Chairs,14,0.1
-2016-08-16,Los Angeles,Tables,2,0.2
-2014-03-30,San Francisco,Bookcases,2,0.15
-2017-12-28,Long Beach,Chairs,6,0.2
-2016-04-08,Columbus,Bookcases,5,0.0
-2014-03-18,San Francisco,Bookcases,10,0.15
-2017-04-20,Philadelphia,Furnishings,2,0.2
-2017-04-20,Philadelphia,Furnishings,3,0.2
-2014-03-19,Lakeland,Furnishings,3,0.2
-2014-03-19,Lakeland,Furnishings,3,0.2
-2015-09-21,Columbia,Chairs,4,0.0
-2016-12-11,Portland,Chairs,5,0.2
-2016-12-24,New York City,Furnishings,9,0.0
-2016-12-16,Apple Valley,Chairs,5,0.2
-2017-12-01,Marion,Furnishings,2,0.2
-2016-10-20,Houston,Chairs,1,0.3
-2017-08-18,Seattle,Furnishings,3,0.0
-2015-11-28,New York City,Furnishings,3,0.0
-2017-12-23,Hendersonville,Furnishings,4,0.2
-2015-10-05,Portland,Bookcases,1,0.7
-2015-10-05,Portland,Chairs,4,0.2
-2017-09-11,Seattle,Chairs,2,0.2
-2015-12-12,San Jose,Furnishings,3,0.0
-2017-05-28,Concord,Furnishings,8,0.0
-2015-11-20,Seattle,Furnishings,3,0.0
-2017-05-29,Columbus,Furnishings,3,0.0
-2015-09-08,Montgomery,Furnishings,8,0.0
-2017-12-02,Oakland,Chairs,9,0.2
-2016-07-17,Seattle,Furnishings,3,0.0
-2016-07-17,Seattle,Furnishings,5,0.0
-2015-11-20,Marion,Furnishings,2,0.2
-2016-09-24,Los Angeles,Chairs,5,0.2
-2016-10-21,Lakewood,Tables,2,0.4
-2014-07-08,San Francisco,Tables,3,0.2
-2015-03-13,Chico,Chairs,4,0.2
-2015-03-13,Chico,Furnishings,8,0.0
-2017-12-02,Salem,Chairs,2,0.0
-2017-11-30,San Francisco,Furnishings,3,0.0
-2016-11-04,Eugene,Chairs,1,0.2
-2016-11-04,Eugene,Chairs,3,0.2
-2014-09-11,Oxnard,Furnishings,3,0.0
-2014-01-20,Westland,Furnishings,3,0.0
-2014-01-20,Westland,Furnishings,3,0.0
-2016-08-30,Los Angeles,Furnishings,4,0.0
-2017-10-05,New York City,Chairs,2,0.1
-2017-09-03,Dallas,Furnishings,5,0.6
-2016-10-03,Grand Prairie,Furnishings,5,0.6
-2016-11-21,New York City,Bookcases,2,0.2
-2017-10-03,New York City,Furnishings,4,0.0
-2014-04-29,Memphis,Chairs,2,0.2
-2016-12-15,Los Angeles,Furnishings,2,0.0
-2016-03-29,Springfield,Bookcases,5,0.5
-2016-12-14,New York City,Furnishings,4,0.0
-2017-05-30,Lafayette,Bookcases,2,0.0
-2017-05-30,Lafayette,Furnishings,3,0.0
-2017-08-31,Spokane,Chairs,2,0.2
-2017-05-14,Houston,Chairs,5,0.3
-2016-10-31,Tulsa,Chairs,3,0.0
-2015-10-24,Oakland,Chairs,8,0.2
-2014-11-03,Jacksonville,Tables,6,0.4
-2014-11-03,Jacksonville,Furnishings,3,0.2
-2017-05-27,Pocatello,Furnishings,4,0.0
-2017-12-14,Plano,Tables,4,0.3
-2014-10-04,New York City,Chairs,5,0.1
-2016-10-13,New York City,Furnishings,3,0.0
-2017-03-04,Houston,Furnishings,5,0.6
-2017-07-31,San Francisco,Furnishings,7,0.0
-2017-05-14,Baltimore,Chairs,2,0.0
-2016-09-22,Louisville,Furnishings,2,0.0
-2016-12-02,Providence,Furnishings,6,0.0
-2014-01-14,Philadelphia,Bookcases,4,0.5
-2017-06-03,Pembroke Pines,Bookcases,2,0.2
-2017-06-03,New York City,Tables,2,0.4
-2014-09-15,Philadelphia,Furnishings,4,0.2
-2016-11-20,Orlando,Bookcases,2,0.2
-2015-07-24,Louisville,Furnishings,3,0.0
-2016-10-09,Philadelphia,Furnishings,4,0.2
-2017-09-15,San Francisco,Chairs,3,0.2
-2017-09-15,San Francisco,Furnishings,5,0.0
-2017-01-16,Jackson,Chairs,3,0.0
-2014-11-17,Buffalo,Bookcases,10,0.2
-2014-10-20,Knoxville,Tables,3,0.4
-2015-10-25,Newark,Chairs,5,0.0
-2017-11-16,Seattle,Furnishings,2,0.0
-2014-03-01,Elmhurst,Chairs,6,0.3
-2015-07-30,Lakeville,Chairs,6,0.0
-2015-11-01,New York City,Chairs,4,0.1
-2015-06-05,Buffalo,Chairs,9,0.1
-2014-05-07,Lawrence,Tables,2,0.3
-2014-05-07,Lawrence,Chairs,4,0.0
-2014-04-18,Houston,Chairs,3,0.3
-2017-03-03,Los Angeles,Chairs,3,0.2
-2016-10-22,Seattle,Furnishings,3,0.0
-2017-07-21,Salem,Furnishings,5,0.0
-2017-07-21,Salem,Bookcases,3,0.0
-2014-12-02,Clinton,Furnishings,3,0.0
-2014-12-02,Clinton,Chairs,8,0.0
-2016-05-26,Santa Ana,Chairs,6,0.2
-2015-04-21,Louisville,Chairs,2,0.0
-2015-04-21,Louisville,Furnishings,3,0.0
-2016-06-17,Los Angeles,Bookcases,2,0.15
-2017-01-13,Springfield,Bookcases,3,0.0
-2014-09-06,San Francisco,Furnishings,6,0.0
-2015-01-19,Texas City,Tables,1,0.3
-2015-01-19,Texas City,Chairs,4,0.3
-2016-12-25,Seattle,Chairs,3,0.2
-2016-12-25,Seattle,Tables,5,0.0
-2014-10-31,Lorain,Tables,8,0.4
-2016-12-15,Springfield,Tables,3,0.5
-2017-09-08,Arlington,Furnishings,2,0.6
-2017-09-08,Arlington,Chairs,5,0.3
-2017-02-20,Gilbert,Furnishings,2,0.2
-2017-02-20,Gilbert,Tables,9,0.5
-2017-10-26,Virginia Beach,Tables,5,0.0
-2017-05-12,Vineland,Furnishings,5,0.0
-2015-09-05,Charlottesville,Furnishings,4,0.0
-2014-10-10,Phoenix,Furnishings,7,0.2
-2014-11-05,Los Angeles,Furnishings,6,0.0
-2015-12-17,Bloomington,Furnishings,2,0.6
-2017-07-21,San Diego,Chairs,2,0.2
-2015-05-20,Wilson,Furnishings,4,0.2
-2015-11-14,Rio Rancho,Chairs,4,0.2
-2015-11-14,Rio Rancho,Chairs,3,0.2
-2017-12-14,Skokie,Furnishings,6,0.6
-2017-12-14,Skokie,Furnishings,3,0.6
-2016-04-08,Hot Springs,Furnishings,4,0.0
-2016-11-04,Miami,Furnishings,6,0.2
-2015-06-18,Smyrna,Chairs,4,0.2
-2014-05-26,Chicago,Chairs,2,0.3
-2017-07-06,Los Angeles,Chairs,3,0.2
-2016-06-28,Paterson,Chairs,2,0.0
-2017-09-15,Lakewood,Furnishings,5,0.0
-2017-09-15,Lakewood,Chairs,4,0.0
-2016-07-24,New York City,Chairs,2,0.1
-2017-04-20,Chicago,Chairs,3,0.3
-2017-04-20,Chicago,Furnishings,5,0.6
-2016-09-03,Baltimore,Bookcases,3,0.0
-2016-09-03,Baltimore,Furnishings,2,0.0
-2017-07-25,Philadelphia,Furnishings,4,0.2
-2017-07-25,Philadelphia,Tables,1,0.4
-2015-09-13,Atlanta,Furnishings,3,0.0
-2016-11-10,Sacramento,Furnishings,1,0.0
-2015-11-16,Chicago,Furnishings,2,0.6
-2015-08-25,Houston,Furnishings,2,0.6
-2015-08-25,Houston,Furnishings,5,0.6
-2016-12-25,Phoenix,Tables,1,0.5
-2016-12-25,Phoenix,Chairs,2,0.2
-2015-03-31,Houston,Furnishings,3,0.6
-2017-09-14,Philadelphia,Chairs,2,0.3
-2017-09-14,Philadelphia,Furnishings,8,0.2
-2014-06-17,Seattle,Furnishings,3,0.0
-2017-12-28,Peoria,Furnishings,3,0.6
-2017-12-28,Peoria,Chairs,2,0.3
-2017-12-28,Peoria,Furnishings,2,0.6
-2015-07-25,Montgomery,Tables,2,0.0
-2016-09-08,Santa Ana,Tables,1,0.2
-2017-10-15,Thousand Oaks,Furnishings,1,0.0
-2016-09-12,Springfield,Chairs,4,0.0
-2014-07-06,El Cajon,Chairs,2,0.2
-2014-04-20,Los Angeles,Furnishings,4,0.0
-2016-01-08,Franklin,Bookcases,6,0.0
-2017-04-17,Los Angeles,Chairs,3,0.2
-2016-08-21,Los Angeles,Tables,9,0.2
-2016-09-05,Chesapeake,Tables,3,0.0
-2015-10-15,Dallas,Furnishings,6,0.6
-2015-12-01,Seattle,Chairs,5,0.2
-2015-12-01,Seattle,Tables,9,0.0
-2015-05-31,Minneapolis,Chairs,8,0.0
-2017-09-18,Columbus,Furnishings,4,0.0
-2015-05-24,Naperville,Chairs,7,0.3
-2017-12-10,North Charleston,Furnishings,2,0.0
-2017-07-29,Seattle,Bookcases,2,0.0
-2014-12-16,Sacramento,Chairs,5,0.2
-2015-11-30,New York City,Bookcases,12,0.2
-2014-07-14,Philadelphia,Furnishings,2,0.2
-2016-09-02,Chicago,Furnishings,2,0.6
-2016-09-30,New York City,Bookcases,5,0.2
-2015-04-25,Aurora,Chairs,3,0.3
-2017-11-19,New York City,Tables,3,0.4
-2016-07-14,Columbus,Furnishings,1,0.0
-2016-01-10,Longview,Furnishings,5,0.0
-2015-06-28,Gilbert,Furnishings,4,0.2
-2015-11-08,Hampton,Furnishings,3,0.0
-2015-03-30,Normal,Chairs,4,0.3
-2014-08-19,Los Angeles,Furnishings,7,0.0
-2015-11-01,New York City,Chairs,2,0.1
-2014-12-15,Chicago,Furnishings,2,0.6
-2015-08-21,Springfield,Chairs,3,0.3
-2015-08-21,Springfield,Furnishings,1,0.2
-2017-12-09,Salinas,Bookcases,3,0.15
-2014-08-23,Denver,Furnishings,3,0.2
-2016-11-11,New York City,Chairs,3,0.1
-2017-11-09,San Diego,Chairs,3,0.2
-2017-12-17,New York City,Furnishings,2,0.0
-2017-07-18,Philadelphia,Chairs,4,0.3
-2014-04-08,Concord,Tables,1,0.2
-2016-12-11,Anaheim,Chairs,5,0.2
-2016-12-11,Anaheim,Tables,7,0.2
-2016-09-02,Charlotte,Tables,3,0.4
-2017-06-19,Newark,Chairs,6,0.3
-2017-06-19,Newark,Furnishings,3,0.2
-2016-05-05,Henderson,Tables,6,0.0
-2017-12-01,Seattle,Bookcases,2,0.0
-2015-08-09,New York City,Furnishings,3,0.0
-2016-11-14,Newark,Furnishings,4,0.0
-2017-11-26,Richmond,Tables,3,0.0
-2017-11-26,Richmond,Furnishings,2,0.0
-2017-11-26,Richmond,Chairs,3,0.0
-2015-11-20,Miami,Bookcases,3,0.2
-2017-09-07,Saint Charles,Furnishings,5,0.0
-2014-11-24,Virginia Beach,Furnishings,5,0.0
-2017-03-11,Philadelphia,Tables,3,0.4
-2017-12-22,Tuscaloosa,Chairs,2,0.0
-2017-12-22,Mesa,Tables,2,0.5
-2015-12-25,Columbus,Furnishings,6,0.0
-2014-07-22,San Francisco,Chairs,3,0.2
-2014-07-22,San Francisco,Tables,3,0.2
-2017-10-08,New York City,Chairs,2,0.1
-2017-04-21,Baltimore,Chairs,9,0.0
-2017-08-17,Houston,Chairs,4,0.3
-2017-08-17,Houston,Furnishings,2,0.6
-2016-11-12,San Diego,Tables,3,0.2
-2016-11-13,Seattle,Furnishings,2,0.0
-2016-11-27,Fort Lauderdale,Tables,7,0.45
-2016-10-28,Rochester,Furnishings,5,0.0
-2014-12-29,Saint Charles,Furnishings,3,0.6
-2017-10-02,San Francisco,Furnishings,2,0.0
-2016-07-14,San Francisco,Furnishings,4,0.0
-2016-03-08,New York City,Furnishings,8,0.0
-2016-12-24,San Jose,Furnishings,7,0.0
-2017-04-23,Pasadena,Furnishings,7,0.0
-2017-04-23,Pasadena,Furnishings,2,0.0
-2017-08-17,Philadelphia,Chairs,9,0.3
-2014-03-03,Columbus,Bookcases,5,0.5
-2016-05-30,Superior,Furnishings,5,0.0
-2014-11-23,Houston,Chairs,2,0.3
-2016-01-14,Concord,Furnishings,8,0.2
-2016-09-16,San Jose,Bookcases,2,0.15
-2015-11-13,Helena,Furnishings,7,0.0
-2017-09-09,Cleveland,Furnishings,2,0.2
-2016-06-20,Oklahoma City,Furnishings,3,0.0
-2016-01-23,Los Angeles,Furnishings,7,0.0
-2015-05-26,Bellevue,Furnishings,1,0.0
-2014-11-18,Des Plaines,Tables,4,0.5
-2014-11-18,Des Plaines,Furnishings,2,0.6
-2014-11-18,Des Plaines,Bookcases,6,0.3
-2017-09-04,Boynton Beach,Chairs,2,0.2
-2014-03-29,Plano,Tables,3,0.3
-2016-11-05,San Jose,Chairs,2,0.2
-2016-10-16,New York City,Tables,1,0.4
-2017-11-26,New York City,Furnishings,5,0.0
-2017-12-05,New York City,Furnishings,2,0.0
-2014-03-18,Burbank,Furnishings,2,0.0
-2016-11-12,Chicago,Furnishings,6,0.6
-2015-04-11,Tampa,Furnishings,2,0.2
-2015-04-11,Tampa,Furnishings,3,0.2
-2015-12-25,New York City,Bookcases,2,0.2
-2014-12-20,New York City,Chairs,3,0.1
-2014-07-26,Atlanta,Chairs,2,0.0
-2014-07-26,Atlanta,Furnishings,3,0.0
-2017-12-11,Jacksonville,Tables,6,0.45
-2017-12-11,Jacksonville,Chairs,1,0.2
-2016-10-09,Phoenix,Furnishings,2,0.2
-2014-12-30,Philadelphia,Tables,3,0.4
-2016-04-12,Los Angeles,Chairs,3,0.2
-2016-11-28,Philadelphia,Chairs,7,0.3
-2016-09-13,Omaha,Furnishings,14,0.0
-2017-11-29,Chattanooga,Chairs,2,0.2
-2017-11-29,Chattanooga,Furnishings,5,0.2
-2016-12-25,New York City,Tables,2,0.4
-2016-12-25,New York City,Chairs,3,0.1
-2016-09-08,Seattle,Furnishings,1,0.0
-2015-05-14,Camarillo,Bookcases,5,0.15
-2015-05-14,Camarillo,Furnishings,3,0.0
-2015-05-14,Camarillo,Chairs,2,0.2
-2015-05-14,Camarillo,Chairs,3,0.2
-2016-05-30,Los Angeles,Furnishings,8,0.0
-2014-04-08,Toledo,Tables,1,0.4
-2017-05-30,Tigard,Furnishings,1,0.2
-2016-03-13,Philadelphia,Chairs,2,0.3
-2017-04-10,Philadelphia,Furnishings,3,0.2
-2016-06-25,Houston,Chairs,2,0.3
-2016-06-25,Houston,Furnishings,2,0.6
-2015-03-24,Covington,Furnishings,5,0.0
-2017-09-02,Los Angeles,Tables,2,0.2
-2017-02-03,Chicago,Furnishings,1,0.6
-2017-11-11,Knoxville,Furnishings,5,0.2
-2017-09-17,Houston,Chairs,5,0.3
-2015-04-16,Waynesboro,Furnishings,7,0.0
-2015-04-16,Waynesboro,Bookcases,9,0.0
-2017-11-11,Los Angeles,Furnishings,4,0.0
-2014-09-15,New York City,Furnishings,2,0.0
-2014-01-06,Henderson,Chairs,9,0.0
-2014-12-15,Philadelphia,Chairs,7,0.3
-2015-12-19,Dover,Tables,4,0.3
-2015-09-10,Los Angeles,Furnishings,6,0.0
-2017-09-11,Houston,Tables,5,0.3
-2017-07-14,Westminster,Furnishings,3,0.0
-2017-07-14,Westminster,Furnishings,3,0.0
-2017-07-14,Columbus,Furnishings,5,0.2
-2016-09-05,Lancaster,Chairs,2,0.3
-2014-09-10,Gresham,Chairs,5,0.2
-2017-09-26,San Francisco,Furnishings,3,0.0
-2016-06-17,Longmont,Furnishings,3,0.2
-2016-06-17,Longmont,Chairs,4,0.2
-2017-02-25,Greenville,Chairs,2,0.2
-2017-02-25,Greenville,Bookcases,5,0.2
-2017-12-03,Houston,Furnishings,2,0.6
-2017-12-02,Denver,Bookcases,8,0.7
-2017-12-02,Denver,Furnishings,6,0.2
-2017-12-02,Denver,Chairs,5,0.2
-2016-09-05,Houston,Furnishings,3,0.6
-2014-05-10,Philadelphia,Bookcases,7,0.5
-2014-11-01,Long Beach,Furnishings,6,0.0
-2016-12-30,Lancaster,Chairs,1,0.3
-2016-09-03,Chicago,Bookcases,4,0.3
-2016-01-30,Seattle,Chairs,4,0.2
-2016-01-30,Seattle,Bookcases,1,0.0
-2014-10-21,Newport News,Tables,4,0.0
-2016-12-18,Omaha,Chairs,3,0.0
-2015-04-16,New York City,Chairs,2,0.1
-2017-11-16,Roseville,Furnishings,3,0.0
-2016-09-05,Philadelphia,Furnishings,9,0.2
-2016-09-05,Philadelphia,Chairs,2,0.3
-2016-09-05,Philadelphia,Chairs,3,0.3
-2016-05-27,Chicago,Furnishings,3,0.6
-2016-05-27,Chicago,Furnishings,2,0.6
-2015-08-24,New York City,Furnishings,3,0.0
-2017-10-27,Los Angeles,Tables,1,0.2
-2014-11-25,Los Angeles,Chairs,4,0.2
-2015-05-23,Detroit,Furnishings,9,0.0
-2014-03-30,Brownsville,Chairs,7,0.3
-2017-12-29,Louisville,Chairs,8,0.0
-2017-12-29,Louisville,Chairs,1,0.0
-2017-12-29,Louisville,Chairs,3,0.0
-2017-03-02,Newark,Bookcases,2,0.0
-2015-04-05,Los Angeles,Chairs,3,0.2
-2016-03-15,San Francisco,Chairs,4,0.2
-2015-12-27,Marion,Tables,9,0.4
-2015-11-30,Las Vegas,Furnishings,4,0.0
-2014-04-15,Los Angeles,Furnishings,4,0.0
-2014-01-07,Huntsville,Furnishings,3,0.6
-2014-10-22,Bossier City,Furnishings,4,0.0
-2015-11-27,Everett,Bookcases,1,0.0
-2015-11-27,Everett,Furnishings,3,0.0
-2015-11-27,Everett,Tables,4,0.3
-2014-12-31,Providence,Bookcases,2,0.0
-2014-12-31,Providence,Chairs,6,0.0
-2016-11-25,Jackson,Tables,9,0.0
-2017-07-15,Suffolk,Tables,3,0.0
-2016-03-22,Seattle,Chairs,7,0.2
-2017-12-14,Lawrence,Tables,2,0.3
-2016-08-26,Detroit,Tables,4,0.0
-2017-10-28,Fayetteville,Furnishings,3,0.2
-2015-09-10,Austin,Chairs,1,0.3
-2017-06-13,Seattle,Chairs,4,0.2
-2015-06-18,Arlington,Furnishings,3,0.0
-2015-11-30,Jacksonville,Furnishings,2,0.2
-2017-11-13,Buffalo,Furnishings,3,0.0
-2017-08-12,Columbia,Chairs,5,0.0
-2016-11-04,Charlotte,Tables,10,0.4
-2016-05-17,Chicago,Furnishings,3,0.6
-2017-03-24,New York City,Chairs,3,0.1
-2014-03-24,Fresno,Furnishings,2,0.0
-2016-02-14,Clinton,Tables,3,0.3
-2016-02-14,Clinton,Furnishings,6,0.0
-2017-06-08,Los Angeles,Bookcases,2,0.15
-2014-05-16,Los Angeles,Chairs,5,0.2
-2015-02-03,Rome,Chairs,1,0.1
-2015-04-26,San Diego,Chairs,3,0.2
-2015-04-13,Los Angeles,Tables,2,0.2
-2015-09-25,Seattle,Chairs,4,0.2
-2014-03-28,Des Moines,Tables,4,0.0
-2017-07-21,Pharr,Tables,4,0.3
-2016-02-27,Houston,Furnishings,2,0.6
-2015-07-14,Mesa,Chairs,2,0.2
-2015-07-14,Mesa,Bookcases,6,0.7
-2016-10-03,Lake Forest,Chairs,4,0.2
-2016-11-29,Aurora,Furnishings,4,0.6
-2016-06-14,Philadelphia,Tables,2,0.4
-2017-12-03,Thornton,Furnishings,3,0.2
-2017-12-03,Thornton,Furnishings,5,0.2
-2017-12-03,Thornton,Furnishings,1,0.2
-2016-12-25,Fayetteville,Furnishings,5,0.0
-2017-08-13,Memphis,Furnishings,1,0.2
-2017-08-13,Memphis,Chairs,2,0.2
-2016-12-03,Morgan Hill,Tables,3,0.2
-2016-12-03,Morgan Hill,Bookcases,2,0.15
-2016-04-28,Saint Charles,Furnishings,2,0.6
-2015-11-20,Philadelphia,Chairs,4,0.3
-2017-11-20,New York City,Furnishings,3,0.0
-2017-07-25,Dallas,Tables,6,0.3
-2016-07-15,Portland,Chairs,3,0.2
-2016-12-14,San Diego,Chairs,2,0.2
-2014-03-01,El Paso,Chairs,6,0.3
-2014-03-01,El Paso,Furnishings,6,0.6
-2017-10-05,Chico,Chairs,4,0.2
-2017-10-05,Chico,Furnishings,5,0.0
-2017-10-05,Chico,Tables,3,0.2
-2016-10-10,Denver,Bookcases,3,0.7
-2016-10-10,Denver,Chairs,1,0.2
-2015-08-16,Philadelphia,Furnishings,3,0.2
-2014-09-10,Clifton,Furnishings,5,0.0
-2015-11-20,Aurora,Bookcases,6,0.7
-2017-11-03,San Diego,Tables,12,0.2
-2014-05-04,Seattle,Furnishings,7,0.0
-2014-12-01,Lowell,Furnishings,3,0.0
-2014-12-01,Lowell,Furnishings,2,0.0
-2015-11-17,Oklahoma City,Chairs,5,0.0
-2017-05-25,New York City,Furnishings,3,0.0
-2014-09-09,Lancaster,Furnishings,6,0.2
-2014-07-21,Dallas,Chairs,5,0.3
-2015-09-11,New York City,Furnishings,2,0.0
-2016-01-07,Amarillo,Furnishings,3,0.6
-2015-06-25,Houston,Furnishings,9,0.6
-2017-06-30,Los Angeles,Bookcases,3,0.15
-2017-08-21,Seattle,Chairs,6,0.2
-2017-03-11,Cambridge,Furnishings,1,0.0
-2014-09-26,Philadelphia,Furnishings,1,0.2
-2015-08-28,Los Angeles,Bookcases,2,0.15
-2015-08-28,Los Angeles,Furnishings,2,0.0
-2015-10-20,San Francisco,Furnishings,6,0.0
-2017-01-01,Huntsville,Furnishings,5,0.6
-2017-01-01,Huntsville,Chairs,4,0.3
-2015-06-23,East Point,Furnishings,3,0.0
-2016-10-20,Arlington,Furnishings,5,0.0
-2017-07-27,Seattle,Furnishings,3,0.0
-2017-02-17,Houston,Bookcases,1,0.32
-2017-12-08,Philadelphia,Chairs,4,0.3
-2017-11-18,Chicago,Chairs,2,0.3
-2016-12-01,San Angelo,Chairs,5,0.3
-2016-12-01,San Angelo,Chairs,2,0.3
-2017-08-29,Los Angeles,Furnishings,3,0.0
-2017-07-22,Chicago,Chairs,4,0.3
-2016-11-11,San Francisco,Furnishings,2,0.0
-2016-11-11,San Francisco,Chairs,3,0.2
-2017-09-07,Modesto,Chairs,2,0.2
-2017-08-26,Chicago,Furnishings,5,0.6
-2015-10-08,Dallas,Furnishings,3,0.6
-2016-08-12,Lakeland,Tables,7,0.45
-2014-11-09,New York City,Furnishings,9,0.0
-2016-02-05,San Diego,Tables,4,0.2
-2014-01-26,Rapid City,Bookcases,2,0.0
-2016-10-04,Baltimore,Tables,2,0.3
-2016-02-16,Belleville,Chairs,2,0.0
-2015-11-02,San Diego,Furnishings,6,0.0
-2015-11-02,San Diego,Bookcases,3,0.15
-2016-07-31,San Francisco,Tables,7,0.2
-2017-11-06,Seattle,Tables,7,0.0
-2017-11-06,Seattle,Chairs,2,0.2
-2015-08-02,Springfield,Tables,4,0.5
-2015-11-21,Philadelphia,Tables,8,0.4
-2017-05-18,Chicago,Furnishings,3,0.6
-2017-05-18,Chicago,Furnishings,1,0.6
-2015-09-13,Chicago,Chairs,4,0.3
-2017-11-17,New York City,Furnishings,4,0.0
-2015-11-30,Durham,Furnishings,2,0.2
-2015-11-08,New York City,Furnishings,3,0.0
-2015-11-08,New York City,Chairs,2,0.1
-2015-04-26,Daytona Beach,Tables,1,0.45
-2016-11-07,Dallas,Furnishings,5,0.6
-2014-10-03,Dallas,Furnishings,3,0.6
-2016-04-04,Troy,Furnishings,2,0.0
-2016-06-30,Sandy Springs,Bookcases,7,0.0
-2017-05-01,Jacksonville,Tables,4,0.45
-2017-05-01,Jacksonville,Chairs,5,0.2
-2017-10-20,Jacksonville,Furnishings,4,0.2
-2014-08-12,San Francisco,Furnishings,3,0.0
-2015-03-05,Chicago,Furnishings,2,0.6
-2017-01-30,Aurora,Tables,1,0.5
-2016-12-25,New York City,Chairs,8,0.1
-2016-10-20,El Cajon,Chairs,4,0.2
-2017-05-09,Jacksonville,Chairs,3,0.2
-2015-12-21,Saint Charles,Furnishings,3,0.6
-2015-07-05,Charlotte,Furnishings,2,0.2
-2017-07-26,Los Angeles,Chairs,3,0.2
-2017-11-03,Bakersfield,Tables,4,0.2
-2014-03-01,Houston,Tables,3,0.3
-2017-01-26,Columbus,Furnishings,4,0.0
-2014-07-12,League City,Chairs,3,0.3
-2016-03-09,Andover,Chairs,5,0.0
-2017-04-13,Hesperia,Chairs,6,0.2
-2014-03-21,Knoxville,Furnishings,3,0.2
-2014-03-21,Knoxville,Chairs,3,0.2
-2015-04-30,Lawrence,Furnishings,5,0.0
-2015-04-30,Lawrence,Furnishings,1,0.0
-2015-04-30,Lawrence,Furnishings,5,0.0
-2017-05-03,Philadelphia,Furnishings,2,0.2
-2017-05-03,Philadelphia,Tables,5,0.4
-2016-08-26,Athens,Furnishings,3,0.0
-2017-01-02,El Paso,Tables,5,0.3
-2016-06-11,Los Angeles,Tables,3,0.2
-2016-10-17,Fresno,Bookcases,2,0.15
-2016-11-24,Seattle,Furnishings,3,0.0
-2016-02-08,Houston,Chairs,4,0.3
-2017-12-23,Danbury,Furnishings,2,0.0
-2016-12-01,Franklin,Furnishings,5,0.0
-2016-12-01,Franklin,Tables,3,0.3
-2017-11-02,Springfield,Chairs,2,0.3
-2015-12-05,New York City,Chairs,3,0.1
-2017-07-08,Newark,Furnishings,4,0.0
-2017-07-08,Newark,Furnishings,2,0.0
-2016-11-15,Burlington,Tables,4,0.4
-2017-03-10,Dallas,Tables,4,0.3
-2017-05-09,Seattle,Tables,1,0.0
-2017-10-12,Lakewood,Furnishings,2,0.0
-2017-10-12,Lakewood,Bookcases,5,0.0
-2016-12-19,Reading,Furnishings,5,0.2
-2017-11-08,Baltimore,Furnishings,10,0.0
-2014-09-14,Corpus Christi,Furnishings,5,0.6
-2017-10-23,Cranston,Tables,4,0.3
-2017-10-23,Cranston,Furnishings,4,0.0
-2017-10-23,Cranston,Furnishings,2,0.0
-2017-10-23,Cranston,Tables,3,0.3
-2016-04-18,Houston,Chairs,4,0.3
-2016-04-18,Houston,Furnishings,5,0.6
-2017-05-28,Chicago,Chairs,3,0.3
-2016-11-11,Noblesville,Tables,6,0.0
-2017-04-23,Clarksville,Bookcases,4,0.2
-2017-04-23,Clarksville,Furnishings,3,0.2
-2017-09-24,Seattle,Furnishings,10,0.0
-2016-02-02,Arlington,Furnishings,7,0.0
-2015-03-01,Los Angeles,Chairs,3,0.2
-2016-05-02,Amarillo,Chairs,4,0.3
-2016-02-02,Houston,Furnishings,2,0.6
-2017-06-04,Frisco,Furnishings,6,0.6
-2017-12-04,Paterson,Furnishings,1,0.0
-2017-12-04,Paterson,Chairs,3,0.0
-2017-12-04,Paterson,Chairs,3,0.0
-2016-01-11,Columbus,Furnishings,14,0.2
-2017-03-16,Columbus,Furnishings,6,0.2
-2017-11-10,Los Angeles,Chairs,2,0.2
-2016-11-30,Detroit,Chairs,3,0.0
-2015-12-22,Philadelphia,Chairs,7,0.3
-2016-03-27,Columbus,Furnishings,1,0.0
-2016-03-27,Columbus,Furnishings,4,0.0
-2015-09-11,Aurora,Furnishings,4,0.2
-2016-12-09,Springfield,Tables,7,0.0
-2016-12-23,Houston,Furnishings,2,0.6
-2016-04-02,Milwaukee,Chairs,5,0.0
-2017-04-30,Sanford,Furnishings,6,0.2
-2017-07-03,Concord,Furnishings,1,0.0
-2017-12-22,Rochester,Tables,2,0.0
-2014-05-20,San Marcos,Furnishings,3,0.6
-2017-04-23,Greeley,Furnishings,3,0.2
-2014-06-04,New York City,Furnishings,2,0.0
-2014-06-04,New York City,Bookcases,2,0.2
-2014-06-04,New York City,Furnishings,2,0.0
-2017-03-03,Los Angeles,Tables,7,0.2
-2017-11-06,Dallas,Furnishings,5,0.6
-2015-09-07,New York City,Tables,2,0.4
-2016-07-28,Bethlehem,Bookcases,5,0.5
-2017-08-25,Philadelphia,Bookcases,2,0.5
-2017-04-27,Seattle,Furnishings,7,0.0
-2015-11-08,Jacksonville,Furnishings,1,0.2
-2016-11-25,Los Angeles,Chairs,3,0.2
-2015-12-05,Nashville,Chairs,2,0.2
-2014-09-13,Seattle,Furnishings,3,0.0
-2017-11-25,Fort Lauderdale,Bookcases,5,0.2
-2015-05-12,Houston,Furnishings,4,0.6
-2017-03-30,Lakewood,Furnishings,5,0.0
-2014-12-27,Cleveland,Furnishings,3,0.2
-2017-02-16,Decatur,Chairs,3,0.3
-2017-02-16,Decatur,Furnishings,1,0.6
-2017-10-24,Mansfield,Tables,5,0.3
-2017-09-15,San Francisco,Tables,1,0.2
-2017-06-15,Nashville,Furnishings,4,0.2
-2017-06-15,Nashville,Tables,2,0.4
-2014-09-08,New York City,Chairs,2,0.1
-2014-11-16,Los Angeles,Bookcases,3,0.15
-2014-03-03,San Diego,Tables,3,0.2
-2015-12-03,San Francisco,Bookcases,3,0.15
-2016-06-12,Houston,Furnishings,2,0.6
-2016-06-12,Houston,Chairs,2,0.3
-2015-12-27,Murfreesboro,Furnishings,3,0.2
-2015-12-27,Murfreesboro,Bookcases,2,0.2
-2017-06-27,Seattle,Furnishings,3,0.0
-2015-10-02,Hillsboro,Furnishings,1,0.2
-2017-02-02,San Diego,Furnishings,2,0.0
-2016-07-22,Columbia,Furnishings,3,0.0
-2016-09-12,Louisville,Chairs,4,0.2
-2016-07-02,Huntsville,Chairs,5,0.3
-2017-12-13,New York City,Bookcases,3,0.2
-2015-03-01,Houston,Bookcases,6,0.32
-2016-09-15,Twin Falls,Tables,3,0.0
-2017-06-15,Monroe,Chairs,3,0.2
-2017-06-15,Monroe,Bookcases,2,0.2
-2016-11-10,Oklahoma City,Bookcases,2,0.0
-2016-09-12,Utica,Furnishings,2,0.0
-2015-07-26,Glendale,Chairs,3,0.2
-2015-11-15,Harrisonburg,Furnishings,2,0.0
-2015-07-02,Raleigh,Furnishings,10,0.2
-2015-09-11,Paterson,Furnishings,4,0.0
-2014-09-20,Chicago,Bookcases,5,0.3
-2017-12-01,Seattle,Furnishings,12,0.0
-2017-12-01,Stockton,Furnishings,9,0.0
-2016-09-16,Columbus,Chairs,2,0.0
-2015-12-01,San Diego,Chairs,9,0.2
-2014-08-05,Texas City,Tables,2,0.3
-2016-08-15,Los Angeles,Furnishings,3,0.0
-2016-05-31,Decatur,Furnishings,3,0.6
-2016-05-31,Decatur,Chairs,3,0.3
-2014-04-02,Virginia Beach,Furnishings,2,0.0
-2016-10-04,Coral Gables,Furnishings,3,0.2
-2016-01-30,Rockford,Tables,3,0.5
-2015-04-13,Huntsville,Tables,4,0.3
-2015-04-13,Huntsville,Tables,2,0.3
-2017-12-18,Milwaukee,Furnishings,5,0.0
-2016-03-14,Green Bay,Furnishings,2,0.0
-2017-10-10,Aurora,Chairs,3,0.3
-2017-12-22,Jackson,Tables,6,0.4
-2014-08-08,Jacksonville,Bookcases,4,0.2
-2017-12-25,Hialeah,Furnishings,3,0.2
-2017-11-25,Houston,Chairs,5,0.3
-2016-11-05,Virginia Beach,Furnishings,2,0.0
-2016-11-05,Virginia Beach,Furnishings,5,0.0
-2016-11-03,Philadelphia,Chairs,7,0.3
-2017-03-24,New York City,Chairs,2,0.1
-2017-04-25,Los Angeles,Bookcases,7,0.15
-2017-11-23,Dallas,Tables,1,0.3
-2016-03-06,Chicago,Furnishings,5,0.6
-2016-03-06,Chicago,Tables,2,0.5
-2015-12-03,Jacksonville,Furnishings,3,0.2
-2015-12-24,Springfield,Furnishings,2,0.0
-2017-10-16,Columbia,Tables,7,0.4
-2017-05-13,Philadelphia,Chairs,5,0.3
-2017-11-18,Milwaukee,Furnishings,2,0.0
-2016-02-21,New York City,Furnishings,7,0.0
-2014-12-16,Springfield,Furnishings,6,0.0
-2016-08-22,Fort Collins,Furnishings,3,0.2
-2015-06-29,New York City,Chairs,1,0.1
-2016-06-26,New York City,Furnishings,3,0.0
-2016-09-17,Marlborough,Furnishings,3,0.0
-2016-09-17,Marlborough,Furnishings,3,0.0
-2017-09-01,Seattle,Tables,4,0.0
-2017-06-22,Detroit,Chairs,2,0.0
-2014-09-19,Chandler,Tables,1,0.5
-2014-09-28,Hollywood,Furnishings,4,0.2
-2015-11-02,New York City,Chairs,11,0.1
-2015-10-20,Los Angeles,Furnishings,7,0.0
-2015-10-20,Los Angeles,Tables,3,0.2
-2016-06-14,Seattle,Tables,7,0.0
-2016-09-02,Des Moines,Chairs,3,0.2
-2017-12-04,Philadelphia,Furnishings,3,0.2
-2016-02-16,Henderson,Furnishings,4,0.0
-2016-09-26,Houston,Chairs,5,0.3
-2015-06-28,Troy,Bookcases,6,0.5
-2015-11-07,Houston,Furnishings,5,0.6
-2017-01-19,Philadelphia,Furnishings,2,0.2
-2017-01-19,Philadelphia,Chairs,3,0.3
-2016-08-18,Houston,Furnishings,3,0.6
-2016-08-18,Houston,Furnishings,4,0.6
-2016-03-24,Cleveland,Bookcases,3,0.5
-2017-05-28,Laurel,Furnishings,2,0.0
-2016-08-01,Philadelphia,Furnishings,2,0.2
-2016-12-08,Eau Claire,Bookcases,7,0.0
-2016-12-08,Eau Claire,Chairs,3,0.0
-2016-12-01,Oxnard,Furnishings,2,0.0
-2017-08-07,Westminster,Furnishings,1,0.0
-2017-08-07,Westminster,Chairs,1,0.2
-2014-05-10,San Jose,Chairs,1,0.2
-2016-10-17,Perth Amboy,Bookcases,1,0.0
-2014-12-08,San Francisco,Furnishings,2,0.0
-2014-12-08,San Francisco,Furnishings,3,0.0
-2015-08-16,Philadelphia,Bookcases,3,0.5
-2017-10-13,Lafayette,Tables,4,0.0
-2016-09-02,Los Angeles,Furnishings,9,0.0
-2016-09-02,Los Angeles,Tables,3,0.2
-2017-02-11,Columbus,Furnishings,2,0.2
-2014-07-09,San Francisco,Bookcases,1,0.15
-2014-02-11,Columbia,Chairs,1,0.0
-2014-02-11,Columbia,Furnishings,3,0.0
-2017-09-02,Seattle,Chairs,3,0.2
-2015-10-09,Detroit,Chairs,3,0.0
-2014-02-08,North Las Vegas,Furnishings,2,0.0
-2015-09-25,Freeport,Chairs,1,0.1
-2016-05-12,New York City,Furnishings,3,0.0
-2017-12-01,Philadelphia,Chairs,2,0.3
-2016-09-20,Seattle,Bookcases,2,0.0
-2014-11-18,Franklin,Chairs,3,0.0
-2015-11-21,Monroe,Furnishings,1,0.2
-2017-06-19,Dallas,Tables,3,0.3
-2017-11-30,Philadelphia,Chairs,6,0.3
-2017-05-28,Cleveland,Bookcases,4,0.5
-2015-04-18,Mcallen,Chairs,1,0.3
-2017-07-20,New York City,Chairs,2,0.1
-2017-07-20,New York City,Furnishings,4,0.0
-2016-11-04,Houston,Furnishings,3,0.6
-2016-11-04,Houston,Furnishings,4,0.6
-2017-09-23,Los Angeles,Chairs,2,0.2
-2017-09-07,Edmonds,Furnishings,4,0.0
-2017-05-01,Coral Springs,Bookcases,3,0.2
-2017-02-17,Troy,Tables,5,0.4
-2017-02-17,Troy,Furnishings,2,0.2
-2017-02-17,Troy,Chairs,5,0.3
-2016-12-22,Moreno Valley,Furnishings,8,0.0
-2016-12-22,Moreno Valley,Furnishings,2,0.0
-2016-09-23,Seattle,Chairs,3,0.2
-2017-09-24,Chicago,Chairs,2,0.3
-2016-01-25,New York City,Tables,3,0.4
-2016-01-25,New York City,Furnishings,1,0.0
-2017-03-21,Seattle,Furnishings,3,0.0
-2017-11-07,Clinton,Chairs,3,0.0
-2015-05-29,Columbus,Furnishings,4,0.2
-2015-05-29,Columbus,Chairs,3,0.3
-2014-12-23,Tampa,Chairs,1,0.2
-2017-08-27,Mesa,Furnishings,8,0.2
-2015-10-25,Denver,Chairs,8,0.2
-2014-09-20,New York City,Chairs,2,0.1
-2014-09-20,New York City,Bookcases,2,0.2
-2014-06-24,Tucson,Furnishings,2,0.2
-2016-08-12,New York City,Tables,2,0.4
-2017-09-22,New York City,Furnishings,1,0.0
-2017-12-10,Philadelphia,Furnishings,5,0.2
-2015-01-27,Los Angeles,Chairs,5,0.2
-2015-10-18,Seattle,Furnishings,3,0.0
-2014-09-12,New York City,Chairs,6,0.1
-2014-11-27,Buffalo,Furnishings,5,0.0
-2014-05-11,Huntsville,Chairs,8,0.3
-2015-08-28,Dallas,Tables,1,0.3
-2017-05-27,Tulsa,Furnishings,5,0.0
-2017-11-25,Louisville,Chairs,2,0.0
-2016-11-19,Seattle,Furnishings,2,0.0
-2017-11-05,New York City,Tables,2,0.4
-2017-11-05,New York City,Chairs,2,0.1
-2017-11-05,New York City,Furnishings,5,0.0
-2015-05-31,Chicago,Furnishings,2,0.6
-2016-12-02,Houston,Bookcases,10,0.32
-2017-10-12,Wheeling,Tables,3,0.3
-2016-01-03,Broken Arrow,Tables,7,0.0
-2016-05-26,Milwaukee,Furnishings,3,0.0
-2015-11-20,San Francisco,Furnishings,3,0.0
-2017-05-30,Dallas,Bookcases,1,0.32
-2017-12-05,Seattle,Furnishings,5,0.0
-2016-10-27,New York City,Chairs,14,0.1
-2017-06-12,Chicago,Furnishings,3,0.6
-2016-09-25,San Francisco,Bookcases,2,0.15
-2015-05-11,Phoenix,Chairs,7,0.2
-2015-08-06,Houston,Bookcases,3,0.32
-2016-09-22,Broomfield,Furnishings,7,0.2
-2015-11-28,Columbus,Furnishings,5,0.2
-2014-10-17,Houston,Furnishings,2,0.6
-2016-05-03,Newark,Furnishings,2,0.2
-2014-03-31,Tampa,Chairs,7,0.2
-2015-08-13,Pomona,Furnishings,3,0.0
-2015-05-26,San Antonio,Chairs,1,0.3
-2015-05-26,San Antonio,Chairs,5,0.3
-2017-09-14,New York City,Chairs,5,0.1
-2017-06-25,New York City,Bookcases,1,0.2
-2016-07-28,Pasadena,Furnishings,5,0.6
-2016-07-28,Pasadena,Furnishings,5,0.6
-2015-09-19,Sacramento,Furnishings,3,0.0
-2016-06-17,Rochester,Tables,3,0.4
-2016-05-16,Los Angeles,Furnishings,4,0.0
-2017-06-29,Dallas,Tables,3,0.3
-2017-06-29,Dallas,Bookcases,3,0.32
-2014-10-14,Everett,Chairs,9,0.0
-2014-11-18,Seattle,Furnishings,2,0.0
-2014-11-18,Seattle,Tables,4,0.0
-2015-01-28,Concord,Tables,13,0.4
-2014-03-07,Seattle,Chairs,6,0.2
-2014-03-07,Seattle,Chairs,2,0.2
-2016-11-26,Los Angeles,Bookcases,8,0.15
-2016-11-26,Los Angeles,Furnishings,6,0.0
-2014-09-22,New York City,Furnishings,3,0.0
-2014-09-22,New York City,Chairs,4,0.1
-2017-11-16,Los Angeles,Furnishings,3,0.0
-2017-11-16,Los Angeles,Furnishings,3,0.0
-2016-05-06,Bakersfield,Furnishings,4,0.0
-2017-12-13,San Francisco,Furnishings,8,0.0
-2015-11-13,Houston,Bookcases,3,0.32
-2016-03-11,Philadelphia,Furnishings,4,0.2
-2016-10-21,Los Angeles,Chairs,3,0.2
-2016-10-21,Los Angeles,Furnishings,2,0.0
-2014-11-05,Philadelphia,Furnishings,2,0.2
-2016-09-22,Green Bay,Furnishings,2,0.0
-2016-02-16,New York City,Chairs,3,0.1
-2014-08-20,Hampton,Chairs,13,0.0
-2015-11-08,Burlington,Bookcases,5,0.0
-2017-11-24,Los Angeles,Tables,2,0.2
-2017-11-24,Los Angeles,Tables,2,0.2
-2014-11-11,Chicago,Furnishings,2,0.6
-2014-11-11,Chicago,Chairs,4,0.3
-2017-03-27,Richmond,Tables,2,0.0
-2016-10-31,San Francisco,Chairs,5,0.2
-2016-11-24,Hialeah,Bookcases,5,0.2
-2014-07-26,San Antonio,Furnishings,3,0.6
-2015-05-31,Paterson,Furnishings,2,0.0
-2014-11-05,Hampton,Chairs,5,0.0
-2017-03-27,Houston,Bookcases,5,0.32
-2017-03-27,Houston,Chairs,3,0.3
-2017-03-27,Houston,Chairs,2,0.3
-2014-05-21,Houston,Chairs,2,0.3
-2015-07-18,New York City,Furnishings,1,0.0
-2016-10-21,Fort Lauderdale,Furnishings,2,0.2
-2017-07-27,Raleigh,Chairs,4,0.2
-2015-06-08,Saint Petersburg,Furnishings,7,0.2
-2014-08-15,San Francisco,Chairs,4,0.2
-2017-07-16,Charlotte,Chairs,3,0.2
-2014-12-16,Beaumont,Furnishings,7,0.6
-2016-10-10,La Porte,Furnishings,4,0.6
-2016-09-25,Long Beach,Chairs,4,0.2
-2014-06-03,Decatur,Furnishings,7,0.6
-2017-09-02,Los Angeles,Furnishings,5,0.0
-2016-05-02,New York City,Furnishings,2,0.0
-2016-05-02,New York City,Furnishings,5,0.0
-2017-06-19,San Francisco,Furnishings,4,0.0
-2015-03-26,Seattle,Tables,8,0.0
-2017-01-14,Richmond,Furnishings,2,0.0
-2014-11-01,Mason,Furnishings,2,0.2
-2016-08-21,New York City,Chairs,7,0.1
-2016-07-25,Milwaukee,Chairs,4,0.0
-2016-07-25,Milwaukee,Furnishings,5,0.0
-2016-06-06,Fairfield,Furnishings,3,0.2
-2016-06-06,Fairfield,Furnishings,2,0.2
-2014-03-28,Springfield,Tables,1,0.4
-2017-08-21,Louisville,Furnishings,3,0.2
-2014-11-12,Carrollton,Furnishings,3,0.6
-2015-09-13,Anaheim,Furnishings,7,0.0
-2015-09-13,Anaheim,Chairs,3,0.2
-2015-09-13,Anaheim,Furnishings,5,0.0
-2015-09-13,Anaheim,Furnishings,3,0.0
-2015-10-10,Santa Barbara,Chairs,3,0.2
-2017-01-29,Marion,Furnishings,3,0.0
-2016-03-15,Bryan,Chairs,5,0.3
-2016-09-04,San Francisco,Furnishings,3,0.0
-2015-11-13,San Bernardino,Bookcases,4,0.15
-2016-06-03,Los Angeles,Tables,2,0.2
-2016-12-12,New York City,Furnishings,5,0.0
-2017-06-01,Indianapolis,Chairs,6,0.0
-2015-12-14,Los Angeles,Tables,2,0.2
-2015-03-19,Houston,Bookcases,4,0.32
-2016-12-05,Newark,Furnishings,1,0.0
-2015-09-06,Lafayette,Tables,1,0.0
-2014-01-21,Miami,Furnishings,3,0.2
-2017-02-26,Costa Mesa,Furnishings,2,0.0
+Date,Product,Quantity,Discount
+2016-11-08,Bookcases,2,0.0
+2016-11-08,Chairs,3,0.0
+2015-10-11,Tables,5,0.45
+2014-06-09,Furnishings,7,0.0
+2014-06-09,Tables,9,0.2
+2017-07-16,Chairs,2,0.3
+2015-09-25,Tables,3,0.0
+2015-09-17,Bookcases,7,0.5
+2015-09-17,Furnishings,3,0.2
+2016-12-08,Furnishings,5,0.6
+2015-12-27,Bookcases,3,0.32
+2015-12-27,Chairs,3,0.3
+2015-04-18,Furnishings,2,0.0
+2015-04-18,Chairs,1,0.0
+2016-06-17,Chairs,5,0.1
+2015-11-24,Furnishings,4,0.0
+2015-04-30,Chairs,5,0.3
+2015-04-26,Chairs,8,0.2
+2015-04-26,Furnishings,2,0.2
+2017-12-09,Furnishings,3,0.6
+2014-11-26,Furnishings,5,0.6
+2017-05-28,Chairs,2,0.0
+2015-01-31,Furnishings,3,0.0
+2017-11-09,Furnishings,7,0.0
+2015-11-13,Furnishings,3,0.2
+2017-12-25,Furnishings,2,0.0
+2015-03-02,Tables,3,0.0
+2016-06-12,Furnishings,3,0.0
+2014-12-26,Chairs,3,0.3
+2014-09-20,Tables,6,0.5
+2016-11-06,Chairs,2,0.2
+2016-11-06,Furnishings,3,0.0
+2016-10-13,Furnishings,14,0.0
+2016-09-05,Furnishings,2,0.2
+2014-10-22,Furnishings,4,0.2
+2016-12-05,Chairs,8,0.0
+2014-03-01,Chairs,2,0.2
+2014-09-08,Chairs,9,0.3
+2014-08-05,Chairs,7,0.2
+2015-11-21,Chairs,7,0.3
+2015-10-12,Bookcases,4,0.2
+2015-10-12,Bookcases,3,0.2
+2014-08-03,Tables,2,0.5
+2017-06-03,Furnishings,7,0.2
+2015-01-02,Bookcases,5,0.5
+2015-12-24,Furnishings,4,0.2
+2015-08-09,Tables,5,0.0
+2015-02-28,Chairs,2,0.2
+2015-02-28,Chairs,8,0.2
+2017-04-07,Tables,2,0.45
+2017-04-07,Tables,3,0.45
+2017-04-07,Furnishings,3,0.2
+2016-06-04,Furnishings,5,0.6
+2016-06-04,Furnishings,3,0.6
+2016-06-04,Tables,5,0.5
+2016-06-04,Furnishings,3,0.6
+2014-06-01,Chairs,7,0.0
+2016-12-10,Chairs,2,0.2
+2015-11-28,Furnishings,9,0.6
+2015-07-30,Furnishings,3,0.0
+2015-11-02,Tables,5,0.2
+2016-11-20,Bookcases,3,0.5
+2014-12-26,Furnishings,8,0.2
+2014-12-26,Chairs,3,0.2
+2014-12-26,Furnishings,3,0.2
+2016-10-28,Furnishings,4,0.0
+2017-11-19,Tables,3,0.5
+2015-05-04,Furnishings,2,0.0
+2016-09-12,Furnishings,4,0.2
+2016-09-12,Chairs,2,0.2
+2016-09-12,Furnishings,1,0.2
+2014-09-27,Furnishings,3,0.0
+2014-11-04,Chairs,1,0.1
+2017-11-03,Furnishings,1,0.2
+2016-08-30,Chairs,4,0.3
+2014-07-12,Tables,3,0.2
+2016-04-08,Bookcases,6,0.2
+2017-09-25,Chairs,3,0.1
+2017-09-25,Furnishings,8,0.0
+2016-10-21,Bookcases,4,0.0
+2017-08-27,Tables,7,0.3
+2015-11-27,Tables,3,0.45
+2015-12-03,Furnishings,1,0.2
+2016-09-08,Bookcases,4,0.32
+2017-12-08,Tables,7,0.2
+2017-12-08,Bookcases,13,0.15
+2017-12-08,Chairs,2,0.2
+2017-11-03,Chairs,4,0.2
+2016-04-14,Chairs,5,0.2
+2017-10-19,Furnishings,4,0.0
+2017-08-21,Chairs,4,0.0
+2017-11-23,Furnishings,2,0.0
+2017-01-20,Chairs,3,0.1
+2016-09-05,Furnishings,1,0.0
+2016-09-05,Chairs,3,0.0
+2017-03-20,Furnishings,1,0.0
+2017-10-20,Tables,2,0.4
+2014-02-12,Chairs,2,0.2
+2016-09-26,Chairs,3,0.3
+2016-04-22,Furnishings,5,0.2
+2016-04-22,Tables,6,0.5
+2015-01-17,Furnishings,7,0.6
+2017-03-31,Bookcases,2,0.32
+2014-11-09,Bookcases,2,0.15
+2016-10-27,Furnishings,3,0.0
+2017-06-10,Bookcases,5,0.15
+2016-03-18,Tables,3,0.4
+2016-07-25,Furnishings,4,0.0
+2016-07-25,Chairs,2,0.2
+2016-07-25,Furnishings,9,0.0
+2016-05-30,Chairs,2,0.2
+2017-11-26,Furnishings,3,0.0
+2017-01-23,Tables,2,0.0
+2017-10-21,Chairs,3,0.2
+2017-10-21,Furnishings,3,0.2
+2015-11-07,Chairs,1,0.2
+2017-09-07,Furnishings,3,0.0
+2015-12-07,Chairs,4,0.0
+2014-05-11,Furnishings,4,0.6
+2016-04-15,Chairs,2,0.2
+2017-09-11,Furnishings,1,0.2
+2016-06-10,Tables,4,0.2
+2017-11-20,Furnishings,3,0.0
+2014-09-14,Furnishings,3,0.2
+2017-10-01,Chairs,3,0.2
+2017-07-20,Furnishings,1,0.6
+2015-07-03,Chairs,1,0.0
+2014-08-08,Furnishings,8,0.0
+2014-03-15,Furnishings,3,0.2
+2017-08-18,Furnishings,2,0.0
+2017-08-18,Furnishings,2,0.0
+2017-08-18,Furnishings,3,0.0
+2015-11-29,Chairs,2,0.0
+2017-09-15,Furnishings,7,0.0
+2015-10-04,Chairs,3,0.0
+2016-05-20,Furnishings,5,0.0
+2016-12-18,Furnishings,3,0.0
+2016-12-11,Furnishings,4,0.0
+2016-09-19,Chairs,2,0.3
+2015-08-24,Tables,5,0.3
+2014-12-24,Furnishings,5,0.2
+2017-06-09,Furnishings,3,0.6
+2017-06-09,Tables,1,0.5
+2017-03-18,Furnishings,3,0.6
+2017-12-25,Bookcases,2,0.2
+2014-06-21,Furnishings,1,0.0
+2017-09-02,Furnishings,3,0.2
+2016-11-04,Furnishings,3,0.0
+2015-04-09,Tables,3,0.2
+2014-12-02,Bookcases,5,0.2
+2014-01-11,Furnishings,2,0.0
+2017-09-24,Furnishings,3,0.2
+2014-06-02,Furnishings,6,0.0
+2016-12-15,Tables,3,0.0
+2014-10-07,Furnishings,5,0.2
+2016-12-03,Tables,2,0.4
+2016-12-03,Chairs,3,0.1
+2017-01-21,Bookcases,1,0.0
+2014-05-27,Tables,10,0.2
+2017-10-02,Furnishings,11,0.0
+2015-12-07,Furnishings,4,0.0
+2016-09-18,Tables,4,0.45
+2014-05-14,Furnishings,2,0.2
+2016-05-19,Chairs,2,0.0
+2017-01-30,Furnishings,7,0.0
+2015-08-21,Chairs,3,0.2
+2015-10-03,Bookcases,1,0.5
+2015-12-12,Chairs,2,0.2
+2015-06-26,Chairs,3,0.0
+2015-11-27,Chairs,5,0.2
+2017-02-20,Furnishings,1,0.0
+2017-04-22,Furnishings,2,0.0
+2015-02-03,Furnishings,2,0.0
+2014-10-13,Tables,5,0.0
+2017-05-14,Furnishings,2,0.0
+2014-06-28,Chairs,5,0.3
+2017-06-16,Chairs,2,0.0
+2015-11-20,Bookcases,4,0.2
+2015-10-13,Chairs,3,0.0
+2017-01-01,Furnishings,4,0.2
+2016-02-19,Furnishings,2,0.0
+2014-01-10,Furnishings,1,0.0
+2016-01-17,Furnishings,3,0.0
+2017-11-30,Chairs,5,0.1
+2016-10-22,Furnishings,5,0.0
+2014-04-29,Furnishings,2,0.0
+2017-12-30,Bookcases,4,0.2
+2015-05-31,Furnishings,6,0.0
+2017-11-27,Furnishings,1,0.0
+2014-06-15,Tables,2,0.3
+2014-06-15,Chairs,4,0.3
+2016-12-13,Tables,4,0.2
+2015-07-26,Tables,3,0.5
+2017-11-28,Furnishings,7,0.2
+2017-11-28,Furnishings,6,0.2
+2017-11-28,Tables,12,0.4
+2017-04-03,Furnishings,4,0.2
+2017-12-28,Bookcases,2,0.32
+2015-09-22,Furnishings,2,0.0
+2017-11-14,Chairs,2,0.2
+2014-01-16,Furnishings,6,0.2
+2016-10-03,Chairs,6,0.1
+2014-11-11,Chairs,5,0.2
+2017-05-21,Furnishings,5,0.0
+2015-03-29,Chairs,5,0.2
+2015-10-28,Furnishings,5,0.0
+2015-10-28,Furnishings,7,0.0
+2015-07-31,Tables,7,0.4
+2014-11-24,Furnishings,4,0.0
+2017-06-17,Furnishings,3,0.0
+2015-12-21,Tables,13,0.0
+2015-07-06,Furnishings,2,0.0
+2015-07-06,Furnishings,3,0.0
+2015-04-27,Chairs,3,0.0
+2014-07-11,Chairs,3,0.0
+2014-07-11,Furnishings,9,0.0
+2016-04-22,Furnishings,2,0.0
+2016-03-20,Tables,4,0.0
+2016-09-06,Bookcases,3,0.2
+2017-10-12,Chairs,14,0.3
+2016-03-08,Furnishings,3,0.2
+2015-07-03,Furnishings,2,0.2
+2015-07-03,Furnishings,9,0.2
+2015-04-04,Furnishings,2,0.0
+2015-03-23,Chairs,2,0.3
+2016-10-01,Chairs,4,0.2
+2015-11-29,Chairs,9,0.0
+2016-03-01,Tables,8,0.4
+2017-06-04,Furnishings,2,0.2
+2014-06-25,Tables,5,0.2
+2016-06-14,Furnishings,3,0.0
+2016-11-19,Furnishings,2,0.6
+2017-12-18,Bookcases,1,0.15
+2014-01-20,Furnishings,4,0.0
+2014-01-20,Chairs,3,0.0
+2016-04-12,Tables,4,0.0
+2014-09-29,Furnishings,2,0.0
+2015-05-08,Furnishings,6,0.2
+2014-12-20,Tables,7,0.0
+2014-12-20,Tables,2,0.0
+2016-07-02,Chairs,1,0.2
+2017-12-08,Furnishings,2,0.0
+2016-12-01,Chairs,2,0.0
+2017-02-26,Chairs,3,0.2
+2015-09-15,Furnishings,4,0.2
+2015-09-15,Furnishings,1,0.2
+2016-04-08,Chairs,4,0.3
+2016-07-18,Chairs,3,0.2
+2016-07-18,Chairs,3,0.2
+2016-07-14,Bookcases,4,0.2
+2017-09-09,Chairs,2,0.3
+2017-09-09,Furnishings,2,0.2
+2016-12-04,Furnishings,3,0.0
+2017-11-06,Furnishings,1,0.0
+2016-10-28,Furnishings,3,0.2
+2016-10-28,Furnishings,2,0.2
+2016-10-28,Furnishings,3,0.2
+2014-08-11,Furnishings,1,0.0
+2014-12-12,Tables,6,0.2
+2014-12-12,Tables,12,0.2
+2014-12-12,Bookcases,3,0.15
+2017-12-18,Chairs,9,0.1
+2017-03-10,Furnishings,1,0.2
+2017-03-10,Furnishings,2,0.2
+2016-10-01,Furnishings,5,0.0
+2014-12-24,Chairs,6,0.2
+2017-09-23,Furnishings,3,0.2
+2016-05-26,Chairs,5,0.3
+2016-11-22,Furnishings,2,0.0
+2016-12-23,Furnishings,6,0.0
+2016-12-23,Furnishings,3,0.0
+2015-09-19,Bookcases,2,0.0
+2017-07-03,Furnishings,1,0.0
+2016-06-20,Chairs,2,0.2
+2016-09-24,Chairs,2,0.3
+2016-12-18,Furnishings,8,0.0
+2015-06-14,Furnishings,6,0.2
+2016-05-23,Furnishings,3,0.0
+2017-04-02,Furnishings,3,0.0
+2017-03-31,Furnishings,2,0.0
+2014-10-03,Chairs,3,0.3
+2017-05-04,Tables,1,0.2
+2017-04-26,Furnishings,1,0.6
+2014-09-26,Chairs,2,0.2
+2017-11-10,Chairs,4,0.2
+2017-07-08,Furnishings,5,0.0
+2015-12-24,Bookcases,7,0.7
+2015-09-14,Tables,5,0.0
+2016-09-03,Furnishings,3,0.6
+2016-02-05,Furnishings,3,0.0
+2016-02-05,Bookcases,2,0.0
+2017-10-09,Tables,5,0.5
+2017-10-09,Tables,3,0.5
+2016-04-19,Tables,2,0.4
+2014-04-06,Tables,3,0.4
+2016-09-02,Furnishings,2,0.0
+2016-09-25,Tables,3,0.5
+2016-07-09,Chairs,2,0.1
+2016-07-09,Furnishings,4,0.0
+2017-01-28,Furnishings,3,0.0
+2015-09-21,Furnishings,4,0.6
+2014-12-19,Chairs,14,0.0
+2015-10-15,Chairs,5,0.3
+2017-06-13,Chairs,7,0.3
+2017-06-12,Tables,3,0.0
+2014-05-04,Furnishings,2,0.0
+2016-03-11,Tables,2,0.3
+2016-08-26,Chairs,6,0.3
+2014-08-08,Furnishings,4,0.2
+2017-12-09,Chairs,3,0.0
+2015-12-01,Furnishings,4,0.6
+2015-11-03,Furnishings,3,0.0
+2017-11-24,Chairs,6,0.1
+2017-10-30,Furnishings,2,0.0
+2016-11-24,Furnishings,2,0.0
+2015-08-01,Tables,6,0.2
+2017-09-12,Furnishings,2,0.0
+2017-12-11,Chairs,1,0.3
+2017-12-10,Tables,4,0.0
+2015-12-06,Furnishings,6,0.2
+2016-07-22,Furnishings,2,0.2
+2017-02-10,Bookcases,2,0.15
+2017-09-15,Bookcases,3,0.0
+2014-03-11,Furnishings,5,0.2
+2014-12-31,Bookcases,7,0.2
+2015-03-16,Tables,2,0.0
+2017-06-30,Tables,5,0.4
+2014-11-23,Chairs,5,0.2
+2014-11-23,Chairs,2,0.2
+2014-12-15,Chairs,5,0.3
+2015-08-09,Tables,9,0.4
+2015-08-09,Furnishings,3,0.0
+2015-08-09,Furnishings,2,0.0
+2015-03-24,Bookcases,3,0.3
+2017-05-08,Chairs,2,0.3
+2017-10-16,Furnishings,13,0.0
+2017-11-19,Furnishings,2,0.6
+2016-05-08,Furnishings,2,0.0
+2014-05-26,Bookcases,2,0.15
+2017-07-08,Furnishings,2,0.0
+2015-09-24,Chairs,6,0.0
+2017-06-21,Furnishings,5,0.2
+2016-05-26,Furnishings,3,0.0
+2014-05-12,Furnishings,7,0.0
+2015-01-10,Tables,4,0.4
+2015-09-17,Furnishings,2,0.6
+2014-09-07,Furnishings,2,0.2
+2016-11-07,Furnishings,3,0.0
+2017-12-10,Furnishings,2,0.2
+2014-08-16,Tables,6,0.4
+2016-03-14,Furnishings,5,0.2
+2014-06-03,Tables,6,0.0
+2015-07-13,Chairs,9,0.1
+2017-10-30,Chairs,1,0.2
+2017-09-08,Tables,7,0.5
+2017-10-07,Bookcases,2,0.15
+2016-05-19,Furnishings,4,0.0
+2016-05-19,Furnishings,8,0.0
+2015-12-20,Bookcases,3,0.3
+2017-04-29,Tables,5,0.4
+2017-10-30,Furnishings,2,0.2
+2015-11-22,Tables,2,0.3
+2017-10-14,Furnishings,2,0.0
+2015-09-05,Bookcases,4,0.15
+2015-09-05,Bookcases,3,0.15
+2016-08-04,Furnishings,9,0.0
+2014-12-01,Chairs,8,0.0
+2016-07-07,Furnishings,5,0.0
+2016-11-13,Furnishings,1,0.0
+2016-10-23,Furnishings,7,0.6
+2014-06-09,Tables,7,0.0
+2017-11-20,Furnishings,5,0.2
+2017-11-20,Furnishings,2,0.2
+2015-09-14,Tables,3,0.2
+2014-05-25,Furnishings,2,0.6
+2016-02-16,Chairs,3,0.3
+2016-12-22,Furnishings,4,0.2
+2016-12-22,Furnishings,1,0.2
+2017-10-21,Tables,1,0.0
+2015-11-05,Chairs,3,0.2
+2014-08-01,Furnishings,4,0.2
+2016-07-18,Chairs,1,0.0
+2015-02-09,Furnishings,2,0.6
+2017-01-12,Furnishings,2,0.0
+2017-09-10,Chairs,3,0.2
+2017-03-26,Bookcases,2,0.2
+2016-10-13,Tables,5,0.5
+2016-10-13,Furnishings,3,0.2
+2017-04-15,Furnishings,5,0.0
+2014-07-21,Chairs,2,0.2
+2014-07-21,Tables,1,0.2
+2017-11-21,Tables,1,0.0
+2016-03-10,Bookcases,1,0.2
+2017-12-29,Chairs,4,0.2
+2015-03-05,Chairs,7,0.1
+2016-04-22,Furnishings,3,0.0
+2014-10-21,Tables,3,0.4
+2014-08-29,Tables,3,0.45
+2017-10-21,Chairs,2,0.2
+2015-02-03,Furnishings,4,0.0
+2017-12-18,Furnishings,2,0.0
+2017-08-17,Chairs,2,0.1
+2017-08-06,Bookcases,3,0.0
+2017-08-06,Furnishings,5,0.0
+2015-05-25,Furnishings,3,0.0
+2016-07-08,Chairs,3,0.2
+2017-09-02,Furnishings,2,0.0
+2017-09-02,Tables,1,0.4
+2017-09-02,Chairs,5,0.1
+2014-10-18,Chairs,6,0.0
+2016-04-14,Chairs,4,0.2
+2014-11-25,Furnishings,3,0.0
+2015-11-09,Tables,7,0.0
+2017-12-02,Furnishings,4,0.6
+2017-12-25,Chairs,5,0.0
+2017-08-03,Bookcases,2,0.3
+2016-09-18,Chairs,1,0.0
+2016-09-19,Chairs,4,0.0
+2015-03-13,Bookcases,2,0.0
+2017-09-25,Chairs,3,0.0
+2015-06-18,Furnishings,5,0.2
+2015-07-11,Furnishings,7,0.2
+2015-07-11,Chairs,8,0.3
+2015-07-11,Furnishings,6,0.2
+2016-12-01,Furnishings,3,0.0
+2017-12-22,Chairs,7,0.0
+2017-12-22,Tables,2,0.0
+2014-10-31,Chairs,3,0.2
+2015-04-13,Tables,3,0.2
+2017-11-20,Chairs,5,0.2
+2014-12-01,Furnishings,3,0.0
+2015-12-24,Furnishings,2,0.2
+2017-07-15,Tables,3,0.3
+2014-11-17,Chairs,5,0.0
+2014-07-18,Chairs,4,0.2
+2015-10-31,Chairs,4,0.2
+2015-10-31,Bookcases,1,0.15
+2015-10-12,Tables,1,0.4
+2017-11-09,Chairs,3,0.2
+2017-09-22,Bookcases,2,0.0
+2015-10-04,Furnishings,3,0.2
+2014-05-20,Furnishings,7,0.0
+2015-12-31,Furnishings,5,0.6
+2014-06-06,Tables,3,0.4
+2016-06-25,Chairs,3,0.3
+2014-12-12,Furnishings,1,0.0
+2017-11-19,Chairs,3,0.3
+2016-04-30,Furnishings,3,0.6
+2016-05-14,Furnishings,1,0.2
+2016-10-13,Furnishings,5,0.6
+2017-11-19,Chairs,2,0.3
+2016-05-07,Chairs,4,0.1
+2016-05-07,Furnishings,8,0.0
+2017-08-10,Furnishings,2,0.0
+2014-06-01,Furnishings,6,0.0
+2015-09-06,Furnishings,3,0.0
+2015-06-29,Furnishings,1,0.2
+2017-11-21,Furnishings,1,0.0
+2017-10-01,Chairs,4,0.2
+2015-12-06,Chairs,1,0.3
+2016-03-19,Bookcases,1,0.7
+2016-10-01,Tables,1,0.4
+2017-06-26,Furnishings,5,0.0
+2017-04-20,Furnishings,2,0.6
+2016-09-17,Furnishings,2,0.0
+2017-06-16,Chairs,7,0.2
+2017-02-06,Bookcases,3,0.0
+2015-03-06,Furnishings,7,0.0
+2014-10-03,Tables,1,0.2
+2014-10-03,Chairs,3,0.2
+2014-06-27,Tables,1,0.0
+2017-10-30,Chairs,2,0.2
+2017-10-30,Chairs,8,0.2
+2017-10-30,Bookcases,2,0.0
+2017-01-08,Tables,2,0.0
+2015-04-20,Furnishings,6,0.0
+2017-12-23,Furnishings,3,0.0
+2015-11-01,Furnishings,5,0.0
+2017-09-17,Chairs,4,0.0
+2016-12-23,Bookcases,2,0.3
+2017-06-11,Chairs,1,0.2
+2017-07-20,Chairs,3,0.0
+2015-09-15,Bookcases,1,0.2
+2015-12-25,Furnishings,4,0.2
+2014-12-31,Furnishings,5,0.0
+2016-03-13,Tables,5,0.3
+2015-08-31,Bookcases,7,0.15
+2014-03-17,Tables,7,0.4
+2014-03-17,Tables,4,0.4
+2014-03-17,Tables,3,0.4
+2016-03-13,Furnishings,2,0.0
+2014-11-24,Chairs,1,0.2
+2016-09-23,Furnishings,6,0.2
+2016-07-07,Furnishings,8,0.6
+2016-07-07,Chairs,2,0.3
+2016-05-06,Furnishings,7,0.2
+2015-12-06,Furnishings,4,0.0
+2016-09-27,Bookcases,7,0.32
+2017-03-23,Furnishings,8,0.0
+2014-11-12,Tables,3,0.2
+2016-12-29,Chairs,5,0.0
+2015-07-06,Bookcases,2,0.0
+2017-12-25,Tables,2,0.4
+2016-06-11,Furnishings,7,0.6
+2017-12-28,Furnishings,2,0.0
+2014-03-25,Chairs,7,0.1
+2017-07-03,Furnishings,9,0.0
+2014-11-18,Tables,2,0.5
+2017-07-17,Furnishings,2,0.2
+2016-05-22,Tables,2,0.3
+2016-10-31,Chairs,5,0.3
+2016-01-22,Furnishings,8,0.2
+2016-01-22,Bookcases,4,0.2
+2016-11-03,Chairs,2,0.2
+2017-09-04,Tables,3,0.2
+2017-08-28,Tables,5,0.0
+2016-09-10,Tables,5,0.3
+2014-06-16,Chairs,8,0.0
+2014-07-25,Furnishings,8,0.0
+2016-11-11,Chairs,2,0.3
+2017-05-02,Furnishings,3,0.0
+2015-01-27,Chairs,2,0.3
+2015-07-16,Chairs,6,0.2
+2015-07-16,Chairs,3,0.2
+2016-04-30,Furnishings,7,0.2
+2016-09-08,Bookcases,3,0.0
+2017-04-16,Bookcases,1,0.15
+2017-11-19,Furnishings,6,0.0
+2016-10-08,Furnishings,8,0.6
+2015-05-31,Bookcases,7,0.0
+2017-11-01,Tables,9,0.0
+2017-07-09,Furnishings,5,0.0
+2014-01-26,Furnishings,3,0.0
+2014-01-26,Furnishings,3,0.0
+2017-06-30,Furnishings,1,0.0
+2016-09-08,Furnishings,2,0.6
+2016-09-08,Tables,3,0.5
+2016-06-04,Bookcases,1,0.2
+2016-06-04,Furnishings,4,0.0
+2014-11-25,Tables,5,0.3
+2014-11-25,Furnishings,3,0.6
+2016-04-28,Chairs,2,0.2
+2014-04-26,Chairs,3,0.2
+2017-05-15,Furnishings,2,0.0
+2017-05-15,Chairs,2,0.2
+2017-05-15,Chairs,1,0.2
+2015-07-05,Furnishings,2,0.2
+2017-06-12,Chairs,4,0.1
+2016-04-17,Furnishings,8,0.2
+2014-09-07,Furnishings,3,0.0
+2014-09-07,Furnishings,6,0.0
+2016-09-26,Bookcases,5,0.15
+2017-09-17,Bookcases,3,0.0
+2015-12-24,Chairs,4,0.2
+2016-05-01,Tables,3,0.4
+2015-08-25,Chairs,1,0.2
+2014-09-09,Chairs,6,0.0
+2016-01-22,Furnishings,5,0.0
+2014-10-15,Furnishings,1,0.2
+2014-03-18,Furnishings,2,0.2
+2014-03-18,Furnishings,3,0.2
+2015-01-30,Furnishings,7,0.0
+2017-10-09,Furnishings,4,0.2
+2014-12-06,Furnishings,3,0.6
+2017-11-07,Tables,4,0.4
+2017-02-13,Furnishings,1,0.0
+2015-11-13,Bookcases,3,0.0
+2014-11-04,Furnishings,2,0.0
+2015-06-20,Furnishings,6,0.0
+2014-05-12,Tables,3,0.3
+2014-06-08,Chairs,3,0.2
+2014-05-26,Chairs,2,0.2
+2016-03-11,Furnishings,4,0.0
+2017-12-10,Furnishings,3,0.2
+2015-07-17,Bookcases,2,0.15
+2017-04-30,Furnishings,8,0.2
+2015-09-21,Chairs,4,0.2
+2014-12-02,Furnishings,5,0.6
+2014-12-02,Furnishings,5,0.6
+2014-04-12,Bookcases,3,0.15
+2017-11-03,Furnishings,3,0.0
+2015-09-07,Chairs,2,0.3
+2015-07-25,Bookcases,5,0.0
+2015-07-25,Chairs,2,0.2
+2015-11-16,Furnishings,6,0.0
+2015-11-16,Tables,3,0.0
+2015-11-16,Tables,3,0.0
+2015-09-01,Chairs,1,0.0
+2015-09-01,Furnishings,2,0.0
+2016-05-05,Tables,3,0.2
+2014-09-25,Bookcases,2,0.32
+2014-03-14,Chairs,4,0.0
+2016-12-27,Chairs,8,0.3
+2017-04-08,Furnishings,6,0.0
+2016-03-19,Furnishings,1,0.0
+2016-03-19,Furnishings,4,0.0
+2016-08-26,Chairs,4,0.2
+2016-08-15,Chairs,2,0.2
+2017-05-19,Bookcases,9,0.0
+2017-06-12,Furnishings,2,0.2
+2014-03-22,Chairs,3,0.2
+2016-01-21,Chairs,2,0.2
+2016-01-21,Chairs,7,0.2
+2016-11-11,Furnishings,4,0.0
+2016-10-18,Chairs,5,0.2
+2014-04-29,Chairs,2,0.0
+2017-10-23,Furnishings,11,0.0
+2015-04-26,Chairs,2,0.3
+2016-06-27,Chairs,3,0.3
+2016-11-23,Furnishings,2,0.2
+2016-11-23,Furnishings,7,0.2
+2014-09-02,Furnishings,1,0.0
+2017-07-10,Furnishings,3,0.0
+2017-11-18,Furnishings,4,0.0
+2015-08-08,Chairs,1,0.2
+2017-03-25,Chairs,1,0.0
+2017-03-25,Chairs,7,0.0
+2017-03-25,Chairs,3,0.0
+2017-11-19,Furnishings,1,0.0
+2016-11-04,Furnishings,7,0.0
+2017-12-14,Furnishings,3,0.0
+2017-11-12,Chairs,2,0.2
+2017-11-12,Furnishings,2,0.2
+2017-06-27,Chairs,3,0.1
+2017-12-16,Chairs,2,0.2
+2017-12-16,Chairs,2,0.2
+2017-12-16,Furnishings,2,0.0
+2014-12-27,Furnishings,6,0.6
+2017-11-06,Furnishings,2,0.2
+2015-05-07,Tables,2,0.3
+2017-12-04,Chairs,7,0.3
+2014-01-13,Chairs,6,0.0
+2015-06-12,Furnishings,2,0.2
+2014-07-12,Chairs,4,0.2
+2014-12-06,Tables,1,0.5
+2016-05-25,Furnishings,4,0.0
+2014-06-21,Furnishings,1,0.2
+2016-12-05,Furnishings,3,0.0
+2015-09-17,Tables,2,0.4
+2016-08-23,Furnishings,3,0.6
+2015-11-08,Furnishings,3,0.0
+2017-11-17,Bookcases,2,0.32
+2017-04-22,Furnishings,3,0.2
+2017-12-17,Chairs,5,0.0
+2015-09-21,Bookcases,4,0.0
+2016-11-21,Chairs,4,0.2
+2015-06-11,Furnishings,2,0.0
+2017-10-03,Tables,3,0.2
+2016-05-05,Furnishings,5,0.2
+2017-09-11,Chairs,8,0.2
+2017-04-02,Tables,2,0.0
+2017-10-06,Furnishings,2,0.0
+2017-10-19,Furnishings,2,0.0
+2017-10-19,Tables,2,0.2
+2014-11-17,Furnishings,3,0.0
+2015-10-03,Bookcases,2,0.15
+2014-07-20,Furnishings,5,0.6
+2014-07-20,Chairs,2,0.3
+2017-02-09,Furnishings,2,0.6
+2017-03-31,Furnishings,5,0.0
+2017-04-27,Bookcases,4,0.32
+2017-04-14,Bookcases,3,0.2
+2017-12-22,Bookcases,1,0.0
+2016-08-23,Chairs,6,0.2
+2015-06-11,Chairs,5,0.2
+2015-06-11,Furnishings,3,0.2
+2014-12-16,Furnishings,2,0.0
+2014-12-16,Chairs,2,0.2
+2014-08-24,Furnishings,2,0.0
+2017-11-12,Furnishings,3,0.6
+2016-09-05,Chairs,7,0.3
+2017-02-11,Chairs,4,0.2
+2015-12-15,Furnishings,7,0.2
+2015-08-24,Tables,2,0.4
+2016-10-29,Furnishings,5,0.0
+2016-05-28,Chairs,8,0.2
+2016-03-21,Chairs,5,0.3
+2017-09-23,Bookcases,2,0.7
+2017-12-05,Furnishings,3,0.0
+2017-12-05,Furnishings,2,0.0
+2014-05-18,Furnishings,3,0.2
+2014-11-10,Furnishings,2,0.0
+2014-11-10,Furnishings,5,0.0
+2017-09-01,Furnishings,5,0.0
+2016-01-15,Tables,1,0.3
+2016-11-20,Chairs,5,0.3
+2016-11-20,Furnishings,3,0.6
+2017-12-01,Chairs,3,0.3
+2016-09-17,Chairs,2,0.2
+2017-04-17,Furnishings,3,0.2
+2016-12-09,Tables,3,0.4
+2015-02-09,Chairs,5,0.2
+2014-09-30,Furnishings,3,0.0
+2014-12-26,Furnishings,2,0.0
+2014-11-18,Furnishings,3,0.2
+2016-03-20,Furnishings,7,0.0
+2014-09-27,Chairs,5,0.2
+2017-12-24,Chairs,2,0.1
+2017-11-10,Furnishings,5,0.6
+2014-12-20,Chairs,3,0.2
+2015-07-23,Furnishings,3,0.0
+2017-12-14,Furnishings,1,0.6
+2017-08-21,Furnishings,4,0.0
+2017-08-21,Tables,3,0.2
+2016-08-27,Tables,1,0.3
+2014-09-23,Bookcases,3,0.15
+2014-07-19,Tables,1,0.3
+2015-06-04,Furnishings,3,0.0
+2016-07-16,Furnishings,3,0.6
+2014-01-31,Bookcases,2,0.15
+2015-11-21,Bookcases,2,0.0
+2015-12-04,Furnishings,3,0.0
+2015-12-04,Chairs,5,0.1
+2015-12-04,Chairs,2,0.1
+2017-11-23,Furnishings,9,0.2
+2015-12-04,Chairs,7,0.1
+2017-10-07,Tables,3,0.4
+2015-05-04,Furnishings,7,0.6
+2017-05-29,Furnishings,4,0.6
+2014-04-23,Chairs,2,0.3
+2014-04-23,Chairs,2,0.3
+2014-04-23,Furnishings,4,0.2
+2015-09-06,Chairs,2,0.1
+2015-09-24,Chairs,10,0.0
+2017-07-03,Tables,2,0.4
+2017-12-08,Furnishings,2,0.0
+2015-09-27,Furnishings,3,0.6
+2017-10-30,Furnishings,2,0.6
+2017-10-30,Tables,2,0.3
+2017-09-16,Furnishings,3,0.2
+2015-09-10,Bookcases,2,0.0
+2016-12-14,Furnishings,6,0.0
+2016-12-01,Furnishings,2,0.0
+2017-03-03,Chairs,1,0.0
+2016-12-08,Tables,6,0.2
+2014-04-07,Furnishings,2,0.0
+2014-08-27,Furnishings,4,0.0
+2014-08-27,Tables,3,0.0
+2015-07-02,Chairs,2,0.3
+2015-07-02,Chairs,6,0.3
+2017-09-24,Chairs,4,0.0
+2016-08-08,Tables,2,0.2
+2014-06-20,Bookcases,4,0.32
+2017-09-04,Bookcases,9,0.3
+2015-06-22,Tables,7,0.5
+2016-09-18,Furnishings,3,0.2
+2016-09-18,Chairs,2,0.3
+2017-10-30,Chairs,1,0.0
+2016-03-29,Chairs,6,0.3
+2016-09-09,Furnishings,4,0.6
+2016-07-25,Tables,8,0.0
+2015-12-10,Tables,2,0.0
+2015-12-10,Chairs,2,0.0
+2014-09-09,Furnishings,3,0.2
+2014-11-17,Chairs,5,0.3
+2017-08-21,Furnishings,2,0.0
+2017-08-21,Furnishings,4,0.0
+2017-11-19,Tables,6,0.3
+2014-09-14,Furnishings,5,0.0
+2017-05-19,Chairs,12,0.2
+2016-11-10,Furnishings,7,0.2
+2015-03-12,Furnishings,4,0.2
+2015-03-12,Furnishings,3,0.2
+2017-11-06,Chairs,2,0.3
+2015-12-05,Furnishings,2,0.0
+2015-07-09,Furnishings,2,0.0
+2015-10-30,Furnishings,4,0.2
+2015-11-19,Furnishings,2,0.0
+2017-12-24,Furnishings,1,0.0
+2016-01-09,Furnishings,2,0.2
+2014-11-23,Furnishings,2,0.6
+2017-10-15,Tables,3,0.2
+2017-04-21,Furnishings,3,0.0
+2014-12-08,Chairs,5,0.2
+2016-12-20,Furnishings,4,0.0
+2017-03-06,Furnishings,3,0.0
+2016-09-23,Chairs,3,0.0
+2017-08-27,Furnishings,2,0.0
+2017-08-27,Chairs,3,0.2
+2016-03-03,Chairs,5,0.3
+2015-09-18,Furnishings,2,0.0
+2016-08-13,Bookcases,2,0.0
+2016-03-21,Tables,2,0.3
+2014-12-16,Chairs,9,0.2
+2016-12-17,Tables,6,0.2
+2015-05-03,Furnishings,6,0.0
+2014-01-27,Tables,3,0.2
+2017-11-04,Tables,3,0.4
+2016-10-14,Chairs,1,0.2
+2015-11-12,Chairs,5,0.2
+2015-11-12,Chairs,3,0.2
+2015-09-15,Tables,2,0.0
+2015-09-15,Chairs,7,0.0
+2017-10-09,Bookcases,3,0.2
+2017-05-07,Chairs,5,0.0
+2017-05-07,Chairs,1,0.0
+2017-05-07,Chairs,2,0.0
+2015-11-14,Furnishings,3,0.0
+2014-11-24,Chairs,3,0.3
+2014-07-26,Chairs,3,0.2
+2014-07-26,Furnishings,9,0.0
+2014-06-08,Chairs,3,0.2
+2014-10-28,Bookcases,6,0.15
+2015-09-21,Furnishings,2,0.0
+2017-06-06,Furnishings,1,0.0
+2017-02-17,Tables,3,0.5
+2015-11-28,Furnishings,5,0.6
+2015-10-23,Chairs,1,0.2
+2015-10-23,Chairs,7,0.2
+2015-10-23,Chairs,3,0.2
+2015-06-15,Furnishings,6,0.2
+2015-06-15,Furnishings,4,0.2
+2016-11-24,Chairs,6,0.2
+2015-04-05,Furnishings,4,0.2
+2015-04-05,Furnishings,1,0.2
+2015-04-05,Bookcases,5,0.5
+2017-09-18,Furnishings,2,0.0
+2017-07-18,Tables,5,0.5
+2017-07-18,Chairs,2,0.2
+2017-07-18,Chairs,3,0.2
+2014-09-17,Furnishings,2,0.0
+2016-03-14,Bookcases,5,0.32
+2015-06-16,Chairs,2,0.3
+2016-12-10,Chairs,5,0.0
+2017-05-18,Furnishings,2,0.0
+2016-11-18,Chairs,6,0.3
+2014-04-04,Furnishings,1,0.0
+2016-06-26,Furnishings,3,0.0
+2016-05-29,Furnishings,3,0.2
+2017-02-19,Furnishings,3,0.0
+2016-03-29,Furnishings,8,0.0
+2016-10-22,Furnishings,4,0.0
+2014-12-23,Tables,2,0.4
+2017-12-15,Furnishings,3,0.0
+2016-07-07,Chairs,4,0.2
+2016-04-17,Bookcases,3,0.15
+2016-04-17,Furnishings,5,0.2
+2014-11-25,Furnishings,2,0.0
+2015-05-01,Furnishings,3,0.2
+2015-03-08,Bookcases,3,0.0
+2015-03-08,Chairs,7,0.0
+2015-03-08,Furnishings,6,0.0
+2015-07-17,Bookcases,5,0.2
+2014-10-11,Furnishings,11,0.0
+2016-03-03,Tables,3,0.3
+2017-01-01,Furnishings,11,0.0
+2014-06-22,Chairs,3,0.3
+2014-06-22,Chairs,5,0.3
+2017-10-27,Bookcases,5,0.15
+2017-12-24,Chairs,4,0.0
+2014-12-29,Furnishings,5,0.0
+2014-12-29,Furnishings,6,0.0
+2015-06-25,Furnishings,5,0.0
+2017-06-24,Furnishings,3,0.0
+2017-06-24,Chairs,2,0.1
+2014-09-29,Tables,2,0.4
+2014-09-29,Tables,1,0.4
+2015-11-20,Chairs,3,0.2
+2016-08-28,Bookcases,2,0.32
+2017-11-15,Furnishings,4,0.2
+2017-11-15,Furnishings,4,0.2
+2014-08-19,Bookcases,9,0.0
+2017-12-21,Furnishings,2,0.0
+2015-09-07,Tables,3,0.4
+2015-12-25,Bookcases,1,0.0
+2017-07-27,Furnishings,3,0.2
+2017-12-01,Furnishings,5,0.2
+2017-01-30,Chairs,1,0.2
+2015-11-28,Furnishings,3,0.0
+2014-10-11,Chairs,2,0.2
+2016-12-05,Bookcases,1,0.0
+2015-11-16,Tables,2,0.0
+2016-04-08,Furnishings,5,0.0
+2014-10-31,Furnishings,2,0.0
+2014-10-31,Furnishings,3,0.0
+2014-10-31,Chairs,5,0.0
+2014-10-31,Tables,1,0.3
+2017-04-01,Bookcases,8,0.15
+2017-06-11,Bookcases,3,0.0
+2014-12-13,Furnishings,3,0.6
+2015-01-05,Chairs,1,0.2
+2017-07-05,Furnishings,9,0.6
+2017-11-28,Furnishings,5,0.0
+2017-11-28,Furnishings,5,0.0
+2016-12-01,Chairs,4,0.0
+2014-09-19,Chairs,7,0.1
+2017-10-13,Furnishings,3,0.6
+2016-03-14,Chairs,2,0.2
+2016-11-05,Tables,8,0.3
+2016-11-05,Bookcases,7,0.32
+2017-06-25,Tables,4,0.0
+2015-11-26,Furnishings,11,0.2
+2016-11-24,Furnishings,4,0.0
+2016-04-16,Furnishings,2,0.0
+2014-11-14,Chairs,2,0.1
+2015-11-21,Bookcases,2,0.32
+2017-12-09,Tables,9,0.2
+2017-10-22,Tables,5,0.5
+2017-07-03,Furnishings,3,0.0
+2017-08-23,Furnishings,2,0.2
+2014-10-26,Furnishings,4,0.0
+2014-11-04,Tables,4,0.2
+2017-12-07,Furnishings,6,0.0
+2015-12-20,Furnishings,2,0.2
+2016-09-18,Chairs,2,0.1
+2016-09-18,Furnishings,3,0.0
+2017-12-11,Furnishings,1,0.6
+2017-12-11,Chairs,2,0.3
+2014-04-25,Furnishings,5,0.0
+2014-04-25,Chairs,5,0.2
+2015-10-25,Tables,3,0.2
+2015-07-20,Bookcases,4,0.3
+2015-07-20,Bookcases,5,0.3
+2017-11-20,Bookcases,2,0.2
+2014-07-07,Chairs,2,0.3
+2014-07-07,Furnishings,2,0.2
+2016-03-17,Furnishings,5,0.0
+2014-12-20,Furnishings,3,0.2
+2017-05-18,Bookcases,3,0.0
+2017-03-21,Chairs,6,0.0
+2016-11-03,Furnishings,5,0.0
+2016-11-03,Tables,3,0.0
+2015-06-19,Furnishings,2,0.0
+2016-07-04,Furnishings,5,0.0
+2016-07-04,Bookcases,5,0.15
+2015-09-03,Chairs,2,0.2
+2017-09-28,Furnishings,1,0.2
+2017-11-24,Bookcases,2,0.2
+2017-05-08,Chairs,3,0.3
+2017-09-29,Chairs,1,0.3
+2017-09-29,Tables,2,0.4
+2017-09-29,Furnishings,4,0.2
+2017-10-22,Tables,2,0.0
+2017-08-14,Tables,3,0.2
+2014-12-01,Furnishings,2,0.2
+2014-12-01,Chairs,6,0.3
+2017-06-18,Bookcases,9,0.15
+2014-12-24,Furnishings,1,0.0
+2017-05-23,Tables,3,0.2
+2016-11-10,Furnishings,2,0.0
+2016-10-27,Chairs,1,0.0
+2014-02-20,Furnishings,4,0.0
+2014-11-02,Furnishings,6,0.0
+2017-07-17,Furnishings,4,0.0
+2016-11-14,Chairs,2,0.1
+2014-10-10,Chairs,3,0.2
+2017-07-08,Furnishings,3,0.0
+2015-02-27,Tables,7,0.3
+2015-07-12,Chairs,9,0.3
+2015-07-12,Furnishings,1,0.6
+2014-07-13,Tables,3,0.2
+2014-12-27,Chairs,3,0.2
+2014-05-05,Chairs,3,0.3
+2015-12-04,Furnishings,5,0.0
+2017-09-26,Chairs,4,0.2
+2014-04-19,Furnishings,3,0.0
+2016-12-12,Furnishings,4,0.0
+2016-09-19,Furnishings,3,0.2
+2017-11-02,Furnishings,3,0.0
+2016-12-26,Chairs,3,0.2
+2016-12-26,Tables,3,0.2
+2015-07-16,Chairs,1,0.0
+2017-11-09,Furnishings,8,0.0
+2015-09-21,Chairs,3,0.0
+2017-09-09,Furnishings,3,0.2
+2015-10-15,Furnishings,2,0.0
+2017-08-03,Furnishings,3,0.0
+2015-08-21,Bookcases,6,0.15
+2017-10-22,Chairs,4,0.2
+2016-08-12,Chairs,2,0.1
+2016-04-26,Chairs,3,0.1
+2015-05-03,Chairs,6,0.3
+2016-01-10,Furnishings,4,0.0
+2017-05-06,Bookcases,7,0.32
+2016-07-31,Furnishings,3,0.0
+2017-03-27,Furnishings,2,0.2
+2016-08-29,Tables,4,0.4
+2016-08-29,Bookcases,4,0.5
+2014-12-20,Furnishings,2,0.2
+2014-12-20,Chairs,3,0.2
+2015-12-17,Chairs,3,0.0
+2015-12-17,Chairs,2,0.0
+2015-12-17,Chairs,9,0.0
+2015-12-17,Furnishings,3,0.0
+2017-05-11,Furnishings,1,0.6
+2016-05-17,Furnishings,4,0.0
+2014-12-16,Furnishings,2,0.6
+2017-12-03,Tables,2,0.0
+2014-06-07,Tables,3,0.5
+2014-11-25,Bookcases,3,0.2
+2015-03-29,Furnishings,3,0.0
+2016-04-07,Chairs,3,0.1
+2015-02-18,Tables,1,0.2
+2016-03-03,Furnishings,3,0.0
+2017-11-20,Chairs,2,0.2
+2017-11-23,Furnishings,1,0.6
+2014-07-08,Chairs,1,0.1
+2014-11-07,Chairs,4,0.3
+2015-12-11,Bookcases,4,0.7
+2015-12-11,Furnishings,9,0.2
+2015-12-11,Furnishings,5,0.2
+2015-12-11,Tables,5,0.5
+2015-03-16,Furnishings,1,0.0
+2016-05-14,Furnishings,3,0.2
+2017-07-13,Furnishings,9,0.2
+2016-11-14,Chairs,3,0.3
+2016-11-14,Furnishings,3,0.2
+2016-11-21,Chairs,3,0.3
+2016-11-21,Furnishings,3,0.2
+2017-11-20,Furnishings,2,0.0
+2014-09-08,Chairs,5,0.2
+2014-12-12,Furnishings,3,0.0
+2014-12-12,Furnishings,3,0.0
+2015-01-13,Furnishings,4,0.0
+2015-01-13,Furnishings,9,0.0
+2017-11-13,Chairs,6,0.2
+2017-11-02,Chairs,4,0.0
+2016-11-28,Chairs,3,0.0
+2014-10-15,Chairs,2,0.3
+2014-12-01,Chairs,3,0.3
+2017-10-09,Chairs,3,0.3
+2016-01-02,Bookcases,3,0.0
+2017-10-19,Tables,1,0.5
+2017-12-01,Chairs,3,0.0
+2014-01-13,Bookcases,3,0.15
+2015-02-06,Chairs,9,0.0
+2015-02-06,Bookcases,4,0.0
+2017-11-27,Furnishings,3,0.0
+2014-06-09,Furnishings,2,0.0
+2014-03-07,Chairs,1,0.2
+2015-08-02,Chairs,1,0.0
+2016-11-06,Chairs,2,0.2
+2016-11-06,Furnishings,2,0.2
+2016-04-24,Chairs,6,0.2
+2015-12-18,Furnishings,5,0.2
+2017-05-11,Bookcases,7,0.7
+2014-11-24,Furnishings,7,0.2
+2014-11-15,Furnishings,3,0.0
+2016-12-18,Furnishings,4,0.0
+2017-07-29,Chairs,3,0.0
+2016-12-26,Chairs,3,0.0
+2015-08-09,Bookcases,5,0.0
+2014-04-06,Tables,3,0.0
+2015-07-11,Tables,4,0.3
+2016-11-10,Furnishings,9,0.0
+2015-01-03,Bookcases,9,0.32
+2015-05-08,Furnishings,3,0.0
+2017-11-30,Tables,7,0.4
+2014-08-08,Furnishings,6,0.0
+2014-04-20,Tables,5,0.3
+2014-04-20,Tables,2,0.3
+2017-11-25,Bookcases,3,0.15
+2014-12-06,Tables,5,0.5
+2014-12-06,Furnishings,3,0.6
+2014-12-14,Chairs,4,0.2
+2015-11-13,Furnishings,9,0.6
+2014-09-14,Tables,9,0.4
+2017-12-29,Furnishings,8,0.0
+2016-11-13,Furnishings,4,0.0
+2016-04-01,Chairs,6,0.1
+2017-02-02,Furnishings,2,0.0
+2017-12-24,Furnishings,4,0.2
+2017-12-24,Chairs,3,0.2
+2015-08-07,Furnishings,3,0.0
+2017-06-30,Chairs,3,0.3
+2017-06-30,Furnishings,2,0.6
+2014-07-30,Bookcases,8,0.0
+2016-11-18,Chairs,2,0.0
+2015-07-06,Chairs,3,0.2
+2014-11-10,Chairs,3,0.0
+2016-05-27,Chairs,5,0.0
+2017-10-19,Bookcases,3,0.32
+2015-04-13,Furnishings,2,0.0
+2015-09-13,Chairs,7,0.0
+2014-11-28,Furnishings,5,0.0
+2015-08-15,Furnishings,7,0.0
+2017-09-01,Chairs,7,0.0
+2014-06-14,Bookcases,3,0.0
+2016-06-21,Bookcases,2,0.2
+2017-03-19,Tables,5,0.2
+2017-03-19,Furnishings,1,0.0
+2014-10-18,Chairs,6,0.0
+2017-08-22,Tables,1,0.2
+2014-09-20,Furnishings,3,0.0
+2014-09-20,Bookcases,3,0.0
+2016-08-02,Tables,2,0.2
+2015-03-05,Chairs,2,0.3
+2015-03-05,Furnishings,2,0.2
+2014-09-07,Tables,1,0.3
+2017-09-11,Furnishings,4,0.0
+2017-01-16,Furnishings,4,0.0
+2017-01-16,Tables,7,0.2
+2015-11-07,Chairs,3,0.0
+2014-09-13,Chairs,6,0.3
+2015-09-05,Furnishings,2,0.0
+2017-05-05,Bookcases,3,0.7
+2014-09-08,Chairs,5,0.3
+2015-12-26,Tables,1,0.4
+2017-07-27,Furnishings,1,0.0
+2016-05-30,Tables,10,0.0
+2014-11-16,Chairs,2,0.3
+2014-09-21,Furnishings,2,0.6
+2016-02-21,Furnishings,5,0.0
+2017-11-19,Chairs,3,0.3
+2017-04-30,Furnishings,2,0.0
+2016-05-02,Chairs,9,0.2
+2017-10-02,Furnishings,2,0.2
+2017-10-02,Furnishings,1,0.2
+2017-10-02,Tables,7,0.4
+2017-10-02,Furnishings,2,0.2
+2015-12-04,Furnishings,6,0.0
+2016-09-04,Furnishings,1,0.0
+2014-08-26,Furnishings,4,0.0
+2014-05-13,Chairs,6,0.2
+2017-04-14,Bookcases,8,0.2
+2016-12-29,Furnishings,6,0.0
+2017-04-08,Furnishings,2,0.0
+2017-04-08,Furnishings,3,0.0
+2015-10-24,Tables,7,0.3
+2014-11-19,Bookcases,6,0.0
+2016-09-24,Furnishings,5,0.0
+2016-04-09,Bookcases,5,0.15
+2016-12-03,Furnishings,6,0.0
+2016-06-14,Bookcases,5,0.15
+2014-09-05,Furnishings,2,0.2
+2014-07-05,Furnishings,2,0.2
+2014-07-05,Furnishings,3,0.2
+2014-09-12,Furnishings,2,0.0
+2017-12-29,Furnishings,2,0.0
+2017-09-04,Tables,8,0.2
+2017-09-28,Furnishings,3,0.0
+2014-01-19,Bookcases,5,0.7
+2016-06-09,Chairs,3,0.2
+2014-09-26,Chairs,3,0.2
+2017-12-19,Furnishings,5,0.2
+2017-12-19,Bookcases,7,0.7
+2017-01-30,Chairs,4,0.2
+2017-04-01,Chairs,3,0.2
+2014-11-28,Bookcases,4,0.15
+2017-07-15,Chairs,6,0.1
+2017-11-02,Furnishings,1,0.2
+2015-10-08,Furnishings,5,0.0
+2017-12-04,Chairs,10,0.3
+2017-12-04,Furnishings,2,0.2
+2017-05-22,Chairs,2,0.3
+2016-12-19,Tables,6,0.5
+2017-09-07,Furnishings,2,0.0
+2014-11-12,Bookcases,1,0.32
+2017-10-02,Furnishings,2,0.0
+2015-12-14,Furnishings,2,0.0
+2017-03-13,Chairs,1,0.3
+2016-12-12,Furnishings,6,0.0
+2017-09-09,Chairs,5,0.2
+2017-10-04,Furnishings,1,0.0
+2014-12-15,Furnishings,2,0.0
+2014-10-13,Chairs,2,0.0
+2016-09-20,Furnishings,2,0.2
+2016-09-20,Chairs,1,0.2
+2017-06-30,Furnishings,2,0.2
+2016-09-25,Chairs,2,0.0
+2016-09-25,Furnishings,11,0.0
+2014-09-29,Furnishings,2,0.0
+2014-09-29,Tables,9,0.0
+2017-06-26,Chairs,3,0.2
+2016-08-21,Tables,9,0.4
+2014-02-11,Tables,6,0.0
+2017-03-26,Furnishings,3,0.0
+2014-12-21,Chairs,6,0.2
+2014-12-21,Chairs,3,0.2
+2016-04-01,Furnishings,4,0.0
+2017-04-14,Furnishings,5,0.0
+2015-01-04,Furnishings,14,0.0
+2017-07-17,Bookcases,5,0.15
+2016-12-18,Tables,5,0.5
+2016-09-24,Furnishings,2,0.2
+2015-06-09,Furnishings,4,0.0
+2014-12-29,Furnishings,3,0.6
+2014-07-28,Furnishings,6,0.2
+2015-12-26,Chairs,3,0.3
+2015-12-10,Chairs,3,0.0
+2016-05-05,Tables,2,0.2
+2014-12-14,Tables,1,0.4
+2015-05-08,Furnishings,3,0.0
+2015-05-08,Chairs,2,0.1
+2017-12-08,Bookcases,4,0.0
+2017-06-29,Bookcases,9,0.0
+2017-06-29,Furnishings,2,0.0
+2014-01-20,Furnishings,2,0.0
+2017-03-28,Furnishings,1,0.0
+2017-03-28,Furnishings,7,0.0
+2014-05-30,Tables,3,0.5
+2016-02-03,Chairs,4,0.0
+2015-08-11,Furnishings,3,0.2
+2017-08-12,Furnishings,4,0.0
+2015-11-03,Chairs,10,0.1
+2015-09-24,Furnishings,3,0.0
+2016-04-12,Chairs,7,0.2
+2014-11-11,Chairs,1,0.2
+2017-10-02,Bookcases,6,0.7
+2017-04-10,Furnishings,5,0.2
+2017-09-29,Chairs,1,0.2
+2017-09-29,Furnishings,1,0.0
+2014-09-29,Furnishings,4,0.0
+2014-08-20,Chairs,2,0.3
+2017-11-13,Bookcases,3,0.32
+2016-02-06,Furnishings,4,0.2
+2015-03-22,Furnishings,2,0.0
+2017-05-12,Tables,5,0.2
+2017-09-03,Chairs,1,0.1
+2017-09-03,Chairs,2,0.1
+2016-12-03,Tables,2,0.0
+2016-12-03,Chairs,1,0.0
+2016-07-21,Chairs,5,0.2
+2015-09-22,Furnishings,2,0.0
+2015-11-17,Furnishings,4,0.0
+2015-11-17,Chairs,2,0.2
+2015-11-17,Furnishings,3,0.0
+2015-11-10,Furnishings,3,0.0
+2015-08-05,Furnishings,5,0.6
+2017-09-03,Bookcases,2,0.15
+2015-11-01,Tables,2,0.0
+2014-08-05,Chairs,5,0.0
+2016-11-07,Chairs,4,0.2
+2016-06-14,Tables,7,0.2
+2016-09-24,Furnishings,3,0.0
+2016-09-18,Chairs,2,0.2
+2016-09-18,Chairs,9,0.2
+2016-03-13,Furnishings,2,0.0
+2016-04-03,Furnishings,4,0.0
+2016-11-27,Furnishings,3,0.0
+2016-12-02,Furnishings,3,0.0
+2015-09-17,Chairs,2,0.1
+2015-09-17,Bookcases,6,0.2
+2015-09-17,Bookcases,5,0.2
+2016-11-26,Tables,2,0.4
+2014-04-08,Tables,8,0.0
+2014-10-11,Furnishings,4,0.0
+2017-07-07,Bookcases,3,0.5
+2016-07-04,Furnishings,5,0.0
+2014-08-25,Furnishings,1,0.0
+2014-11-11,Furnishings,2,0.2
+2014-11-11,Bookcases,4,0.5
+2016-03-12,Chairs,3,0.2
+2017-02-09,Furnishings,4,0.0
+2014-07-20,Furnishings,3,0.0
+2017-02-06,Bookcases,1,0.2
+2014-09-07,Tables,5,0.0
+2014-09-07,Chairs,2,0.0
+2016-07-19,Furnishings,6,0.0
+2016-07-19,Bookcases,5,0.0
+2017-09-15,Chairs,3,0.2
+2016-12-11,Chairs,5,0.3
+2016-12-11,Tables,3,0.4
+2014-12-10,Chairs,3,0.2
+2014-12-13,Furnishings,3,0.2
+2017-09-07,Furnishings,4,0.0
+2015-11-02,Chairs,2,0.1
+2017-04-01,Furnishings,3,0.0
+2014-04-06,Furnishings,2,0.0
+2014-04-06,Furnishings,7,0.0
+2017-07-06,Chairs,1,0.2
+2016-12-25,Furnishings,4,0.0
+2015-12-14,Furnishings,3,0.0
+2016-09-04,Furnishings,3,0.0
+2016-02-04,Furnishings,2,0.2
+2017-05-19,Chairs,3,0.2
+2015-09-03,Furnishings,3,0.2
+2016-06-09,Tables,3,0.0
+2016-09-23,Furnishings,4,0.2
+2017-05-20,Chairs,8,0.2
+2017-05-20,Furnishings,1,0.0
+2016-09-01,Furnishings,3,0.0
+2014-02-18,Furnishings,5,0.6
+2015-12-14,Furnishings,3,0.0
+2017-09-20,Chairs,3,0.1
+2017-09-20,Chairs,1,0.1
+2017-09-20,Chairs,11,0.1
+2017-09-20,Chairs,5,0.1
+2017-08-22,Tables,2,0.4
+2016-11-12,Chairs,7,0.3
+2016-11-12,Chairs,9,0.3
+2016-11-12,Chairs,2,0.3
+2017-09-19,Furnishings,8,0.2
+2017-09-19,Bookcases,2,0.7
+2016-03-31,Chairs,6,0.1
+2014-12-27,Chairs,14,0.1
+2016-08-16,Tables,2,0.2
+2014-03-30,Bookcases,2,0.15
+2017-12-28,Chairs,6,0.2
+2016-04-08,Bookcases,5,0.0
+2014-03-18,Bookcases,10,0.15
+2017-04-20,Furnishings,2,0.2
+2017-04-20,Furnishings,3,0.2
+2014-03-19,Furnishings,3,0.2
+2014-03-19,Furnishings,3,0.2
+2015-09-21,Chairs,4,0.0
+2016-12-11,Chairs,5,0.2
+2016-12-24,Furnishings,9,0.0
+2016-12-16,Chairs,5,0.2
+2017-12-01,Furnishings,2,0.2
+2016-10-20,Chairs,1,0.3
+2017-08-18,Furnishings,3,0.0
+2015-11-28,Furnishings,3,0.0
+2017-12-23,Furnishings,4,0.2
+2015-10-05,Bookcases,1,0.7
+2015-10-05,Chairs,4,0.2
+2017-09-11,Chairs,2,0.2
+2015-12-12,Furnishings,3,0.0
+2017-05-28,Furnishings,8,0.0
+2015-11-20,Furnishings,3,0.0
+2017-05-29,Furnishings,3,0.0
+2015-09-08,Furnishings,8,0.0
+2017-12-02,Chairs,9,0.2
+2016-07-17,Furnishings,3,0.0
+2016-07-17,Furnishings,5,0.0
+2015-11-20,Furnishings,2,0.2
+2016-09-24,Chairs,5,0.2
+2016-10-21,Tables,2,0.4
+2014-07-08,Tables,3,0.2
+2015-03-13,Chairs,4,0.2
+2015-03-13,Furnishings,8,0.0
+2017-12-02,Chairs,2,0.0
+2017-11-30,Furnishings,3,0.0
+2016-11-04,Chairs,1,0.2
+2016-11-04,Chairs,3,0.2
+2014-09-11,Furnishings,3,0.0
+2014-01-20,Furnishings,3,0.0
+2014-01-20,Furnishings,3,0.0
+2016-08-30,Furnishings,4,0.0
+2017-10-05,Chairs,2,0.1
+2017-09-03,Furnishings,5,0.6
+2016-10-03,Furnishings,5,0.6
+2016-11-21,Bookcases,2,0.2
+2017-10-03,Furnishings,4,0.0
+2014-04-29,Chairs,2,0.2
+2016-12-15,Furnishings,2,0.0
+2016-03-29,Bookcases,5,0.5
+2016-12-14,Furnishings,4,0.0
+2017-05-30,Bookcases,2,0.0
+2017-05-30,Furnishings,3,0.0
+2017-08-31,Chairs,2,0.2
+2017-05-14,Chairs,5,0.3
+2016-10-31,Chairs,3,0.0
+2015-10-24,Chairs,8,0.2
+2014-11-03,Tables,6,0.4
+2014-11-03,Furnishings,3,0.2
+2017-05-27,Furnishings,4,0.0
+2017-12-14,Tables,4,0.3
+2014-10-04,Chairs,5,0.1
+2016-10-13,Furnishings,3,0.0
+2017-03-04,Furnishings,5,0.6
+2017-07-31,Furnishings,7,0.0
+2017-05-14,Chairs,2,0.0
+2016-09-22,Furnishings,2,0.0
+2016-12-02,Furnishings,6,0.0
+2014-01-14,Bookcases,4,0.5
+2017-06-03,Bookcases,2,0.2
+2017-06-03,Tables,2,0.4
+2014-09-15,Furnishings,4,0.2
+2016-11-20,Bookcases,2,0.2
+2015-07-24,Furnishings,3,0.0
+2016-10-09,Furnishings,4,0.2
+2017-09-15,Chairs,3,0.2
+2017-09-15,Furnishings,5,0.0
+2017-01-16,Chairs,3,0.0
+2014-11-17,Bookcases,10,0.2
+2014-10-20,Tables,3,0.4
+2015-10-25,Chairs,5,0.0
+2017-11-16,Furnishings,2,0.0
+2014-03-01,Chairs,6,0.3
+2015-07-30,Chairs,6,0.0
+2015-11-01,Chairs,4,0.1
+2015-06-05,Chairs,9,0.1
+2014-05-07,Tables,2,0.3
+2014-05-07,Chairs,4,0.0
+2014-04-18,Chairs,3,0.3
+2017-03-03,Chairs,3,0.2
+2016-10-22,Furnishings,3,0.0
+2017-07-21,Furnishings,5,0.0
+2017-07-21,Bookcases,3,0.0
+2014-12-02,Furnishings,3,0.0
+2014-12-02,Chairs,8,0.0
+2016-05-26,Chairs,6,0.2
+2015-04-21,Chairs,2,0.0
+2015-04-21,Furnishings,3,0.0
+2016-06-17,Bookcases,2,0.15
+2017-01-13,Bookcases,3,0.0
+2014-09-06,Furnishings,6,0.0
+2015-01-19,Tables,1,0.3
+2015-01-19,Chairs,4,0.3
+2016-12-25,Chairs,3,0.2
+2016-12-25,Tables,5,0.0
+2014-10-31,Tables,8,0.4
+2016-12-15,Tables,3,0.5
+2017-09-08,Furnishings,2,0.6
+2017-09-08,Chairs,5,0.3
+2017-02-20,Furnishings,2,0.2
+2017-02-20,Tables,9,0.5
+2017-10-26,Tables,5,0.0
+2017-05-12,Furnishings,5,0.0
+2015-09-05,Furnishings,4,0.0
+2014-10-10,Furnishings,7,0.2
+2014-11-05,Furnishings,6,0.0
+2015-12-17,Furnishings,2,0.6
+2017-07-21,Chairs,2,0.2
+2015-05-20,Furnishings,4,0.2
+2015-11-14,Chairs,4,0.2
+2015-11-14,Chairs,3,0.2
+2017-12-14,Furnishings,6,0.6
+2017-12-14,Furnishings,3,0.6
+2016-04-08,Furnishings,4,0.0
+2016-11-04,Furnishings,6,0.2
+2015-06-18,Chairs,4,0.2
+2014-05-26,Chairs,2,0.3
+2017-07-06,Chairs,3,0.2
+2016-06-28,Chairs,2,0.0
+2017-09-15,Furnishings,5,0.0
+2017-09-15,Chairs,4,0.0
+2016-07-24,Chairs,2,0.1
+2017-04-20,Chairs,3,0.3
+2017-04-20,Furnishings,5,0.6
+2016-09-03,Bookcases,3,0.0
+2016-09-03,Furnishings,2,0.0
+2017-07-25,Furnishings,4,0.2
+2017-07-25,Tables,1,0.4
+2015-09-13,Furnishings,3,0.0
+2016-11-10,Furnishings,1,0.0
+2015-11-16,Furnishings,2,0.6
+2015-08-25,Furnishings,2,0.6
+2015-08-25,Furnishings,5,0.6
+2016-12-25,Tables,1,0.5
+2016-12-25,Chairs,2,0.2
+2015-03-31,Furnishings,3,0.6
+2017-09-14,Chairs,2,0.3
+2017-09-14,Furnishings,8,0.2
+2014-06-17,Furnishings,3,0.0
+2017-12-28,Furnishings,3,0.6
+2017-12-28,Chairs,2,0.3
+2017-12-28,Furnishings,2,0.6
+2015-07-25,Tables,2,0.0
+2016-09-08,Tables,1,0.2
+2017-10-15,Furnishings,1,0.0
+2016-09-12,Chairs,4,0.0
+2014-07-06,Chairs,2,0.2
+2014-04-20,Furnishings,4,0.0
+2016-01-08,Bookcases,6,0.0
+2017-04-17,Chairs,3,0.2
+2016-08-21,Tables,9,0.2
+2016-09-05,Tables,3,0.0
+2015-10-15,Furnishings,6,0.6
+2015-12-01,Chairs,5,0.2
+2015-12-01,Tables,9,0.0
+2015-05-31,Chairs,8,0.0
+2017-09-18,Furnishings,4,0.0
+2015-05-24,Chairs,7,0.3
+2017-12-10,Furnishings,2,0.0
+2017-07-29,Bookcases,2,0.0
+2014-12-16,Chairs,5,0.2
+2015-11-30,Bookcases,12,0.2
+2014-07-14,Furnishings,2,0.2
+2016-09-02,Furnishings,2,0.6
+2016-09-30,Bookcases,5,0.2
+2015-04-25,Chairs,3,0.3
+2017-11-19,Tables,3,0.4
+2016-07-14,Furnishings,1,0.0
+2016-01-10,Furnishings,5,0.0
+2015-06-28,Furnishings,4,0.2
+2015-11-08,Furnishings,3,0.0
+2015-03-30,Chairs,4,0.3
+2014-08-19,Furnishings,7,0.0
+2015-11-01,Chairs,2,0.1
+2014-12-15,Furnishings,2,0.6
+2015-08-21,Chairs,3,0.3
+2015-08-21,Furnishings,1,0.2
+2017-12-09,Bookcases,3,0.15
+2014-08-23,Furnishings,3,0.2
+2016-11-11,Chairs,3,0.1
+2017-11-09,Chairs,3,0.2
+2017-12-17,Furnishings,2,0.0
+2017-07-18,Chairs,4,0.3
+2014-04-08,Tables,1,0.2
+2016-12-11,Chairs,5,0.2
+2016-12-11,Tables,7,0.2
+2016-09-02,Tables,3,0.4
+2017-06-19,Chairs,6,0.3
+2017-06-19,Furnishings,3,0.2
+2016-05-05,Tables,6,0.0
+2017-12-01,Bookcases,2,0.0
+2015-08-09,Furnishings,3,0.0
+2016-11-14,Furnishings,4,0.0
+2017-11-26,Tables,3,0.0
+2017-11-26,Furnishings,2,0.0
+2017-11-26,Chairs,3,0.0
+2015-11-20,Bookcases,3,0.2
+2017-09-07,Furnishings,5,0.0
+2014-11-24,Furnishings,5,0.0
+2017-03-11,Tables,3,0.4
+2017-12-22,Chairs,2,0.0
+2017-12-22,Tables,2,0.5
+2015-12-25,Furnishings,6,0.0
+2014-07-22,Chairs,3,0.2
+2014-07-22,Tables,3,0.2
+2017-10-08,Chairs,2,0.1
+2017-04-21,Chairs,9,0.0
+2017-08-17,Chairs,4,0.3
+2017-08-17,Furnishings,2,0.6
+2016-11-12,Tables,3,0.2
+2016-11-13,Furnishings,2,0.0
+2016-11-27,Tables,7,0.45
+2016-10-28,Furnishings,5,0.0
+2014-12-29,Furnishings,3,0.6
+2017-10-02,Furnishings,2,0.0
+2016-07-14,Furnishings,4,0.0
+2016-03-08,Furnishings,8,0.0
+2016-12-24,Furnishings,7,0.0
+2017-04-23,Furnishings,7,0.0
+2017-04-23,Furnishings,2,0.0
+2017-08-17,Chairs,9,0.3
+2014-03-03,Bookcases,5,0.5
+2016-05-30,Furnishings,5,0.0
+2014-11-23,Chairs,2,0.3
+2016-01-14,Furnishings,8,0.2
+2016-09-16,Bookcases,2,0.15
+2015-11-13,Furnishings,7,0.0
+2017-09-09,Furnishings,2,0.2
+2016-06-20,Furnishings,3,0.0
+2016-01-23,Furnishings,7,0.0
+2015-05-26,Furnishings,1,0.0
+2014-11-18,Tables,4,0.5
+2014-11-18,Furnishings,2,0.6
+2014-11-18,Bookcases,6,0.3
+2017-09-04,Chairs,2,0.2
+2014-03-29,Tables,3,0.3
+2016-11-05,Chairs,2,0.2
+2016-10-16,Tables,1,0.4
+2017-11-26,Furnishings,5,0.0
+2017-12-05,Furnishings,2,0.0
+2014-03-18,Furnishings,2,0.0
+2016-11-12,Furnishings,6,0.6
+2015-04-11,Furnishings,2,0.2
+2015-04-11,Furnishings,3,0.2
+2015-12-25,Bookcases,2,0.2
+2014-12-20,Chairs,3,0.1
+2014-07-26,Chairs,2,0.0
+2014-07-26,Furnishings,3,0.0
+2017-12-11,Tables,6,0.45
+2017-12-11,Chairs,1,0.2
+2016-10-09,Furnishings,2,0.2
+2014-12-30,Tables,3,0.4
+2016-04-12,Chairs,3,0.2
+2016-11-28,Chairs,7,0.3
+2016-09-13,Furnishings,14,0.0
+2017-11-29,Chairs,2,0.2
+2017-11-29,Furnishings,5,0.2
+2016-12-25,Tables,2,0.4
+2016-12-25,Chairs,3,0.1
+2016-09-08,Furnishings,1,0.0
+2015-05-14,Bookcases,5,0.15
+2015-05-14,Furnishings,3,0.0
+2015-05-14,Chairs,2,0.2
+2015-05-14,Chairs,3,0.2
+2016-05-30,Furnishings,8,0.0
+2014-04-08,Tables,1,0.4
+2017-05-30,Furnishings,1,0.2
+2016-03-13,Chairs,2,0.3
+2017-04-10,Furnishings,3,0.2
+2016-06-25,Chairs,2,0.3
+2016-06-25,Furnishings,2,0.6
+2015-03-24,Furnishings,5,0.0
+2017-09-02,Tables,2,0.2
+2017-02-03,Furnishings,1,0.6
+2017-11-11,Furnishings,5,0.2
+2017-09-17,Chairs,5,0.3
+2015-04-16,Furnishings,7,0.0
+2015-04-16,Bookcases,9,0.0
+2017-11-11,Furnishings,4,0.0
+2014-09-15,Furnishings,2,0.0
+2014-01-06,Chairs,9,0.0
+2014-12-15,Chairs,7,0.3
+2015-12-19,Tables,4,0.3
+2015-09-10,Furnishings,6,0.0
+2017-09-11,Tables,5,0.3
+2017-07-14,Furnishings,3,0.0
+2017-07-14,Furnishings,3,0.0
+2017-07-14,Furnishings,5,0.2
+2016-09-05,Chairs,2,0.3
+2014-09-10,Chairs,5,0.2
+2017-09-26,Furnishings,3,0.0
+2016-06-17,Furnishings,3,0.2
+2016-06-17,Chairs,4,0.2
+2017-02-25,Chairs,2,0.2
+2017-02-25,Bookcases,5,0.2
+2017-12-03,Furnishings,2,0.6
+2017-12-02,Bookcases,8,0.7
+2017-12-02,Furnishings,6,0.2
+2017-12-02,Chairs,5,0.2
+2016-09-05,Furnishings,3,0.6
+2014-05-10,Bookcases,7,0.5
+2014-11-01,Furnishings,6,0.0
+2016-12-30,Chairs,1,0.3
+2016-09-03,Bookcases,4,0.3
+2016-01-30,Chairs,4,0.2
+2016-01-30,Bookcases,1,0.0
+2014-10-21,Tables,4,0.0
+2016-12-18,Chairs,3,0.0
+2015-04-16,Chairs,2,0.1
+2017-11-16,Furnishings,3,0.0
+2016-09-05,Furnishings,9,0.2
+2016-09-05,Chairs,2,0.3
+2016-09-05,Chairs,3,0.3
+2016-05-27,Furnishings,3,0.6
+2016-05-27,Furnishings,2,0.6
+2015-08-24,Furnishings,3,0.0
+2017-10-27,Tables,1,0.2
+2014-11-25,Chairs,4,0.2
+2015-05-23,Furnishings,9,0.0
+2014-03-30,Chairs,7,0.3
+2017-12-29,Chairs,8,0.0
+2017-12-29,Chairs,1,0.0
+2017-12-29,Chairs,3,0.0
+2017-03-02,Bookcases,2,0.0
+2015-04-05,Chairs,3,0.2
+2016-03-15,Chairs,4,0.2
+2015-12-27,Tables,9,0.4
+2015-11-30,Furnishings,4,0.0
+2014-04-15,Furnishings,4,0.0
+2014-01-07,Furnishings,3,0.6
+2014-10-22,Furnishings,4,0.0
+2015-11-27,Bookcases,1,0.0
+2015-11-27,Furnishings,3,0.0
+2015-11-27,Tables,4,0.3
+2014-12-31,Bookcases,2,0.0
+2014-12-31,Chairs,6,0.0
+2016-11-25,Tables,9,0.0
+2017-07-15,Tables,3,0.0
+2016-03-22,Chairs,7,0.2
+2017-12-14,Tables,2,0.3
+2016-08-26,Tables,4,0.0
+2017-10-28,Furnishings,3,0.2
+2015-09-10,Chairs,1,0.3
+2017-06-13,Chairs,4,0.2
+2015-06-18,Furnishings,3,0.0
+2015-11-30,Furnishings,2,0.2
+2017-11-13,Furnishings,3,0.0
+2017-08-12,Chairs,5,0.0
+2016-11-04,Tables,10,0.4
+2016-05-17,Furnishings,3,0.6
+2017-03-24,Chairs,3,0.1
+2014-03-24,Furnishings,2,0.0
+2016-02-14,Tables,3,0.3
+2016-02-14,Furnishings,6,0.0
+2017-06-08,Bookcases,2,0.15
+2014-05-16,Chairs,5,0.2
+2015-02-03,Chairs,1,0.1
+2015-04-26,Chairs,3,0.2
+2015-04-13,Tables,2,0.2
+2015-09-25,Chairs,4,0.2
+2014-03-28,Tables,4,0.0
+2017-07-21,Tables,4,0.3
+2016-02-27,Furnishings,2,0.6
+2015-07-14,Chairs,2,0.2
+2015-07-14,Bookcases,6,0.7
+2016-10-03,Chairs,4,0.2
+2016-11-29,Furnishings,4,0.6
+2016-06-14,Tables,2,0.4
+2017-12-03,Furnishings,3,0.2
+2017-12-03,Furnishings,5,0.2
+2017-12-03,Furnishings,1,0.2
+2016-12-25,Furnishings,5,0.0
+2017-08-13,Furnishings,1,0.2
+2017-08-13,Chairs,2,0.2
+2016-12-03,Tables,3,0.2
+2016-12-03,Bookcases,2,0.15
+2016-04-28,Furnishings,2,0.6
+2015-11-20,Chairs,4,0.3
+2017-11-20,Furnishings,3,0.0
+2017-07-25,Tables,6,0.3
+2016-07-15,Chairs,3,0.2
+2016-12-14,Chairs,2,0.2
+2014-03-01,Chairs,6,0.3
+2014-03-01,Furnishings,6,0.6
+2017-10-05,Chairs,4,0.2
+2017-10-05,Furnishings,5,0.0
+2017-10-05,Tables,3,0.2
+2016-10-10,Bookcases,3,0.7
+2016-10-10,Chairs,1,0.2
+2015-08-16,Furnishings,3,0.2
+2014-09-10,Furnishings,5,0.0
+2015-11-20,Bookcases,6,0.7
+2017-11-03,Tables,12,0.2
+2014-05-04,Furnishings,7,0.0
+2014-12-01,Furnishings,3,0.0
+2014-12-01,Furnishings,2,0.0
+2015-11-17,Chairs,5,0.0
+2017-05-25,Furnishings,3,0.0
+2014-09-09,Furnishings,6,0.2
+2014-07-21,Chairs,5,0.3
+2015-09-11,Furnishings,2,0.0
+2016-01-07,Furnishings,3,0.6
+2015-06-25,Furnishings,9,0.6
+2017-06-30,Bookcases,3,0.15
+2017-08-21,Chairs,6,0.2
+2017-03-11,Furnishings,1,0.0
+2014-09-26,Furnishings,1,0.2
+2015-08-28,Bookcases,2,0.15
+2015-08-28,Furnishings,2,0.0
+2015-10-20,Furnishings,6,0.0
+2017-01-01,Furnishings,5,0.6
+2017-01-01,Chairs,4,0.3
+2015-06-23,Furnishings,3,0.0
+2016-10-20,Furnishings,5,0.0
+2017-07-27,Furnishings,3,0.0
+2017-02-17,Bookcases,1,0.32
+2017-12-08,Chairs,4,0.3
+2017-11-18,Chairs,2,0.3
+2016-12-01,Chairs,5,0.3
+2016-12-01,Chairs,2,0.3
+2017-08-29,Furnishings,3,0.0
+2017-07-22,Chairs,4,0.3
+2016-11-11,Furnishings,2,0.0
+2016-11-11,Chairs,3,0.2
+2017-09-07,Chairs,2,0.2
+2017-08-26,Furnishings,5,0.6
+2015-10-08,Furnishings,3,0.6
+2016-08-12,Tables,7,0.45
+2014-11-09,Furnishings,9,0.0
+2016-02-05,Tables,4,0.2
+2014-01-26,Bookcases,2,0.0
+2016-10-04,Tables,2,0.3
+2016-02-16,Chairs,2,0.0
+2015-11-02,Furnishings,6,0.0
+2015-11-02,Bookcases,3,0.15
+2016-07-31,Tables,7,0.2
+2017-11-06,Tables,7,0.0
+2017-11-06,Chairs,2,0.2
+2015-08-02,Tables,4,0.5
+2015-11-21,Tables,8,0.4
+2017-05-18,Furnishings,3,0.6
+2017-05-18,Furnishings,1,0.6
+2015-09-13,Chairs,4,0.3
+2017-11-17,Furnishings,4,0.0
+2015-11-30,Furnishings,2,0.2
+2015-11-08,Furnishings,3,0.0
+2015-11-08,Chairs,2,0.1
+2015-04-26,Tables,1,0.45
+2016-11-07,Furnishings,5,0.6
+2014-10-03,Furnishings,3,0.6
+2016-04-04,Furnishings,2,0.0
+2016-06-30,Bookcases,7,0.0
+2017-05-01,Tables,4,0.45
+2017-05-01,Chairs,5,0.2
+2017-10-20,Furnishings,4,0.2
+2014-08-12,Furnishings,3,0.0
+2015-03-05,Furnishings,2,0.6
+2017-01-30,Tables,1,0.5
+2016-12-25,Chairs,8,0.1
+2016-10-20,Chairs,4,0.2
+2017-05-09,Chairs,3,0.2
+2015-12-21,Furnishings,3,0.6
+2015-07-05,Furnishings,2,0.2
+2017-07-26,Chairs,3,0.2
+2017-11-03,Tables,4,0.2
+2014-03-01,Tables,3,0.3
+2017-01-26,Furnishings,4,0.0
+2014-07-12,Chairs,3,0.3
+2016-03-09,Chairs,5,0.0
+2017-04-13,Chairs,6,0.2
+2014-03-21,Furnishings,3,0.2
+2014-03-21,Chairs,3,0.2
+2015-04-30,Furnishings,5,0.0
+2015-04-30,Furnishings,1,0.0
+2015-04-30,Furnishings,5,0.0
+2017-05-03,Furnishings,2,0.2
+2017-05-03,Tables,5,0.4
+2016-08-26,Furnishings,3,0.0
+2017-01-02,Tables,5,0.3
+2016-06-11,Tables,3,0.2
+2016-10-17,Bookcases,2,0.15
+2016-11-24,Furnishings,3,0.0
+2016-02-08,Chairs,4,0.3
+2017-12-23,Furnishings,2,0.0
+2016-12-01,Furnishings,5,0.0
+2016-12-01,Tables,3,0.3
+2017-11-02,Chairs,2,0.3
+2015-12-05,Chairs,3,0.1
+2017-07-08,Furnishings,4,0.0
+2017-07-08,Furnishings,2,0.0
+2016-11-15,Tables,4,0.4
+2017-03-10,Tables,4,0.3
+2017-05-09,Tables,1,0.0
+2017-10-12,Furnishings,2,0.0
+2017-10-12,Bookcases,5,0.0
+2016-12-19,Furnishings,5,0.2
+2017-11-08,Furnishings,10,0.0
+2014-09-14,Furnishings,5,0.6
+2017-10-23,Tables,4,0.3
+2017-10-23,Furnishings,4,0.0
+2017-10-23,Furnishings,2,0.0
+2017-10-23,Tables,3,0.3
+2016-04-18,Chairs,4,0.3
+2016-04-18,Furnishings,5,0.6
+2017-05-28,Chairs,3,0.3
+2016-11-11,Tables,6,0.0
+2017-04-23,Bookcases,4,0.2
+2017-04-23,Furnishings,3,0.2
+2017-09-24,Furnishings,10,0.0
+2016-02-02,Furnishings,7,0.0
+2015-03-01,Chairs,3,0.2
+2016-05-02,Chairs,4,0.3
+2016-02-02,Furnishings,2,0.6
+2017-06-04,Furnishings,6,0.6
+2017-12-04,Furnishings,1,0.0
+2017-12-04,Chairs,3,0.0
+2017-12-04,Chairs,3,0.0
+2016-01-11,Furnishings,14,0.2
+2017-03-16,Furnishings,6,0.2
+2017-11-10,Chairs,2,0.2
+2016-11-30,Chairs,3,0.0
+2015-12-22,Chairs,7,0.3
+2016-03-27,Furnishings,1,0.0
+2016-03-27,Furnishings,4,0.0
+2015-09-11,Furnishings,4,0.2
+2016-12-09,Tables,7,0.0
+2016-12-23,Furnishings,2,0.6
+2016-04-02,Chairs,5,0.0
+2017-04-30,Furnishings,6,0.2
+2017-07-03,Furnishings,1,0.0
+2017-12-22,Tables,2,0.0
+2014-05-20,Furnishings,3,0.6
+2017-04-23,Furnishings,3,0.2
+2014-06-04,Furnishings,2,0.0
+2014-06-04,Bookcases,2,0.2
+2014-06-04,Furnishings,2,0.0
+2017-03-03,Tables,7,0.2
+2017-11-06,Furnishings,5,0.6
+2015-09-07,Tables,2,0.4
+2016-07-28,Bookcases,5,0.5
+2017-08-25,Bookcases,2,0.5
+2017-04-27,Furnishings,7,0.0
+2015-11-08,Furnishings,1,0.2
+2016-11-25,Chairs,3,0.2
+2015-12-05,Chairs,2,0.2
+2014-09-13,Furnishings,3,0.0
+2017-11-25,Bookcases,5,0.2
+2015-05-12,Furnishings,4,0.6
+2017-03-30,Furnishings,5,0.0
+2014-12-27,Furnishings,3,0.2
+2017-02-16,Chairs,3,0.3
+2017-02-16,Furnishings,1,0.6
+2017-10-24,Tables,5,0.3
+2017-09-15,Tables,1,0.2
+2017-06-15,Furnishings,4,0.2
+2017-06-15,Tables,2,0.4
+2014-09-08,Chairs,2,0.1
+2014-11-16,Bookcases,3,0.15
+2014-03-03,Tables,3,0.2
+2015-12-03,Bookcases,3,0.15
+2016-06-12,Furnishings,2,0.6
+2016-06-12,Chairs,2,0.3
+2015-12-27,Furnishings,3,0.2
+2015-12-27,Bookcases,2,0.2
+2017-06-27,Furnishings,3,0.0
+2015-10-02,Furnishings,1,0.2
+2017-02-02,Furnishings,2,0.0
+2016-07-22,Furnishings,3,0.0
+2016-09-12,Chairs,4,0.2
+2016-07-02,Chairs,5,0.3
+2017-12-13,Bookcases,3,0.2
+2015-03-01,Bookcases,6,0.32
+2016-09-15,Tables,3,0.0
+2017-06-15,Chairs,3,0.2
+2017-06-15,Bookcases,2,0.2
+2016-11-10,Bookcases,2,0.0
+2016-09-12,Furnishings,2,0.0
+2015-07-26,Chairs,3,0.2
+2015-11-15,Furnishings,2,0.0
+2015-07-02,Furnishings,10,0.2
+2015-09-11,Furnishings,4,0.0
+2014-09-20,Bookcases,5,0.3
+2017-12-01,Furnishings,12,0.0
+2017-12-01,Furnishings,9,0.0
+2016-09-16,Chairs,2,0.0
+2015-12-01,Chairs,9,0.2
+2014-08-05,Tables,2,0.3
+2016-08-15,Furnishings,3,0.0
+2016-05-31,Furnishings,3,0.6
+2016-05-31,Chairs,3,0.3
+2014-04-02,Furnishings,2,0.0
+2016-10-04,Furnishings,3,0.2
+2016-01-30,Tables,3,0.5
+2015-04-13,Tables,4,0.3
+2015-04-13,Tables,2,0.3
+2017-12-18,Furnishings,5,0.0
+2016-03-14,Furnishings,2,0.0
+2017-10-10,Chairs,3,0.3
+2017-12-22,Tables,6,0.4
+2014-08-08,Bookcases,4,0.2
+2017-12-25,Furnishings,3,0.2
+2017-11-25,Chairs,5,0.3
+2016-11-05,Furnishings,2,0.0
+2016-11-05,Furnishings,5,0.0
+2016-11-03,Chairs,7,0.3
+2017-03-24,Chairs,2,0.1
+2017-04-25,Bookcases,7,0.15
+2017-11-23,Tables,1,0.3
+2016-03-06,Furnishings,5,0.6
+2016-03-06,Tables,2,0.5
+2015-12-03,Furnishings,3,0.2
+2015-12-24,Furnishings,2,0.0
+2017-10-16,Tables,7,0.4
+2017-05-13,Chairs,5,0.3
+2017-11-18,Furnishings,2,0.0
+2016-02-21,Furnishings,7,0.0
+2014-12-16,Furnishings,6,0.0
+2016-08-22,Furnishings,3,0.2
+2015-06-29,Chairs,1,0.1
+2016-06-26,Furnishings,3,0.0
+2016-09-17,Furnishings,3,0.0
+2016-09-17,Furnishings,3,0.0
+2017-09-01,Tables,4,0.0
+2017-06-22,Chairs,2,0.0
+2014-09-19,Tables,1,0.5
+2014-09-28,Furnishings,4,0.2
+2015-11-02,Chairs,11,0.1
+2015-10-20,Furnishings,7,0.0
+2015-10-20,Tables,3,0.2
+2016-06-14,Tables,7,0.0
+2016-09-02,Chairs,3,0.2
+2017-12-04,Furnishings,3,0.2
+2016-02-16,Furnishings,4,0.0
+2016-09-26,Chairs,5,0.3
+2015-06-28,Bookcases,6,0.5
+2015-11-07,Furnishings,5,0.6
+2017-01-19,Furnishings,2,0.2
+2017-01-19,Chairs,3,0.3
+2016-08-18,Furnishings,3,0.6
+2016-08-18,Furnishings,4,0.6
+2016-03-24,Bookcases,3,0.5
+2017-05-28,Furnishings,2,0.0
+2016-08-01,Furnishings,2,0.2
+2016-12-08,Bookcases,7,0.0
+2016-12-08,Chairs,3,0.0
+2016-12-01,Furnishings,2,0.0
+2017-08-07,Furnishings,1,0.0
+2017-08-07,Chairs,1,0.2
+2014-05-10,Chairs,1,0.2
+2016-10-17,Bookcases,1,0.0
+2014-12-08,Furnishings,2,0.0
+2014-12-08,Furnishings,3,0.0
+2015-08-16,Bookcases,3,0.5
+2017-10-13,Tables,4,0.0
+2016-09-02,Furnishings,9,0.0
+2016-09-02,Tables,3,0.2
+2017-02-11,Furnishings,2,0.2
+2014-07-09,Bookcases,1,0.15
+2014-02-11,Chairs,1,0.0
+2014-02-11,Furnishings,3,0.0
+2017-09-02,Chairs,3,0.2
+2015-10-09,Chairs,3,0.0
+2014-02-08,Furnishings,2,0.0
+2015-09-25,Chairs,1,0.1
+2016-05-12,Furnishings,3,0.0
+2017-12-01,Chairs,2,0.3
+2016-09-20,Bookcases,2,0.0
+2014-11-18,Chairs,3,0.0
+2015-11-21,Furnishings,1,0.2
+2017-06-19,Tables,3,0.3
+2017-11-30,Chairs,6,0.3
+2017-05-28,Bookcases,4,0.5
+2015-04-18,Chairs,1,0.3
+2017-07-20,Chairs,2,0.1
+2017-07-20,Furnishings,4,0.0
+2016-11-04,Furnishings,3,0.6
+2016-11-04,Furnishings,4,0.6
+2017-09-23,Chairs,2,0.2
+2017-09-07,Furnishings,4,0.0
+2017-05-01,Bookcases,3,0.2
+2017-02-17,Tables,5,0.4
+2017-02-17,Furnishings,2,0.2
+2017-02-17,Chairs,5,0.3
+2016-12-22,Furnishings,8,0.0
+2016-12-22,Furnishings,2,0.0
+2016-09-23,Chairs,3,0.2
+2017-09-24,Chairs,2,0.3
+2016-01-25,Tables,3,0.4
+2016-01-25,Furnishings,1,0.0
+2017-03-21,Furnishings,3,0.0
+2017-11-07,Chairs,3,0.0
+2015-05-29,Furnishings,4,0.2
+2015-05-29,Chairs,3,0.3
+2014-12-23,Chairs,1,0.2
+2017-08-27,Furnishings,8,0.2
+2015-10-25,Chairs,8,0.2
+2014-09-20,Chairs,2,0.1
+2014-09-20,Bookcases,2,0.2
+2014-06-24,Furnishings,2,0.2
+2016-08-12,Tables,2,0.4
+2017-09-22,Furnishings,1,0.0
+2017-12-10,Furnishings,5,0.2
+2015-01-27,Chairs,5,0.2
+2015-10-18,Furnishings,3,0.0
+2014-09-12,Chairs,6,0.1
+2014-11-27,Furnishings,5,0.0
+2014-05-11,Chairs,8,0.3
+2015-08-28,Tables,1,0.3
+2017-05-27,Furnishings,5,0.0
+2017-11-25,Chairs,2,0.0
+2016-11-19,Furnishings,2,0.0
+2017-11-05,Tables,2,0.4
+2017-11-05,Chairs,2,0.1
+2017-11-05,Furnishings,5,0.0
+2015-05-31,Furnishings,2,0.6
+2016-12-02,Bookcases,10,0.32
+2017-10-12,Tables,3,0.3
+2016-01-03,Tables,7,0.0
+2016-05-26,Furnishings,3,0.0
+2015-11-20,Furnishings,3,0.0
+2017-05-30,Bookcases,1,0.32
+2017-12-05,Furnishings,5,0.0
+2016-10-27,Chairs,14,0.1
+2017-06-12,Furnishings,3,0.6
+2016-09-25,Bookcases,2,0.15
+2015-05-11,Chairs,7,0.2
+2015-08-06,Bookcases,3,0.32
+2016-09-22,Furnishings,7,0.2
+2015-11-28,Furnishings,5,0.2
+2014-10-17,Furnishings,2,0.6
+2016-05-03,Furnishings,2,0.2
+2014-03-31,Chairs,7,0.2
+2015-08-13,Furnishings,3,0.0
+2015-05-26,Chairs,1,0.3
+2015-05-26,Chairs,5,0.3
+2017-09-14,Chairs,5,0.1
+2017-06-25,Bookcases,1,0.2
+2016-07-28,Furnishings,5,0.6
+2016-07-28,Furnishings,5,0.6
+2015-09-19,Furnishings,3,0.0
+2016-06-17,Tables,3,0.4
+2016-05-16,Furnishings,4,0.0
+2017-06-29,Tables,3,0.3
+2017-06-29,Bookcases,3,0.32
+2014-10-14,Chairs,9,0.0
+2014-11-18,Furnishings,2,0.0
+2014-11-18,Tables,4,0.0
+2015-01-28,Tables,13,0.4
+2014-03-07,Chairs,6,0.2
+2014-03-07,Chairs,2,0.2
+2016-11-26,Bookcases,8,0.15
+2016-11-26,Furnishings,6,0.0
+2014-09-22,Furnishings,3,0.0
+2014-09-22,Chairs,4,0.1
+2017-11-16,Furnishings,3,0.0
+2017-11-16,Furnishings,3,0.0
+2016-05-06,Furnishings,4,0.0
+2017-12-13,Furnishings,8,0.0
+2015-11-13,Bookcases,3,0.32
+2016-03-11,Furnishings,4,0.2
+2016-10-21,Chairs,3,0.2
+2016-10-21,Furnishings,2,0.0
+2014-11-05,Furnishings,2,0.2
+2016-09-22,Furnishings,2,0.0
+2016-02-16,Chairs,3,0.1
+2014-08-20,Chairs,13,0.0
+2015-11-08,Bookcases,5,0.0
+2017-11-24,Tables,2,0.2
+2017-11-24,Tables,2,0.2
+2014-11-11,Furnishings,2,0.6
+2014-11-11,Chairs,4,0.3
+2017-03-27,Tables,2,0.0
+2016-10-31,Chairs,5,0.2
+2016-11-24,Bookcases,5,0.2
+2014-07-26,Furnishings,3,0.6
+2015-05-31,Furnishings,2,0.0
+2014-11-05,Chairs,5,0.0
+2017-03-27,Bookcases,5,0.32
+2017-03-27,Chairs,3,0.3
+2017-03-27,Chairs,2,0.3
+2014-05-21,Chairs,2,0.3
+2015-07-18,Furnishings,1,0.0
+2016-10-21,Furnishings,2,0.2
+2017-07-27,Chairs,4,0.2
+2015-06-08,Furnishings,7,0.2
+2014-08-15,Chairs,4,0.2
+2017-07-16,Chairs,3,0.2
+2014-12-16,Furnishings,7,0.6
+2016-10-10,Furnishings,4,0.6
+2016-09-25,Chairs,4,0.2
+2014-06-03,Furnishings,7,0.6
+2017-09-02,Furnishings,5,0.0
+2016-05-02,Furnishings,2,0.0
+2016-05-02,Furnishings,5,0.0
+2017-06-19,Furnishings,4,0.0
+2015-03-26,Tables,8,0.0
+2017-01-14,Furnishings,2,0.0
+2014-11-01,Furnishings,2,0.2
+2016-08-21,Chairs,7,0.1
+2016-07-25,Chairs,4,0.0
+2016-07-25,Furnishings,5,0.0
+2016-06-06,Furnishings,3,0.2
+2016-06-06,Furnishings,2,0.2
+2014-03-28,Tables,1,0.4
+2017-08-21,Furnishings,3,0.2
+2014-11-12,Furnishings,3,0.6
+2015-09-13,Furnishings,7,0.0
+2015-09-13,Chairs,3,0.2
+2015-09-13,Furnishings,5,0.0
+2015-09-13,Furnishings,3,0.0
+2015-10-10,Chairs,3,0.2
+2017-01-29,Furnishings,3,0.0
+2016-03-15,Chairs,5,0.3
+2016-09-04,Furnishings,3,0.0
+2015-11-13,Bookcases,4,0.15
+2016-06-03,Tables,2,0.2
+2016-12-12,Furnishings,5,0.0
+2017-06-01,Chairs,6,0.0
+2015-12-14,Tables,2,0.2
+2015-03-19,Bookcases,4,0.32
+2016-12-05,Furnishings,1,0.0
+2015-09-06,Tables,1,0.0
+2014-01-21,Furnishings,3,0.2
+2017-02-26,Furnishings,2,0.0
