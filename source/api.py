@@ -26,6 +26,8 @@ engine = create_engine(url=HEATMAP_DATABASE, echo=False)
 class HeatMap(SQLModel, table=True):
     id: Optional[int] = Field(default=None, primary_key=True)
     address: str = Field(index=True)
+    latitude: float
+    longitude: float
     product: str = Field(index=True)
     daily_demand: float
     target_date: date = Field(index=True)
@@ -130,6 +132,8 @@ def home():
 def forecast_demand(
     address: str = Form(...),
     product: str = Form(...),
+    latitude: float = Form(...),
+    longitude: float = Form(...),
     sales_csv: UploadFile = File(..., description=f'CSV file with these columns: [Date, Quantity, Discount] in the past. At least 14 days to forecast.'),
     discount_plan_csv: UploadFile = File(..., description=f'CSV file with a column: [Discount] in the future. If you want to forecast the next 7 days, Discount must have 7 rows.'),
     db: Session = Depends(get_session),
@@ -153,6 +157,8 @@ def forecast_demand(
             statement = select(HeatMap).where(
                 HeatMap.address == address,
                 HeatMap.product == product,
+                HeatMap.latitude == latitude,
+                HeatMap.longitude == longitude,
                 HeatMap.target_date == current_target_date,
             )
             existing_entry = db.exec(statement).first()
@@ -167,6 +173,8 @@ def forecast_demand(
                 new_entry = HeatMap(
                     address=address,
                     product=product,
+                    latitude=latitude,
+                    longitude=longitude,
                     daily_demand=daily_demand,
                     target_date=current_target_date,
                 )
@@ -177,6 +185,8 @@ def forecast_demand(
         return {
             'Store Address': address,
             'Product': product,
+            'Latitude': latitude,
+            'Longitude': longitude,
             'Forecast Horizon': horizon,
             'Daily Forecast': forecast,
             'Total Demand': total_demand,
